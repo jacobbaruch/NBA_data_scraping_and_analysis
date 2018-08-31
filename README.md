@@ -39,4 +39,5 @@ Scrapping info about head coaches, starting from 1947 to 2018
 # Acknowledgements
 
 Player of thr week - scrapped from [basketball real GM](https://basketball.realgm.com/)
+
 Head coaches of all time - scrapped from [basketball real GM](https://basketball.realgm.com/nba/staff-members/20/Head-Coach/Historical)

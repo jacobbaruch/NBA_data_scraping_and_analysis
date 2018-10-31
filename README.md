@@ -1,7 +1,7 @@
-# NBA_scrapping_analysis
+# NBA_scraping_analysis
 
 ## Player of the week
-Scrapping award data at seasons 1984-1985 to 2017-2018.
+Scraping award data at seasons 1984-1985 to 2017-2018.
 
 #### Parameters
 
@@ -20,7 +20,7 @@ Scrapping award data at seasons 1984-1985 to 2017-2018.
  | Real Value | If two awards given [east & west] on the same week the player gets 0.5 point else gets 1 point |
 
 ## Head coaches of all time
-Scrapping info about head coaches, starting from 1947 to 2018
+Scraping info about head coaches, starting from 1947 to 2018
 
 #### Parameters
 
@@ -38,6 +38,6 @@ Scrapping info about head coaches, starting from 1947 to 2018
  
 # Acknowledgements
 
-Player of thr week - scrapped from [basketball real GM](https://basketball.realgm.com/)
+Player of thr week - scraped from [basketball real GM](https://basketball.realgm.com/)
 
-Head coaches of all time - scrapped from [basketball real GM](https://basketball.realgm.com/nba/staff-members/20/Head-Coach/Historical)
+Head coaches of all time - scraped from [basketball real GM](https://basketball.realgm.com/nba/staff-members/20/Head-Coach/Historical)

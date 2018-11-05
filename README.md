@@ -1,8 +1,8 @@
 # NBA_scraping_analysis
 
 ## Player of the week
-Scraping award data at seasons 1984-1985 to 2017-2018.
-
+* Scraping award data at seasons 1984-1985 to 2017-2018.
+* Analysis award behavior
 #### Parameters
 
  | Parameter |	Description	|

@@ -1,7 +1,7 @@
 # NBA_scraping_analysis
 
 ## Player of the week
-* Scraping award data at seasons 1984-5 to 2018-9 - due to Nov. 25, 2018.
+* Scraping award data at seasons 1984-5 to 2018-9.
 * Analysis award behavior
 #### Parameters
 

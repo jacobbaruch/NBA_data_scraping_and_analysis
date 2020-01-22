@@ -2,7 +2,7 @@
 You can find the full data sets that I scraped, my analysis and others on [Kaggle Profile](https://www.kaggle.com/jacobbaruch)
 
 ## Player of the week
-* Scraping award data at seasons 1984-5 to 2018-9.
+* Scraping award data at seasons 1979-80 to 2019-20.
 * Analysis award behavior
 #### Parameters
 
@@ -12,12 +12,12 @@ You can find the full data sets that I scraped, my analysis and others on [Kaggl
  | Conference | |
  | Date | |
  | Draft Year | |
- | Height | Feet |
+ | Height | Feet / CM |
  | Player | |
  | Position | |
  | Season | |
  | Season Short | |
- | Weight | Pounds |
+ | Weight | Pounds / KG|
  | Real Value | If two awards given [east & west] on the same week the player gets 0.5 point else gets 1 point |
 
 ## Head coaches of all time

@@ -1,4 +1,8 @@
 Player,Team,Conference,Date,Position,Height,Weight,Age,Draft Year,Seasons in league,Season,Season short,Pre-draft Team,Real_value,Height CM,Weight KG,Last Season
+Norman Powell,Toronto Raptors,East,"Mar 9, 2020",SG,6'4,215,26,2015,4,2019-2020,2020,UCLA,0.5,193,97,1
+LeBron James,Los Angeles Lakers,West,"Mar 9, 2020",F,6'8,250,35,2003,16,2019-2020,2020,St. Vincent St. Mary High School (Ohio),0.5,203,113,1
+Giannis Antetokounmpo,Milwaukee Bucks,East,"Mar 2, 2020",F,6'11,242,25,2013,6,2019-2020,2020,Filathlitikos Div II Greece (Greece),0.5,211,109,1
+Kristaps Porzingis,Dallas Mavericks,West,"Mar 2, 2020",FC,7'3,240,24,2015,4,2019-2020,2020,Real Betis Energia Plus (Spain),0.5,221,108,1
 Jayson Tatum,Boston Celtics,East,"Feb 10, 2020",SF,6'8,208,21,2017,2,2019-2020,2020,Duke,0.5,203,94,1
 Nikola Jokic,Denver Nuggets,West,"Feb 10, 2020",C,7'0,250,25,2014,4,2019-2020,2020,KK Mega Bemax (Serbia),0.5,213,113,1
 Jaylen Brown,Boston Celtics,East,"Feb 3, 2020",SF,6'7,220,23,2016,3,2019-2020,2020,California,0.5,201,99,1
@@ -838,504 +842,504 @@ Vince Carter,Toronto Raptors,East,"Nov 11, 2001",SF,6'6,220,25,1998,3,2001-2002,
 Tim Duncan,San Antonio Spurs,West,"Nov 11, 2001",FC,6'11,250,25,1997,4,2001-2002,2002,Wake Forest,0.5,211,113,0
 Ray Allen,Milwaukee Bucks,East,"Nov 4, 2001",SG,6'5,205,26,1996,5,2001-2002,2002,Connecticut,0.5,196,93,0
 Kobe Bryant,Los Angeles Lakers,West,"Nov 4, 2001",SG,6'6,212,23,1996,5,2001-2002,2002,Lower Merion High School (Pennsylvania),0.5,198,96,0
-Ray Allen,Milwaukee Bucks,,"Apr 15, 2001",SG,6'5,205,25,1996,4,2000-2001,2001,Connecticut,1,196,93,0
-Shaquille O'Neal,Los Angeles Lakers,,"Apr 8, 2001",C,7'1,325,28,1992,8,2000-2001,2001,LSU,1,216,147,0
-Jason Kidd,Phoenix Suns,,"Apr 1, 2001",PG,6'4,210,27,1994,6,2000-2001,2001,California,1,193,95,0
-Paul Pierce,Boston Celtics,,"Mar 25, 2001",SF,6'7,235,23,1998,2,2000-2001,2001,Kansas,1,201,106,0
-Cuttino Mobley,Houston Rockets,,"Mar 18, 2001",G,6'4,190,25,1998,2,2000-2001,2001,Rhode Island,1,193,86,0
-Derek Anderson,San Antonio Spurs,,"Mar 11, 2001",G,6'5,194,26,1997,3,2000-2001,2001,Kentucky,1,196,88,0
-Vince Carter,Toronto Raptors,,"Mar 4, 2001",SF,6'6,220,24,1998,2,2000-2001,2001,North Carolina,1,198,99,0
-Shawn Marion,Phoenix Suns,,"Feb 25, 2001",F,6'7,228,22,1999,1,2000-2001,2001,UNLV,1,201,103,0
-Allen Iverson,Philadelphia Sixers,,"Feb 18, 2001",G,6'0,165,25,1996,4,2000-2001,2001,Georgetown,1,183,74,0
-Darrell Armstrong,Orlando Magic,,"Feb 4, 2001",PG,6'0,170,32,1991,6,2000-2001,2001,Fayetteville State,1,183,77,0
-Tim Duncan,San Antonio Spurs,,"Jan 28, 2001",FC,6'11,250,24,1997,3,2000-2001,2001,Wake Forest,1,211,113,0
-Chris Webber,Sacramento Kings,,"Jan 22, 2001",F-C,6'9,245,28,1993,7,2000-2001,2001,Michigan,1,206,111,0
-Steve Francis,Houston Rockets,,"Jan 14, 2001",G,6'3,195,24,1999,1,2000-2001,2001,Maryland,1,190,88,0
-Allen Iverson,Philadelphia Sixers,,"Jan 7, 2001",G,6'0,165,25,1996,4,2000-2001,2001,Georgetown,1,183,74,0
-Aaron McKie,Philadelphia Sixers,,"Dec 31, 2000",G,6'5,209,28,1994,6,2000-2001,2001,Temple,1,196,94,0
-Kobe Bryant,Los Angeles Lakers,,"Dec 24, 2000",SG,6'6,212,22,1996,4,2000-2001,2001,Lower Merion High School (Pennsylvania),1,198,96,0
-Glenn Robinson,Milwaukee Bucks,,"Dec 17, 2000",SF,6'7,225,28,1994,6,2000-2001,2001,Purdue,1,201,102,0
-Chris Webber,Sacramento Kings,,"Dec 10, 2000",F-C,6'9,245,28,1993,7,2000-2001,2001,Michigan,1,206,111,0
-Antonio McDyess,Denver Nuggets,,"Dec 3, 2000",F,6'9,245,26,1995,5,2000-2001,2001,Alabama,1,206,111,0
-Baron Davis,Charlotte Hornets,,"Nov 26, 2000",G,6'3,215,21,1999,1,2000-2001,2001,UCLA,1,190,97,0
-Kevin Garnett,Minnesota Timberwolves,,"Nov 19, 2000",PF,6'11,240,24,1995,5,2000-2001,2001,Farragut Career Academy (Illinois),1,211,108,0
-Stephon Marbury,New Jersey Nets,,"Nov 12, 2000",G,6'2,180,24,1996,4,2000-2001,2001,Georgia Tech,1,188,81,0
-Karl Malone,Utah Jazz,,"Nov 6, 2000",PF,6'9,265,37,1985,15,2000-2001,2001,Louisiana Tech,1,206,120,0
-John Stockton,Utah Jazz,,"Nov 6, 2000",PG,6'1,170,38,1984,16,2000-2001,2001,Gonzaga,1,185,77,0
-Kobe Bryant,Los Angeles Lakers,,"Apr 17, 2000",SG,6'6,212,21,1996,3,1999-2000,2000,Lower Merion High School (Pennsylvania),1,198,96,0
-Alonzo Mourning,Miami Heat,,"Apr 10, 2000",C,6'10,240,30,1992,7,1999-2000,2000,Georgetown,1,208,108,0
-Tim Duncan,San Antonio Spurs,,"Apr 3, 2000",FC,6'11,250,23,1997,2,1999-2000,2000,Wake Forest,1,211,113,0
-Kevin Garnett,Minnesota Timberwolves,,"Mar 27, 2000",PF,6'11,240,23,1995,4,1999-2000,2000,Farragut Career Academy (Illinois),1,211,108,0
-Jalen Rose,Indiana Pacers,,"Mar 20, 2000",G,6'8,210,27,1994,5,1999-2000,2000,Michigan,1,203,95,0
-Shaquille O'Neal,Los Angeles Lakers,,"Mar 13, 2000",C,7'1,325,27,1992,7,1999-2000,2000,LSU,1,216,147,0
-Karl Malone,Utah Jazz,,"Mar 6, 2000",PF,6'9,265,36,1985,14,1999-2000,2000,Louisiana Tech,1,206,120,0
-Vince Carter,Toronto Raptors,,"Feb 28, 2000",SF,6'6,220,23,1998,1,1999-2000,2000,North Carolina,1,198,99,0
-Shaquille O'Neal,Los Angeles Lakers,,"Feb 22, 2000",C,7'1,325,27,1992,7,1999-2000,2000,LSU,1,216,147,0
-Michael Finley,Dallas Mavericks,,"Feb 7, 2000",G-F,6'7,225,26,1995,4,1999-2000,2000,Wisconsin,1,201,102,0
-Dikembe Mutombo,Atlanta Hawks,,"Jan 31, 2000",C,7'2,260,33,1991,8,1999-2000,2000,Georgetown,1,218,118,0
-Steve Francis,Houston Rockets,,"Jan 24, 2000",G,6'3,195,23,1999,0,1999-2000,2000,Maryland,1,190,88,0
-Chris Webber,Sacramento Kings,,"Jan 17, 2000",F-C,6'9,245,27,1993,6,1999-2000,2000,Michigan,1,206,111,0
-Grant Hill,Detroit Pistons,,"Jan 10, 2000",SF,6'8,225,27,1994,5,1999-2000,2000,Duke,1,203,102,0
-Chris Webber,Sacramento Kings,,"Jan 3, 2000",F-C,6'9,245,27,1993,6,1999-2000,2000,Michigan,1,206,111,0
-Kevin Garnett,Minnesota Timberwolves,,"Dec 27, 1999",PF,6'11,240,23,1995,4,1999-2000,2000,Farragut Career Academy (Illinois),1,211,108,0
-Jason Kidd,Phoenix Suns,,"Dec 20, 1999",PG,6'4,210,26,1994,5,1999-2000,2000,California,1,193,95,0
-Alonzo Mourning,Miami Heat,,"Dec 13, 1999",C,6'10,240,30,1992,7,1999-2000,2000,Georgetown,1,208,108,0
-Shaquille O'Neal,Los Angeles Lakers,,"Dec 5, 1999",C,7'1,325,27,1992,7,1999-2000,2000,LSU,1,216,147,0
-Tim Duncan,San Antonio Spurs,,"Nov 28, 1999",FC,6'11,250,23,1997,2,1999-2000,2000,Wake Forest,1,211,113,0
-Vince Carter,Toronto Raptors,,"Nov 21, 1999",SF,6'6,220,23,1998,1,1999-2000,2000,North Carolina,1,198,99,0
-Kevin Garnett,Minnesota Timberwolves,,"Nov 14, 1999",PF,6'11,240,23,1995,4,1999-2000,2000,Farragut Career Academy (Illinois),1,211,108,0
-Sam Cassell,Milwaukee Bucks,,"Nov 7, 1999",G,6'3,185,30,1993,6,1999-2000,2000,Florida State,1,190,83,0
-Grant Hill,Detroit Pistons,,"May 2, 1999",SF,6'8,225,26,1994,4,1998-1999,1999,Duke,1,203,102,0
-Chris Webber,Sacramento Kings,,"Apr 25, 1999",F-C,6'9,245,25,1993,5,1998-1999,1999,Michigan,1,206,111,0
-Jason Kidd,Phoenix Suns,,"Apr 18, 1999",PG,6'4,210,25,1994,4,1998-1999,1999,California,1,193,95,0
-Karl Malone,Utah Jazz,,"Apr 11, 1999",PF,6'9,265,35,1985,13,1998-1999,1999,Louisiana Tech,1,206,120,0
-Kevin Garnett,Minnesota Timberwolves,,"Apr 4, 1999",PF,6'11,240,22,1995,3,1998-1999,1999,Farragut Career Academy (Illinois),1,211,108,0
-Darrell Armstrong,Orlando Magic,,"Mar 28, 1999",PG,6'0,170,30,1991,4,1998-1999,1999,Fayetteville State,1,183,77,0
-Vince Carter,Toronto Raptors,,"Mar 21, 1999",SF,6'6,220,22,1998,0,1998-1999,1999,North Carolina,1,198,99,0
-Alonzo Mourning,Miami Heat,,"Mar 14, 1999",C,6'10,240,29,1992,6,1998-1999,1999,Georgetown,1,208,108,0
-Tim Duncan,San Antonio Spurs,,"Mar 7, 1999",FC,6'11,250,22,1997,1,1998-1999,1999,Wake Forest,1,211,113,0
-Antonio McDyess,Denver Nuggets,,"Feb 28, 1999",F,6'9,245,24,1995,3,1998-1999,1999,Alabama,1,206,111,0
-Stephon Marbury,Minnesota Timberwolves,,"Feb 21, 1999",G,6'2,180,22,1996,2,1998-1999,1999,Georgia Tech,1,188,81,0
-Gary Payton,Seattle SuperSonics,,"Feb 14, 1999",G,6'4,180,30,1990,8,1998-1999,1999,Oregon State,1,193,81,0
-Dikembe Mutombo,Atlanta Hawks,,"Feb 7, 1999",C,7'2,260,32,1991,7,1998-1999,1999,Georgetown,1,218,118,0
-Jason Kidd,Phoenix Suns,,"Apr 19, 1998",PG,6'4,210,24,1994,3,1997-1998,1998,California,1,193,95,0
-Sam Cassell,New Jersey Nets,,"Apr 12, 1998",G,6'3,185,28,1993,4,1997-1998,1998,Florida State,1,190,83,0
-Michael Jordan,Chicago Bulls,,"Apr 5, 1998",SG,6'6,215,35,1984,12,1997-1998,1998,North Carolina,1,198,97,0
-Alonzo Mourning,Miami Heat,,"Mar 29, 1998",C,6'10,240,28,1992,5,1997-1998,1998,Georgetown,1,208,108,0
-Shaquille O'Neal,Los Angeles Lakers,,"Mar 22, 1998",C,7'1,325,25,1992,5,1997-1998,1998,LSU,1,216,147,0
-Jason Kidd,Phoenix Suns,,"Mar 15, 1998",PG,6'4,210,24,1994,3,1997-1998,1998,California,1,193,95,0
-Karl Malone,Utah Jazz,,"Mar 8, 1998",PF,6'9,265,34,1985,12,1997-1998,1998,Louisiana Tech,1,206,120,0
-Tim Duncan,San Antonio Spurs,,"Mar 1, 1998",FC,6'11,250,21,1997,0,1997-1998,1998,Wake Forest,1,211,113,0
-Nick Anderson,Orlando Magic,,"Feb 22, 1998",GF,6'6,228,30,1989,8,1997-1998,1998,Illinois,1,198,103,0
-Karl Malone,Utah Jazz,,"Feb 15, 1998",PF,6'9,265,34,1985,12,1997-1998,1998,Louisiana Tech,1,206,120,0
-David Robinson,San Antonio Spurs,,"Feb 1, 1998",C,7'1,250,32,1987,8,1997-1998,1998,Navy,1,216,113,0
-Jayson Williams,New Jersey Nets,,"Jan 25, 1998",FC,6'10,245,30,1990,7,1997-1998,1998,St. John's,1,208,111,0
-Allen Iverson,Philadelphia Sixers,,"Jan 18, 1998",G,6'0,165,22,1996,1,1997-1998,1998,Georgetown,1,183,74,0
-Steve Smith,Atlanta Hawks,,"Jan 11, 1998",SG,6'7,200,28,1991,6,1997-1998,1998,Michigan State,1,201,90,0
-Rik Smits,Indiana Pacers,,"Jan 4, 1998",C,7'4,250,31,1988,9,1997-1998,1998,Marist,1,224,113,0
-David Robinson,San Antonio Spurs,,"Dec 28, 1997",C,7'1,250,32,1987,8,1997-1998,1998,Navy,1,216,113,0
-Michael Jordan,Chicago Bulls,,"Dec 21, 1997",SG,6'6,215,35,1984,12,1997-1998,1998,North Carolina,1,198,97,0
-Glen Rice,Charlotte Hornets,,"Dec 14, 1997",SF,6'8,228,30,1989,8,1997-1998,1998,Michigan,1,203,103,0
-Wesley Person,Cleveland Cavaliers,,"Dec 7, 1997",SG,6'6,195,26,1994,3,1997-1998,1998,Auburn,1,198,88,0
-Karl Malone,Utah Jazz,,"Nov 30, 1997",PF,6'9,265,34,1985,12,1997-1998,1998,Louisiana Tech,1,206,120,0
-Michael Jordan,Chicago Bulls,,"Nov 23, 1997",SG,6'6,215,35,1984,12,1997-1998,1998,North Carolina,1,198,97,0
-Shaquille O'Neal,Los Angeles Lakers,,"Nov 16, 1997",C,7'1,325,25,1992,5,1997-1998,1998,LSU,1,216,147,0
-Dikembe Mutombo,Atlanta Hawks,,"Nov 9, 1997",C,7'2,260,31,1991,6,1997-1998,1998,Georgetown,1,218,118,0
-Chris Webber,Washington Bullets,,"Apr 20, 1997",F-C,6'9,245,24,1993,3,1996-1997,1997,Michigan,1,206,111,0
-Allen Iverson,Philadelphia Sixers,,"Apr 13, 1997",G,6'0,165,21,1996,0,1996-1997,1997,Georgetown,1,183,74,0
-Grant Hill,Detroit Pistons,,"Apr 6, 1997",SF,6'8,225,24,1994,2,1996-1997,1997,Duke,1,203,102,0
-Kevin Johnson,Phoenix Suns,,"Mar 30, 1997",PG,6'1,180,30,1987,9,1996-1997,1997,California,1,185,81,0
-Karl Malone,Utah Jazz,,"Mar 23, 1997",PF,6'9,265,33,1985,11,1996-1997,1997,Louisiana Tech,1,206,120,0
-Karl Malone,Utah Jazz,,"Mar 16, 1997",PF,6'9,265,33,1985,11,1996-1997,1997,Louisiana Tech,1,206,120,0
-Patrick Ewing,New York Knicks,,"Mar 9, 1997",C,7'0,240,34,1985,11,1996-1997,1997,Georgetown,1,213,108,0
-Loy Vaught,Los Angeles Clippers,,"Mar 2, 1997",PF,6'9,230,30,1990,6,1996-1997,1997,Michigan,1,206,104,0
-Scottie Pippen,Chicago Bulls,,"Feb 23, 1997",SF,6'8,228,31,1987,9,1996-1997,1997,Central Arkansas,1,203,103,0
-Alonzo Mourning,Miami Heat,,"Feb 16, 1997",C,6'10,240,27,1992,4,1996-1997,1997,Georgetown,1,208,108,0
-Glen Rice,Charlotte Hornets,,"Feb 2, 1997",SF,6'8,228,29,1989,7,1996-1997,1997,Michigan,1,203,103,0
-Mitch Richmond,Sacramento Kings,,"Jan 26, 1997",SG,6'5,215,31,1988,8,1996-1997,1997,Kansas State,1,196,97,0
-Grant Hill,Detroit Pistons,,"Jan 19, 1997",SF,6'8,225,24,1994,2,1996-1997,1997,Duke,1,203,102,0
-Glenn Robinson,Milwaukee Bucks,,"Jan 12, 1997",SF,6'7,225,24,1994,2,1996-1997,1997,Purdue,1,201,102,0
-Glen Rice,Charlotte Hornets,,"Jan 5, 1997",SF,6'8,228,29,1989,7,1996-1997,1997,Michigan,1,203,103,0
-Tim Hardaway,Miami Heat,,"Dec 29, 1996",PG,6'0,175,30,1989,7,1996-1997,1997,UTEP,1,183,79,0
-Terrell Brandon,Cleveland Cavaliers,,"Dec 22, 1996",PG,5'11,180,26,1991,5,1996-1997,1997,Oregon,1,180,81,0
-Shaquille O'Neal,Los Angeles Lakers,,"Dec 15, 1996",C,7'1,325,24,1992,4,1996-1997,1997,LSU,1,216,147,0
-Terry Mills,Detroit Pistons,,"Dec 8, 1996",PF,6'10,230,29,1990,6,1996-1997,1997,Michigan,1,208,104,0
-Dikembe Mutombo,Atlanta Hawks,,"Dec 1, 1996",C,7'2,260,30,1991,5,1996-1997,1997,Georgetown,1,218,118,0
-Charles Barkley,Houston Rockets,,"Nov 24, 1996",PF,6'6,252,34,1984,12,1996-1997,1997,Auburn,1,198,114,0
-Karl Malone,Utah Jazz,,"Nov 24, 1996",PF,6'9,265,33,1985,11,1996-1997,1997,Louisiana Tech,1,206,120,0
-Dale Ellis,Denver Nuggets,,"Nov 17, 1996",GF,6'7,205,36,1983,13,1996-1997,1997,Tennessee,1,201,93,0
-Hakeem Olajuwon,Houston Rockets,,"Nov 10, 1996",C,7'0,255,34,1984,12,1996-1997,1997,Houston,1,213,115,0
-Dennis Scott,Orlando Magic,,"Apr 21, 1996",SF,6'8,229,27,1990,5,1995-1996,1996,Georgia Tech,1,203,103,0
-Juwan Howard,Washington Bullets,,"Apr 14, 1996",PF,6'9,240,23,1994,1,1995-1996,1996,Michigan,1,206,108,0
-Kevin Johnson,Phoenix Suns,,"Apr 7, 1996",PG,6'1,180,29,1987,8,1995-1996,1996,California,1,185,81,0
-Arvydas Sabonis,Portland Trail Blazers,,"Mar 31, 1996",C,7'3,279,31,1986,0,1995-1996,1996,Zalgiris (Lithuania),1,221,126,0
-Chris Gatling,Miami Heat,,"Mar 24, 1996",PF,6'10,220,28,1991,4,1995-1996,1996,Old Dominion,1,208,99,0
-Grant Hill,Detroit Pistons,,"Mar 17, 1996",SF,6'8,225,23,1994,1,1995-1996,1996,Duke,1,203,102,0
-Michael Jordan,Chicago Bulls,,"Mar 10, 1996",SG,6'6,215,33,1984,10,1995-1996,1996,North Carolina,1,198,97,0
-Shaquille O'Neal,Orlando Magic,,"Mar 3, 1996",C,7'1,325,23,1992,3,1995-1996,1996,LSU,1,216,147,0
-Hakeem Olajuwon,Houston Rockets,,"Mar 3, 1996",C,7'0,255,33,1984,11,1995-1996,1996,Houston,1,213,115,0
-Shawn Kemp,Seattle SuperSonics,,"Feb 25, 1996",C,6'10,280,26,1989,6,1995-1996,1996,Trinity Valley CC,1,208,127,0
-Armen Gilliam,New Jersey Nets,,"Feb 18, 1996",PF,6'9,230,31,1987,8,1995-1996,1996,UNLV,1,206,104,0
-Jason Kidd,Dallas Mavericks,,"Feb 4, 1996",PG,6'4,210,22,1994,1,1995-1996,1996,California,1,193,95,0
-Reggie Miller,Indiana Pacers,,"Jan 28, 1996",SG,6'7,185,30,1987,8,1995-1996,1996,UCLA,1,201,83,0
-Michael Jordan,Chicago Bulls,,"Jan 21, 1996",SG,6'6,215,33,1984,10,1995-1996,1996,North Carolina,1,198,97,0
-David Robinson,San Antonio Spurs,,"Jan 14, 1996",C,7'1,250,30,1987,6,1995-1996,1996,Navy,1,216,113,0
-Cliff Robinson,Portland Trail Blazers,,"Jan 7, 1996",PF,6'10,225,29,1989,6,1995-1996,1996,Connecticut,1,208,102,0
-Karl Malone,Utah Jazz,,"Dec 31, 1995",PF,6'9,265,32,1985,10,1995-1996,1996,Louisiana Tech,1,206,120,0
-Michael Jordan,Chicago Bulls,,"Dec 24, 1995",SG,6'6,215,33,1984,10,1995-1996,1996,North Carolina,1,198,97,0
-Scottie Pippen,Chicago Bulls,,"Dec 17, 1995",SF,6'8,228,30,1987,8,1995-1996,1996,Central Arkansas,1,203,103,0
-Dikembe Mutombo,Denver Nuggets,,"Dec 10, 1995",C,7'2,260,29,1991,4,1995-1996,1996,Georgetown,1,218,118,0
-Terrell Brandon,Cleveland Cavaliers,,"Dec 3, 1995",PG,5'11,180,25,1991,4,1995-1996,1996,Oregon,1,180,81,0
-Shawn Kemp,Seattle SuperSonics,,"Nov 26, 1995",C,6'10,280,26,1989,6,1995-1996,1996,Trinity Valley CC,1,208,127,0
-Cedric Ceballos,Los Angeles Lakers,,"Nov 19, 1995",SF,6'6,190,26,1990,5,1995-1996,1996,Cal State Fullerton,1,198,86,0
-Penny Hardaway,Orlando Magic,,"Nov 12, 1995",PG,6'7,195,24,1993,2,1995-1996,1996,Memphis,1,201,88,0
-Karl Malone,Utah Jazz,,"Apr 23, 1995",PF,6'9,265,31,1985,9,1994-1995,1995,Louisiana Tech,1,206,120,0
-Dikembe Mutombo,Denver Nuggets,,"Apr 16, 1995",C,7'2,260,28,1991,3,1994-1995,1995,Georgetown,1,218,118,0
-Clyde Drexler,Houston Rockets,,"Apr 9, 1995",SG,6'7,210,32,1983,11,1994-1995,1995,Houston,1,201,95,0
-David Robinson,San Antonio Spurs,,"Apr 2, 1995",C,7'1,250,29,1987,5,1994-1995,1995,Navy,1,216,113,0
-Vlade Divac,Los Angeles Lakers,,"Mar 26, 1995",C,7'1,260,27,1989,5,1994-1995,1995,KK Partizan (Serbia),1,216,118,0
-Jason Kidd,Dallas Mavericks,,"Mar 19, 1995",PG,6'4,210,21,1994,0,1994-1995,1995,California,1,193,95,0
-Rik Smits,Indiana Pacers,,"Mar 12, 1995",C,7'4,250,28,1988,6,1994-1995,1995,Marist,1,224,113,0
-Shaquille O'Neal,Orlando Magic,,"Mar 5, 1995",C,7'1,325,22,1992,2,1994-1995,1995,LSU,1,216,147,0
-Rod Strickland,Portland Trail Blazers,,"Feb 26, 1995",PG,6'3,175,28,1988,6,1994-1995,1995,DePaul,1,190,79,0
-Charles Barkley,Phoenix Suns,,"Feb 19, 1995",PF,6'6,252,32,1984,10,1994-1995,1995,Auburn,1,198,114,0
-Hakeem Olajuwon,Houston Rockets,,"Feb 5, 1995",C,7'0,255,32,1984,10,1994-1995,1995,Houston,1,213,115,0
-John Stockton,Utah Jazz,,"Jan 29, 1995",PG,6'1,170,32,1984,10,1994-1995,1995,Gonzaga,1,185,77,0
-Patrick Ewing,New York Knicks,,"Jan 22, 1995",C,7'0,240,32,1985,9,1994-1995,1995,Georgetown,1,213,108,0
-Larry Johnson,Charlotte Hornets,,"Jan 15, 1995",F,6'6,250,25,1991,3,1994-1995,1995,UNLV,1,198,113,0
-Gary Payton,Seattle SuperSonics,,"Jan 8, 1995",G,6'4,180,26,1990,4,1994-1995,1995,Oregon State,1,193,81,0
-Hakeem Olajuwon,Houston Rockets,,"Jan 1, 1995",C,7'0,255,32,1984,10,1994-1995,1995,Houston,1,213,115,0
-Cedric Ceballos,Los Angeles Lakers,,"Dec 25, 1994",SF,6'6,190,25,1990,4,1994-1995,1995,Cal State Fullerton,1,198,86,0
-Karl Malone,Utah Jazz,,"Dec 18, 1994",PF,6'9,265,31,1985,9,1994-1995,1995,Louisiana Tech,1,206,120,0
-Jamal Mashburn,Dallas Mavericks,,"Dec 11, 1994",SF,6'8,247,22,1993,1,1994-1995,1995,Kentucky,1,203,112,0
-Shaquille O'Neal,Orlando Magic,,"Dec 4, 1994",C,7'1,325,22,1992,2,1994-1995,1995,LSU,1,216,147,0
-Penny Hardaway,Orlando Magic,,"Nov 27, 1994",PG,6'7,195,23,1993,1,1994-1995,1995,Memphis,1,201,88,0
-Elliot Perry,Phoenix Suns,,"Nov 20, 1994",PG,6'0,150,25,1991,3,1994-1995,1995,Memphis,1,183,68,0
-Tim Hardaway,Golden State Warriors,,"Nov 13, 1994",PG,6'0,175,28,1989,5,1994-1995,1995,UTEP,1,183,79,0
-David Robinson,San Antonio Spurs,,"Apr 24, 1994",C,7'1,250,28,1987,4,1993-1994,1994,Navy,1,216,113,0
-Scottie Pippen,Chicago Bulls,,"Apr 17, 1994",SF,6'8,228,28,1987,6,1993-1994,1994,Central Arkansas,1,203,103,0
-Dikembe Mutombo,Denver Nuggets,,"Apr 10, 1994",C,7'2,260,27,1991,2,1993-1994,1994,Georgetown,1,218,118,0
-Shawn Kemp,Seattle SuperSonics,,"Apr 3, 1994",C,6'10,280,24,1989,4,1993-1994,1994,Trinity Valley CC,1,208,127,0
-Kevin Willis,Atlanta Hawks,,"Mar 27, 1994",C,7'0,245,31,1984,9,1993-1994,1994,Michigan State,1,213,111,0
-Hakeem Olajuwon,Houston Rockets,,"Mar 20, 1994",C,7'0,255,31,1984,9,1993-1994,1994,Houston,1,213,115,0
-Joe Dumars,Detroit Pistons,,"Mar 13, 1994",SG,6'3,190,30,1985,8,1993-1994,1994,McNeese State,1,190,86,0
-David Robinson,San Antonio Spurs,,"Mar 6, 1994",C,7'1,250,28,1987,4,1993-1994,1994,Navy,1,216,113,0
-Shawn Kemp,Seattle SuperSonics,,"Feb 27, 1994",C,6'10,280,24,1989,4,1993-1994,1994,Trinity Valley CC,1,208,127,0
-David Robinson,San Antonio Spurs,,"Feb 20, 1994",C,7'1,250,28,1987,4,1993-1994,1994,Navy,1,216,113,0
-David Robinson,San Antonio Spurs,,"Feb 6, 1994",C,7'1,250,28,1987,4,1993-1994,1994,Navy,1,216,113,0
-Ron Harper,Los Angeles Clippers,,"Jan 30, 1994",SG,6'6,185,30,1986,7,1993-1994,1994,Miami (OH),1,198,83,0
-Kenny Anderson,New Jersey Nets,,"Jan 23, 1994",PG,6'0,168,23,1991,2,1993-1994,1994,Georgia Tech,1,183,76,0
-Patrick Ewing,New York Knicks,,"Jan 16, 1994",C,7'0,240,31,1985,8,1993-1994,1994,Georgetown,1,213,108,0
-Chris Webber,Golden State Warriors,,"Jan 9, 1994",F-C,6'9,245,20,1993,0,1993-1994,1994,Michigan,1,206,111,0
-Oliver Miller,Phoenix Suns,,"Jan 2, 1994",C,6'9,280,23,1992,1,1993-1994,1994,Arkansas,1,206,127,0
-Scottie Pippen,Chicago Bulls,,"Dec 26, 1993",SF,6'8,228,28,1987,6,1993-1994,1994,Central Arkansas,1,203,103,0
-Karl Malone,Utah Jazz,,"Dec 19, 1993",PF,6'9,265,30,1985,8,1993-1994,1994,Louisiana Tech,1,206,120,0
-Shaquille O'Neal,Orlando Magic,,"Dec 12, 1993",C,7'1,325,21,1992,1,1993-1994,1994,LSU,1,216,147,0
-David Robinson,San Antonio Spurs,,"Dec 5, 1993",C,7'1,250,28,1987,4,1993-1994,1994,Navy,1,216,113,0
-Glen Rice,Miami Heat,,"Nov 28, 1993",SF,6'8,228,26,1989,4,1993-1994,1994,Michigan,1,203,103,0
-Charles Barkley,Phoenix Suns,,"Nov 21, 1993",PF,6'6,252,31,1984,9,1993-1994,1994,Auburn,1,198,114,0
-Hakeem Olajuwon,Houston Rockets,,"Nov 14, 1993",C,7'0,255,31,1984,9,1993-1994,1994,Houston,1,213,115,0
-Larry Johnson,Charlotte Hornets,,"Apr 25, 1993",F,6'6,250,23,1991,1,1992-1993,1993,UNLV,1,198,113,0
-Alonzo Mourning,Charlotte Hornets,,"Apr 18, 1993",C,6'10,240,23,1992,0,1992-1993,1993,Georgetown,1,208,108,0
-Hakeem Olajuwon,Houston Rockets,,"Apr 11, 1993",C,7'0,255,30,1984,8,1992-1993,1993,Houston,1,213,115,0
-Charles Barkley,Phoenix Suns,,"Apr 4, 1993",PF,6'6,252,30,1984,8,1992-1993,1993,Auburn,1,198,114,0
-Dikembe Mutombo,Denver Nuggets,,"Mar 28, 1993",C,7'2,260,26,1991,1,1992-1993,1993,Georgetown,1,218,118,0
-Patrick Ewing,New York Knicks,,"Mar 21, 1993",C,7'0,240,30,1985,7,1992-1993,1993,Georgetown,1,213,108,0
-Rumeal Robinson,New Jersey Nets,,"Mar 14, 1993",PG,6'2,195,26,1990,2,1992-1993,1993,Michigan,1,188,88,0
-Rony Seikaly,Miami Heat,,"Mar 7, 1993",C,6'11,230,27,1988,4,1992-1993,1993,Syracuse,1,211,104,0
-Hakeem Olajuwon,Houston Rockets,,"Feb 28, 1993",C,7'0,255,30,1984,8,1992-1993,1993,Houston,1,213,115,0
-Larry Johnson,Charlotte Hornets,,"Feb 14, 1993",F,6'6,250,23,1991,1,1992-1993,1993,UNLV,1,198,113,0
-Nick Anderson,Orlando Magic,,"Feb 7, 1993",GF,6'6,228,25,1989,3,1992-1993,1993,Illinois,1,198,103,0
-Karl Malone,Utah Jazz,,"Jan 31, 1993",PF,6'9,265,29,1985,7,1992-1993,1993,Louisiana Tech,1,206,120,0
-Patrick Ewing,New York Knicks,,"Jan 24, 1993",C,7'0,240,30,1985,7,1992-1993,1993,Georgetown,1,213,108,0
-Hakeem Olajuwon,Houston Rockets,,"Jan 17, 1993",C,7'0,255,30,1984,8,1992-1993,1993,Houston,1,213,115,0
-Shawn Kemp,Seattle SuperSonics,,"Jan 10, 1993",C,6'10,280,23,1989,3,1992-1993,1993,Trinity Valley CC,1,208,127,0
-David Robinson,San Antonio Spurs,,"Jan 3, 1993",C,7'1,250,27,1987,3,1992-1993,1993,Navy,1,216,113,0
-Sean Elliott,San Antonio Spurs,,"Dec 27, 1992",SF,6'8,205,25,1989,3,1992-1993,1993,Arizona,1,203,93,0
-Patrick Ewing,New York Knicks,,"Dec 20, 1992",C,7'0,240,30,1985,7,1992-1993,1993,Georgetown,1,213,108,0
-Charles Barkley,Phoenix Suns,,"Dec 13, 1992",PF,6'6,252,30,1984,8,1992-1993,1993,Auburn,1,198,114,0
-Drazen Petrovic,New Jersey Nets,,"Dec 6, 1992",SG,6'5,200,28,1986,3,1992-1993,1993,KK Cibona (Croatia),1,196,90,0
-David Robinson,San Antonio Spurs,,"Nov 29, 1992",C,7'1,250,27,1987,3,1992-1993,1993,Navy,1,216,113,0
-Michael Jordan,Chicago Bulls,,"Nov 22, 1992",SG,6'6,215,30,1984,8,1992-1993,1993,North Carolina,1,198,97,0
-Shaquille O'Neal,Orlando Magic,,"Nov 15, 1992",C,7'1,325,20,1992,0,1992-1993,1993,LSU,1,216,147,0
-Karl Malone,Utah Jazz,,"Apr 19, 1992",PF,6'9,265,28,1985,6,1991-1992,1992,Louisiana Tech,1,206,120,0
-Reggie Lewis,Boston Celtics,,"Apr 12, 1992",SF,6'7,195,26,1987,4,1991-1992,1992,Northeastern,1,201,88,0
-Mookie Blaylock,New Jersey Nets,,"Apr 5, 1992",PG,6'1,190,24,1989,2,1991-1992,1992,Oklahoma,1,185,86,0
-Mark Jackson,New York Knicks,,"Mar 29, 1992",PG,6'1,180,26,1987,4,1991-1992,1992,St. John's,1,185,81,0
-Larry Johnson,Charlotte Hornets,,"Mar 22, 1992",F,6'6,250,22,1991,0,1991-1992,1992,UNLV,1,198,113,0
-Joe Dumars,Detroit Pistons,,"Mar 15, 1992",SG,6'3,190,28,1985,6,1991-1992,1992,McNeese State,1,190,86,0
-Karl Malone,Utah Jazz,,"Mar 8, 1992",PF,6'9,265,28,1985,6,1991-1992,1992,Louisiana Tech,1,206,120,0
-Danny Manning,Los Angeles Clippers,,"Mar 1, 1992",F,6'10,230,25,1988,3,1991-1992,1992,Kansas,1,208,104,0
-Tim Hardaway,Golden State Warriors,,"Feb 23, 1992",PG,6'0,175,25,1989,2,1991-1992,1992,UTEP,1,183,79,0
-John Stockton,Utah Jazz,,"Feb 16, 1992",PG,6'1,170,29,1984,7,1991-1992,1992,Gonzaga,1,185,77,0
-Larry Nance,Cleveland Cavaliers,,"Feb 2, 1992",PF,6'10,205,33,1981,10,1991-1992,1992,Clemson,1,208,93,0
-Nick Anderson,Orlando Magic,,"Jan 26, 1992",GF,6'6,228,24,1989,2,1991-1992,1992,Illinois,1,198,103,0
-Tim Hardaway,Golden State Warriors,,"Jan 19, 1992",PG,6'0,175,25,1989,2,1991-1992,1992,UTEP,1,183,79,0
-Michael Jordan,Chicago Bulls,,"Jan 12, 1992",SG,6'6,215,29,1984,7,1991-1992,1992,North Carolina,1,198,97,0
-Patrick Ewing,New York Knicks,,"Jan 5, 1992",C,7'0,240,29,1985,6,1991-1992,1992,Georgetown,1,213,108,0
-Scottie Pippen,Chicago Bulls,,"Dec 29, 1991",SF,6'8,228,26,1987,4,1991-1992,1992,Central Arkansas,1,203,103,0
-Pervis Ellison,Washington Bullets,,"Dec 22, 1991",C,6'9,210,24,1989,2,1991-1992,1992,Louisville,1,206,95,0
-Dennis Rodman,Detroit Pistons,,"Dec 15, 1991",PF,6'7,210,30,1986,5,1991-1992,1992,Southeastern Oklahoma State,1,201,95,0
-Jeff Malone,Utah Jazz,,"Dec 8, 1991",SG,6'4,205,30,1983,8,1991-1992,1992,Mississippi State,1,193,93,0
-David Robinson,San Antonio Spurs,,"Dec 1, 1991",C,7'1,250,26,1987,2,1991-1992,1992,Navy,1,216,113,0
-Kevin Willis,Atlanta Hawks,,"Nov 24, 1991",C,7'0,245,29,1984,7,1991-1992,1992,Michigan State,1,213,111,0
-Brad Daugherty,Cleveland Cavaliers,,"Nov 17, 1991",C,7'0,245,26,1986,5,1991-1992,1992,North Carolina,1,213,111,0
-Chris Mullin,Golden State Warriors,,"Nov 10, 1991",SF,6'7,215,28,1985,6,1991-1992,1992,St. John's,1,201,97,0
-Scott Skiles,Orlando Magic,,"Apr 21, 1991",PG,6'1,180,26,1986,4,1990-1991,1991,Michigan State,1,185,81,0
-Clyde Drexler,Portland Trail Blazers,,"Apr 14, 1991",SG,6'7,210,28,1983,7,1990-1991,1991,Houston,1,201,95,0
-Magic Johnson,Los Angeles Lakers,,"Apr 7, 1991",PG,6'9,255,31,1979,11,1990-1991,1991,Michigan State,1,206,115,0
-Clyde Drexler,Portland Trail Blazers,,"Mar 31, 1991",SG,6'7,210,28,1983,7,1990-1991,1991,Houston,1,201,95,0
-Mitch Richmond,Golden State Warriors,,"Mar 24, 1991",SG,6'5,215,25,1988,2,1990-1991,1991,Kansas State,1,196,97,0
-Kenny Smith,Houston Rockets,,"Mar 17, 1991",PG,6'3,170,25,1987,3,1990-1991,1991,North Carolina,1,190,77,0
-Dennis Scott,Orlando Magic,,"Mar 10, 1991",SF,6'8,229,22,1990,0,1990-1991,1991,Georgia Tech,1,203,103,0
-Gerald Wilkins,New York Knicks,,"Mar 3, 1991",SG,6'6,185,27,1985,5,1990-1991,1991,Chattanooga,1,198,83,0
-Reggie Miller,Indiana Pacers,,"Feb 24, 1991",SG,6'7,185,25,1987,3,1990-1991,1991,UCLA,1,201,83,0
-Lionel Simmons,Sacramento Kings,,"Feb 17, 1991",SF,6'7,210,22,1990,0,1990-1991,1991,La Salle,1,201,95,0
-Otis Thorpe,Houston Rockets,,"Feb 3, 1991",PF,6'9,225,28,1984,6,1990-1991,1991,Providence,1,206,102,0
-Michael Adams,Denver Nuggets,,"Jan 27, 1991",PG,5'10,163,28,1985,5,1990-1991,1991,Boston College,1,178,74,0
-Tim Hardaway,Golden State Warriors,,"Jan 20, 1991",PG,6'0,175,24,1989,1,1990-1991,1991,UTEP,1,183,79,0
-Bernard King,Washington Bullets,,"Jan 13, 1991",SF,6'7,205,34,1977,13,1990-1991,1991,Tennessee,1,201,93,0
-Dominique Wilkins,Atlanta Hawks,,"Jan 6, 1991",SF,6'7,200,31,1982,8,1990-1991,1991,Georgia,1,201,90,0
-Ricky Pierce,Milwaukee Bucks,,"Dec 30, 1990",SG,6'4,205,31,1982,8,1990-1991,1991,Rice,1,193,93,0
-Michael Jordan,Chicago Bulls,,"Dec 23, 1990",SG,6'6,215,28,1984,6,1990-1991,1991,North Carolina,1,198,97,0
-Kevin Johnson,Phoenix Suns,,"Dec 16, 1990",PG,6'1,180,24,1987,3,1990-1991,1991,California,1,185,81,0
-John Stockton,Utah Jazz,,"Dec 9, 1990",PG,6'1,170,28,1984,6,1990-1991,1991,Gonzaga,1,185,77,0
-Michael Jordan,Chicago Bulls,,"Dec 2, 1990",SG,6'6,215,28,1984,6,1990-1991,1991,North Carolina,1,198,97,0
-Charles Barkley,Philadelphia Sixers,,"Nov 25, 1990",PF,6'6,252,28,1984,6,1990-1991,1991,Auburn,1,198,114,0
-Clyde Drexler,Portland Trail Blazers,,"Nov 18, 1990",SG,6'7,210,28,1983,7,1990-1991,1991,Houston,1,201,95,0
-Chris Mullin,Golden State Warriors,,"Nov 11, 1990",SF,6'7,215,27,1985,5,1990-1991,1991,St. John's,1,201,97,0
-David Robinson,San Antonio Spurs,,"Apr 22, 1990",C,7'1,250,24,1987,0,1989-1990,1990,Navy,1,216,113,0
-Magic Johnson,Los Angeles Lakers,,"Apr 15, 1990",PG,6'9,255,30,1979,10,1989-1990,1990,Michigan State,1,206,115,0
-Charles Barkley,Philadelphia Sixers,,"Apr 8, 1990",PF,6'6,252,27,1984,5,1989-1990,1990,Auburn,1,198,114,0
-Michael Jordan,Chicago Bulls,,"Apr 1, 1990",SG,6'6,215,27,1984,5,1989-1990,1990,North Carolina,1,198,97,0
-David Robinson,San Antonio Spurs,,"Mar 25, 1990",C,7'1,250,24,1987,0,1989-1990,1990,Navy,1,216,113,0
-Kevin Johnson,Phoenix Suns,,"Mar 18, 1990",PG,6'1,180,23,1987,2,1989-1990,1990,California,1,185,81,0
-Rony Seikaly,Miami Heat,,"Mar 11, 1990",C,6'11,230,24,1988,1,1989-1990,1990,Syracuse,1,211,104,0
-Hakeem Olajuwon,Houston Rockets,,"Mar 4, 1990",C,7'0,255,27,1984,5,1989-1990,1990,Houston,1,213,115,0
-David Robinson,San Antonio Spurs,,"Feb 25, 1990",C,7'1,250,24,1987,0,1989-1990,1990,Navy,1,216,113,0
-Tom Chambers,Phoenix Suns,,"Feb 18, 1990",PF,6'10,220,30,1981,8,1989-1990,1990,Utah,1,208,99,0
-Tim Hardaway,Golden State Warriors,,"Feb 4, 1990",PG,6'0,175,23,1989,0,1989-1990,1990,UTEP,1,183,79,0
-Karl Malone,Utah Jazz,,"Jan 28, 1990",PF,6'9,265,26,1985,4,1989-1990,1990,Louisiana Tech,1,206,120,0
-Alvin Robertson,Milwaukee Bucks,,"Jan 21, 1990",SG,6'3,185,27,1984,5,1989-1990,1990,Arkansas,1,190,83,0
-Ron Harper,Los Angeles Clippers,,"Jan 14, 1990",SG,6'6,185,26,1986,3,1989-1990,1990,Miami (OH),1,198,83,0
-Terry Teagle,Golden State Warriors,,"Jan 7, 1990",SG,6'5,195,29,1982,7,1989-1990,1990,Baylor,1,196,88,0
-Karl Malone,Utah Jazz,,"Dec 30, 1989",PF,6'9,265,26,1985,4,1989-1990,1990,Louisiana Tech,1,206,120,0
-Terry Cummings,San Antonio Spurs,,"Dec 24, 1989",PF,6'9,220,28,1982,7,1989-1990,1990,DePaul,1,206,99,0
-Chris Mullin,Golden State Warriors,,"Dec 17, 1989",SF,6'7,215,26,1985,4,1989-1990,1990,St. John's,1,201,97,0
-Michael Jordan,Chicago Bulls,,"Dec 10, 1989",SG,6'6,215,27,1984,5,1989-1990,1990,North Carolina,1,198,97,0
-Patrick Ewing,New York Knicks,,"Dec 3, 1989",C,7'0,240,27,1985,4,1989-1990,1990,Georgetown,1,213,108,0
-Clyde Drexler,Portland Trail Blazers,,"Nov 26, 1989",SG,6'7,210,27,1983,6,1989-1990,1990,Houston,1,201,95,0
-John Stockton,Utah Jazz,,"Nov 19, 1989",PG,6'1,170,27,1984,5,1989-1990,1990,Gonzaga,1,185,77,0
-Vern Fleming,Indiana Pacers,,"Nov 12, 1989",G,6'5,185,28,1984,5,1989-1990,1990,Georgia,1,196,83,0
-Xavier McDaniel,Seattle SuperSonics,,"Apr 23, 1989",PF,6'7,205,25,1985,3,1988-1989,1989,Wichita State,1,201,93,0
-Karl Malone,Utah Jazz,,"Apr 16, 1989",PF,6'9,265,25,1985,3,1988-1989,1989,Louisiana Tech,1,206,120,0
-Clyde Drexler,Portland Trail Blazers,,"Apr 9, 1989",SG,6'7,210,26,1983,5,1988-1989,1989,Houston,1,201,95,0
-Michael Jordan,Chicago Bulls,,"Apr 2, 1989",SG,6'6,215,26,1984,4,1988-1989,1989,North Carolina,1,198,97,0
-Michael Jordan,Chicago Bulls,,"Mar 26, 1989",SG,6'6,215,26,1984,4,1988-1989,1989,North Carolina,1,198,97,0
-Kevin Johnson,Phoenix Suns,,"Mar 19, 1989",PG,6'1,180,22,1987,1,1988-1989,1989,California,1,185,81,0
-Isiah Thomas,Detroit Pistons,,"Mar 12, 1989",PG,6'1,180,27,1981,7,1988-1989,1989,Indiana,1,185,81,0
-Chuck Person,Indiana Pacers,,"Mar 5, 1989",SF,6'8,220,24,1986,2,1988-1989,1989,Auburn,1,203,99,0
-Patrick Ewing,New York Knicks,,"Feb 26, 1989",C,7'0,240,26,1985,3,1988-1989,1989,Georgetown,1,213,108,0
-Hakeem Olajuwon,Houston Rockets,,"Feb 19, 1989",C,7'0,255,26,1984,4,1988-1989,1989,Houston,1,213,115,0
-Ron Harper,Cleveland Cavaliers,,"Feb 5, 1989",SG,6'6,185,25,1986,2,1988-1989,1989,Miami (OH),1,198,83,0
-Tom Chambers,Phoenix Suns,,"Jan 29, 1989",PF,6'10,220,29,1981,7,1988-1989,1989,Utah,1,208,99,0
-Chris Mullin,Golden State Warriors,,"Jan 22, 1989",SF,6'7,215,25,1985,3,1988-1989,1989,St. John's,1,201,97,0
-Michael Jordan,Chicago Bulls,,"Jan 15, 1989",SG,6'6,215,26,1984,4,1988-1989,1989,North Carolina,1,198,97,0
-Dale Ellis,Seattle SuperSonics,,"Jan 8, 1989",GF,6'7,205,28,1983,5,1988-1989,1989,Tennessee,1,201,93,0
-Magic Johnson,Los Angeles Lakers,,"Jan 1, 1989",PG,6'9,255,29,1979,9,1988-1989,1989,Michigan State,1,206,115,0
-Clyde Drexler,Portland Trail Blazers,,"Dec 25, 1988",SG,6'7,210,26,1983,5,1988-1989,1989,Houston,1,201,95,0
-Robert Parish,Boston Celtics,,"Dec 18, 1988",C,7'0,230,35,1976,11,1988-1989,1989,Centenary,1,213,104,0
-Michael Adams,Denver Nuggets,,"Dec 11, 1988",PG,5'10,163,26,1985,3,1988-1989,1989,Boston College,1,178,74,0
-Magic Johnson,Los Angeles Lakers,,"Dec 4, 1988",PG,6'9,255,29,1979,9,1988-1989,1989,Michigan State,1,206,115,0
-Patrick Ewing,New York Knicks,,"Nov 27, 1988",C,7'0,240,26,1985,3,1988-1989,1989,Georgetown,1,213,108,0
-Michael Jordan,Chicago Bulls,,"Nov 20, 1988",SG,6'6,215,26,1984,4,1988-1989,1989,North Carolina,1,198,97,0
-Hakeem Olajuwon,Houston Rockets,,"Nov 13, 1988",C,7'0,255,26,1984,4,1988-1989,1989,Houston,1,213,115,0
-Karl Malone,Utah Jazz,,"Apr 24, 1988",PF,6'9,265,24,1985,2,1987-1988,1988,Louisiana Tech,1,206,120,0
-Fat Lever,Denver Nuggets,,"Apr 17, 1988",PG,6'3,170,27,1982,5,1987-1988,1988,Arizona State,1,190,77,0
-Harold Pressley,Sacramento Kings,,"Apr 10, 1988",GF,6'7,210,24,1986,1,1987-1988,1988,Villanova,1,201,95,0
-Michael Jordan,Chicago Bulls,,"Apr 3, 1988",SG,6'6,215,25,1984,3,1987-1988,1988,North Carolina,1,198,97,0
-Michael Jordan,Chicago Bulls,,"Mar 27, 1988",SG,6'6,215,25,1984,3,1987-1988,1988,North Carolina,1,198,97,0
-Charles Barkley,Philadelphia Sixers,,"Mar 20, 1988",PF,6'6,252,25,1984,3,1987-1988,1988,Auburn,1,198,114,0
-Clyde Drexler,Portland Trail Blazers,,"Mar 13, 1988",SG,6'7,210,25,1983,4,1987-1988,1988,Houston,1,201,95,0
-Bobby Hansen,Utah Jazz,,"Mar 6, 1988",SG,6'6,190,27,1983,4,1987-1988,1988,Iowa,1,198,86,0
-Roy Tarpley,Dallas Mavericks,,"Feb 28, 1988",PF,6'11,230,23,1986,1,1987-1988,1988,Michigan,1,211,104,0
-John Stockton,Utah Jazz,,"Feb 21, 1988",PG,6'1,170,25,1984,3,1987-1988,1988,Gonzaga,1,185,77,0
-Dominique Wilkins,Atlanta Hawks,,"Feb 14, 1988",SF,6'7,200,28,1982,5,1987-1988,1988,Georgia,1,201,90,0
-Bernard King,Washington Bullets,,"Jan 31, 1988",SF,6'7,205,31,1977,10,1987-1988,1988,Tennessee,1,201,93,0
-Michael Jordan,Chicago Bulls,,"Jan 24, 1988",SG,6'6,215,25,1984,3,1987-1988,1988,North Carolina,1,198,97,0
-Dominique Wilkins,Atlanta Hawks,,"Jan 17, 1988",SF,6'7,200,28,1982,5,1987-1988,1988,Georgia,1,201,90,0
-Byron Scott,Los Angeles Lakers,,"Jan 10, 1988",SG,6'3,195,26,1983,4,1987-1988,1988,Arizona State,1,190,88,0
-Karl Malone,Utah Jazz,,"Jan 3, 1988",PF,6'9,265,24,1985,2,1987-1988,1988,Louisiana Tech,1,206,120,0
-Dominique Wilkins,Atlanta Hawks,,"Dec 27, 1987",SF,6'7,200,28,1982,5,1987-1988,1988,Georgia,1,201,90,0
-Larry Nance,Phoenix Suns,,"Dec 20, 1987",PF,6'10,205,29,1981,6,1987-1988,1988,Clemson,1,208,93,0
-Magic Johnson,Los Angeles Lakers,,"Dec 13, 1987",PG,6'9,255,28,1979,8,1987-1988,1988,Michigan State,1,206,115,0
-Clyde Drexler,Portland Trail Blazers,,"Dec 6, 1987",SG,6'7,210,25,1983,4,1987-1988,1988,Houston,1,201,95,0
-Clyde Drexler,Portland Trail Blazers,,"Nov 29, 1987",SG,6'7,210,25,1983,4,1987-1988,1988,Houston,1,201,95,0
-Xavier McDaniel,Seattle SuperSonics,,"Nov 22, 1987",PF,6'7,205,24,1985,2,1987-1988,1988,Wichita State,1,201,93,0
-Larry Bird,Boston Celtics,,"Nov 15, 1987",SF,6'9,220,31,1978,8,1987-1988,1988,Indiana State,1,206,99,0
-Julius Erving,Philadelphia Sixers,,"Apr 19, 1987",SF,6'6,200,37,1972,14,1986-1987,1987,Massachusetts,1,198,90,0
-Michael Jordan,Chicago Bulls,,"Apr 12, 1987",SG,6'6,215,24,1984,2,1986-1987,1987,North Carolina,1,198,97,0
-Magic Johnson,Los Angeles Lakers,,"Apr 5, 1987",PG,6'9,255,27,1979,7,1986-1987,1987,Michigan State,1,206,115,0
-Larry Smith,Golden State Warriors,,"Mar 29, 1987",PF,6'8,215,29,1980,6,1986-1987,1987,Alcorn State,1,203,97,0
-Magic Johnson,Los Angeles Lakers,,"Mar 22, 1987",PG,6'9,255,27,1979,7,1986-1987,1987,Michigan State,1,206,115,0
-Karl Malone,Utah Jazz,,"Mar 15, 1987",PF,6'9,265,23,1985,1,1986-1987,1987,Louisiana Tech,1,206,120,0
-Magic Johnson,Los Angeles Lakers,,"Mar 8, 1987",PG,6'9,255,27,1979,7,1986-1987,1987,Michigan State,1,206,115,0
-Michael Jordan,Chicago Bulls,,"Mar 1, 1987",SG,6'6,215,24,1984,2,1986-1987,1987,North Carolina,1,198,97,0
-Moses Malone,Washington Bullets,,"Feb 22, 1987",C,6'10,215,31,1976,10,1986-1987,1987,Petersburg High School (Virginia),1,208,97,0
-Magic Johnson,Los Angeles Lakers,,"Feb 15, 1987",PG,6'9,255,27,1979,7,1986-1987,1987,Michigan State,1,206,115,0
-Fat Lever,Denver Nuggets,,"Feb 1, 1987",PG,6'3,170,26,1982,4,1986-1987,1987,Arizona State,1,190,77,0
-Alex English,Denver Nuggets,,"Jan 25, 1987",SF,6'7,190,33,1976,10,1986-1987,1987,South Carolina,1,201,86,0
-Otis Thorpe,Sacramento Kings,,"Jan 18, 1987",PF,6'9,225,24,1984,2,1986-1987,1987,Providence,1,206,102,0
-Isiah Thomas,Detroit Pistons,,"Jan 11, 1987",PG,6'1,180,25,1981,5,1986-1987,1987,Indiana,1,185,81,0
-Larry Bird,Boston Celtics,,"Jan 4, 1987",SF,6'9,220,30,1978,7,1986-1987,1987,Indiana State,1,206,99,0
-Patrick Ewing,New York Knicks,,"Dec 28, 1986",C,7'0,240,24,1985,1,1986-1987,1987,Georgetown,1,213,108,0
-Magic Johnson,Los Angeles Lakers,,"Dec 21, 1986",PG,6'9,255,27,1979,7,1986-1987,1987,Michigan State,1,206,115,0
-Dominique Wilkins,Atlanta Hawks,,"Dec 14, 1986",SF,6'7,200,27,1982,4,1986-1987,1987,Georgia,1,201,90,0
-Tom Chambers,Seattle SuperSonics,,"Dec 7, 1986",PF,6'10,220,27,1981,5,1986-1987,1987,Utah,1,208,99,0
-Hot Rod Williams,Cleveland Cavaliers,,"Nov 30, 1986",FC,6'11,215,24,1985,0,1986-1987,1987,Tulane,1,211,97,0
-Alvin Robertson,San Antonio Spurs,,"Nov 23, 1986",SG,6'3,185,24,1984,2,1986-1987,1987,Arkansas,1,190,83,0
-Robert Parish,Boston Celtics,,"Nov 16, 1986",C,7'0,230,33,1976,9,1986-1987,1987,Centenary,1,213,104,0
-Michael Jordan,Chicago Bulls,,"Nov 9, 1986",SG,6'6,215,24,1984,2,1986-1987,1987,North Carolina,1,198,97,0
-Dominique Wilkins,Atlanta Hawks,,"Apr 13, 1986",SF,6'7,200,26,1982,3,1985-1986,1986,Georgia,1,201,90,0
-Herb Williams,Indiana Pacers,,"Apr 6, 1986",C,6'10,242,28,1981,4,1985-1986,1986,Ohio State,1,208,109,0
-Charles Barkley,Philadelphia Sixers,,"Mar 30, 1986",PF,6'6,252,23,1984,1,1985-1986,1986,Auburn,1,198,114,0
-Adrian Dantley,Utah Jazz,,"Mar 23, 1986",SF,6'5,208,30,1976,9,1985-1986,1986,Notre Dame,1,196,94,0
-Larry Bird,Boston Celtics,,"Mar 16, 1986",SF,6'9,220,29,1978,6,1985-1986,1986,Indiana State,1,206,99,0
-Magic Johnson,Los Angeles Lakers,,"Mar 9, 1986",PG,6'9,255,26,1979,6,1985-1986,1986,Michigan State,1,206,115,0
-Charles Barkley,Philadelphia Sixers,,"Mar 2, 1986",PF,6'6,252,23,1984,1,1985-1986,1986,Auburn,1,198,114,0
-Sidney Moncrief,Milwaukee Bucks,,"Feb 23, 1986",SG,6'3,180,28,1979,6,1985-1986,1986,Arkansas,1,190,81,0
-Larry Bird,Boston Celtics,,"Feb 16, 1986",SF,6'9,220,29,1978,6,1985-1986,1986,Indiana State,1,206,99,0
-Alex English,Denver Nuggets,,"Feb 2, 1986",SF,6'7,190,32,1976,9,1985-1986,1986,South Carolina,1,201,86,0
-Charles Barkley,Philadelphia Sixers,,"Jan 26, 1986",PF,6'6,252,23,1984,1,1985-1986,1986,Auburn,1,198,114,0
-Larry Bird,Boston Celtics,,"Jan 19, 1986",SF,6'9,220,29,1978,6,1985-1986,1986,Indiana State,1,206,99,0
-Calvin Natt,Denver Nuggets,,"Jan 12, 1986",F,6'6,220,29,1979,6,1985-1986,1986,Louisiana-Monroe,1,198,99,0
-Clyde Drexler,Portland Trail Blazers,,"Jan 5, 1986",SG,6'7,210,23,1983,2,1985-1986,1986,Houston,1,201,95,0
-Dominique Wilkins,Atlanta Hawks,,"Dec 29, 1985",SF,6'7,200,26,1982,3,1985-1986,1986,Georgia,1,201,90,0
-Larry Nance,Phoenix Suns,,"Dec 22, 1985",PF,6'10,205,27,1981,4,1985-1986,1986,Clemson,1,208,93,0
-Alvin Robertson,San Antonio Spurs,,"Dec 15, 1985",SG,6'3,185,23,1984,1,1985-1986,1986,Arkansas,1,190,83,0
-Jeff Ruland,Washington Bullets,,"Dec 8, 1985",C,6'10,240,27,1980,4,1985-1986,1986,Iona,1,208,108,0
-Larry Bird,Boston Celtics,,"Dec 1, 1985",SF,6'9,220,29,1978,6,1985-1986,1986,Indiana State,1,206,99,0
-Alex English,Denver Nuggets,,"Nov 24, 1985",SF,6'7,190,32,1976,9,1985-1986,1986,South Carolina,1,201,86,0
-Patrick Ewing,New York Knicks,,"Nov 17, 1985",C,7'0,240,23,1985,0,1985-1986,1986,Georgetown,1,213,108,0
-Buck Williams,New Jersey Nets,,"Nov 10, 1985",PF,6'8,215,25,1981,4,1985-1986,1986,Maryland,1,203,97,0
-Derek Smith,Los Angeles Clippers,,"Nov 3, 1985",SG,6'6,205,24,1982,3,1985-1986,1986,Louisville,1,198,93,0
-Micheal Ray Richardson,New Jersey Nets,,"Apr 14, 1985",PG,6'5,189,29,1978,6,1984-1985,1985,Montana,1,196,85,0
-Derek Smith,Los Angeles Clippers,,"Apr 7, 1985",SG,6'6,205,23,1982,2,1984-1985,1985,Louisville,1,198,93,0
-Calvin Natt,Denver Nuggets,,"Apr 1, 1985",F,6'6,220,28,1979,5,1984-1985,1985,Louisiana-Monroe,1,198,99,0
-Kareem Abdul-Jabbar,Los Angeles Lakers,,"Mar 24, 1985",C,7'2,225,37,1969,15,1984-1985,1985,UCLA,1,218,102,0
-Larry Bird,Boston Celtics,,"Mar 17, 1985",SF,6'9,220,28,1978,5,1984-1985,1985,Indiana State,1,206,99,0
-Darrell Griffith,Utah Jazz,,"Mar 10, 1985",SG,6'4,190,26,1980,4,1984-1985,1985,Louisville,1,193,86,0
-Sleepy Floyd,Golden State Warriors,,"Mar 3, 1985",PG,6'3,170,24,1982,2,1984-1985,1985,Georgetown,1,190,77,0
-Mark Aguirre,Dallas Mavericks,,"Feb 24, 1985",SF,6'6,232,25,1981,3,1984-1985,1985,DePaul,1,198,105,0
-Magic Johnson,Los Angeles Lakers,,"Feb 17, 1985",PG,6'9,255,25,1979,5,1984-1985,1985,Michigan State,1,206,115,0
-Dominique Wilkins,Atlanta Hawks,,"Feb 3, 1985",SF,6'7,200,25,1982,2,1984-1985,1985,Georgia,1,201,90,0
-Tom McMillen,Washington Bullets,,"Jan 27, 1985",PF,6'11,215,32,1974,9,1984-1985,1985,Maryland,1,211,97,0
-Michael Jordan,Chicago Bulls,,"Jan 20, 1985",SG,6'6,215,22,1984,0,1984-1985,1985,North Carolina,1,198,97,0
-World B. Free,Cleveland Cavaliers,,"Jan 13, 1985",G,6'2,185,31,1975,9,1984-1985,1985,Guilford,1,188,83,0
-Isiah Thomas,Detroit Pistons,,"Jan 6, 1985",PG,6'1,180,23,1981,3,1984-1985,1985,Indiana,1,185,81,0
-Micheal Ray Richardson,New Jersey Nets,,"Dec 30, 1984",PG,6'5,189,29,1978,6,1984-1985,1985,Montana,1,196,85,0
-Terry Cummings,Milwaukee Bucks,,"Dec 23, 1984",PF,6'9,220,23,1982,2,1984-1985,1985,DePaul,1,206,99,0
-Derek Smith,Los Angeles Clippers,,"Dec 16, 1984",SG,6'6,205,23,1982,2,1984-1985,1985,Louisville,1,198,93,0
-Orlando Woolridge,Chicago Bulls,,"Dec 9, 1984",PF,6'9,215,25,1981,3,1984-1985,1985,Notre Dame,1,206,97,0
-Jack Sikma,Seattle SuperSonics,,"Dec 2, 1984",C,6'11,230,29,1977,7,1984-1985,1985,Illinois Wesleyan,1,211,104,0
-Bernard King,New York Knicks,,"Nov 25, 1984",SF,6'7,205,28,1977,7,1984-1985,1985,Tennessee,1,201,93,0
-Moses Malone,Philadelphia Sixers,,"Nov 18, 1984",C,6'10,215,29,1976,8,1984-1985,1985,Petersburg High School (Virginia),1,208,97,0
-Alex English,Denver Nuggets,,"Nov 11, 1984",SF,6'7,190,31,1976,8,1984-1985,1985,South Carolina,1,201,86,0
-Larry Nance,Phoenix Suns,,"Nov 4, 1984",PF,6'10,205,26,1981,3,1984-1985,1985,Clemson,1,208,93,0
-Dominique Wilkins,Atlanta Hawks,,"Apr 15, 1984",SF,6'7,200,24,1982,1,1983-1984,1984,Georgia,1,201,90,0
-Kareem Abdul-Jabbar,Los Angeles Lakers,,"Apr 8, 1984",C,7'2,225,36,1969,14,1983-1984,1984,UCLA,1,218,102,0
-Isiah Thomas,Detroit Pistons,,"Apr 1, 1984",PG,6'1,180,22,1981,2,1983-1984,1984,Indiana,1,185,81,0
-Moses Malone,Philadelphia Sixers,,"Mar 25, 1984",C,6'10,215,28,1976,7,1983-1984,1984,Petersburg High School (Virginia),1,208,97,0
-Adrian Dantley,Utah Jazz,,"Mar 18, 1984",SF,6'5,208,28,1976,7,1983-1984,1984,Notre Dame,1,196,94,0
-Larry Bird,Boston Celtics,,"Mar 11, 1984",SF,6'9,220,27,1978,4,1983-1984,1984,Indiana State,1,206,99,0
-Mickey Johnson,Golden State Warriors,,"Mar 4, 1984",PF,6'10,190,31,1974,9,1983-1984,1984,Aurora,1,208,86,0
-Magic Johnson,Los Angeles Lakers,,"Feb 26, 1984",PG,6'9,255,24,1979,4,1983-1984,1984,Michigan State,1,206,115,0
-Larry Bird,Boston Celtics,,"Feb 19, 1984",SF,6'9,220,27,1978,4,1983-1984,1984,Indiana State,1,206,99,0
-Kareem Abdul-Jabbar,Los Angeles Lakers,,"Feb 12, 1984",C,7'2,225,36,1969,14,1983-1984,1984,UCLA,1,218,102,0
-Bernard King,New York Knicks,,"Feb 5, 1984",SF,6'7,205,27,1977,6,1983-1984,1984,Tennessee,1,201,93,0
-Buck Williams,New Jersey Nets,,"Jan 22, 1984",PF,6'8,215,23,1981,2,1983-1984,1984,Maryland,1,203,97,0
-Kelly Tripucka,Detroit Pistons,,"Jan 15, 1984",SF,6'6,220,25,1981,2,1983-1984,1984,Notre Dame,1,198,99,0
-Purvis Short,Golden State Warriors,,"Jan 8, 1984",SF,6'7,210,26,1978,5,1983-1984,1984,Jackson State,1,201,95,0
-Isiah Thomas,Detroit Pistons,,"Jan 1, 1984",PG,6'1,180,22,1981,2,1983-1984,1984,Indiana,1,185,81,0
-Dan Roundfield,Atlanta Hawks,,"Dec 25, 1983",PF,6'8,205,30,1975,7,1983-1984,1984,Central Michigan,1,203,93,0
-Adrian Dantley,Utah Jazz,,"Dec 18, 1983",SF,6'5,208,28,1976,7,1983-1984,1984,Notre Dame,1,196,94,0
-Jeff Ruland,Washington Bullets,,"Dec 11, 1983",C,6'10,240,25,1980,2,1983-1984,1984,Iona,1,208,108,0
-Rickey Green,Utah Jazz,,"Dec 4, 1983",PG,6'0,170,29,1977,5,1983-1984,1984,Michigan,1,183,77,0
-Mark Aguirre,Dallas Mavericks,,"Nov 27, 1983",SF,6'6,232,24,1981,2,1983-1984,1984,DePaul,1,198,105,0
-Kiki Vandeweghe,Denver Nuggets,,"Nov 20, 1983",SF,6'8,220,25,1980,3,1983-1984,1984,UCLA,1,203,99,0
-Magic Johnson,Los Angeles Lakers,,"Nov 13, 1983",PG,6'9,255,24,1979,4,1983-1984,1984,Michigan State,1,206,115,0
-Eddie Johnson,Kansas City Kings,,"Nov 6, 1983",SF,6'7,215,24,1981,2,1983-1984,1984,Illinois,1,201,97,0
-Mike Glenn,Atlanta Hawks,,"Apr 17, 1983",G,6'2,175,27,1977,5,1982-1983,1983,Southern Illinois,1,188,79,0
-Magic Johnson,Los Angeles Lakers,,"Apr 10, 1983",PG,6'9,255,23,1979,3,1982-1983,1983,Michigan State,1,206,115,0
-Larry Bird,Boston Celtics,,"Apr 3, 1983",SF,6'9,220,26,1978,3,1982-1983,1983,Indiana State,1,206,99,0
-Jeff Ruland,Washington Bullets,,"Mar 27, 1983",C,6'10,240,24,1980,1,1982-1983,1983,Iona,1,208,108,0
-Andrew Toney,Philadelphia Sixers,,"Mar 20, 1983",G,6'3,178,25,1980,2,1982-1983,1983,Louisiana,1,190,80,0
-Gus Williams,Seattle SuperSonics,,"Mar 20, 1983",G,6'2,175,29,1975,6,1982-1983,1983,USC,1,188,79,0
-Magic Johnson,Los Angeles Lakers,,"Mar 13, 1983",PG,6'9,255,23,1979,3,1982-1983,1983,Michigan State,1,206,115,0
-John Drew,Utah Jazz,,"Mar 6, 1983",GF,6'6,205,28,1974,8,1982-1983,1983,Gardner-Webb,1,198,93,0
-Walter Davis,Phoenix Suns,,"Feb 27, 1983",GF,6'6,193,28,1977,5,1982-1983,1983,North Carolina,1,198,87,0
-Larry Nance,Phoenix Suns,,"Feb 20, 1983",PF,6'10,205,24,1981,1,1982-1983,1983,Clemson,1,208,93,0
-Moses Malone,Philadelphia Sixers,,"Feb 6, 1983",C,6'10,215,27,1976,6,1982-1983,1983,Petersburg High School (Virginia),1,208,97,0
-Artis Gilmore,San Antonio Spurs,,"Jan 30, 1983",C,7'2,240,33,1971,6,1982-1983,1983,Jacksonville,1,218,108,0
-Joe Barry Carroll,Golden State Warriors,,"Jan 23, 1983",FC,7'0,225,24,1980,2,1982-1983,1983,Purdue,1,213,102,0
-Alex English,Denver Nuggets,,"Jan 16, 1983",SF,6'7,190,29,1976,6,1982-1983,1983,South Carolina,1,201,86,0
-Mickey Johnson,New Jersey Nets,,"Jan 9, 1983",PF,6'10,190,30,1974,8,1982-1983,1983,Aurora,1,208,86,0
-Kiki Vandeweghe,Denver Nuggets,,"Jan 2, 1983",SF,6'8,220,24,1980,2,1982-1983,1983,UCLA,1,203,99,0
-Maurice Lucas,Phoenix Suns,,"Dec 26, 1982",PF,6'9,215,31,1974,6,1982-1983,1983,Marquette,1,206,97,0
-Isiah Thomas,Detroit Pistons,,"Dec 19, 1982",PG,6'1,180,21,1981,1,1982-1983,1983,Indiana,1,185,81,0
-Larry Bird,Boston Celtics,,"Dec 12, 1982",SF,6'9,220,26,1978,3,1982-1983,1983,Indiana State,1,206,99,0
-Buck Williams,New Jersey Nets,,"Dec 5, 1982",PF,6'8,215,22,1981,1,1982-1983,1983,Maryland,1,203,97,0
-Larry Bird,Boston Celtics,,"Nov 28, 1982",SF,6'9,220,26,1978,3,1982-1983,1983,Indiana State,1,206,99,0
-Alex English,Denver Nuggets,,"Nov 21, 1982",SF,6'7,190,29,1976,6,1982-1983,1983,South Carolina,1,201,86,0
-Kelly Tripucka,Detroit Pistons,,"Nov 14, 1982",SF,6'6,220,24,1981,1,1982-1983,1983,Notre Dame,1,198,99,0
-Reggie Theus,Chicago Bulls,,"Nov 7, 1982",GF,6'7,190,25,1978,4,1982-1983,1983,UNLV,1,201,86,0
-Ray Williams,New Jersey Nets,,"Apr 18, 1982",G,6'3,188,27,1977,4,1981-1982,1982,Minnesota,1,190,85,0
-Billy Ray Bates,Portland Trail Blazers,,"Apr 11, 1982",SG,6'4,210,25,1978,3,1981-1982,1982,Kentucky State,1,193,95,0
-Jack Sikma,Seattle SuperSonics,,"Apr 4, 1982",C,6'11,230,26,1977,4,1981-1982,1982,Illinois Wesleyan,1,211,104,0
-Moses Malone,Houston Rockets,,"Mar 28, 1982",C,6'10,215,26,1976,5,1981-1982,1982,Petersburg High School (Virginia),1,208,97,0
-Robert Parish,Boston Celtics,,"Mar 21, 1982",C,7'0,230,28,1976,4,1981-1982,1982,Centenary,1,213,104,0
-Kelly Tripucka,Detroit Pistons,,"Mar 14, 1982",SF,6'6,220,23,1981,0,1981-1982,1982,Notre Dame,1,198,99,0
-George Gervin,San Antonio Spurs,,"Mar 7, 1982",GF,6'7,180,29,1974,5,1981-1982,1982,Eastern Michigan,1,201,81,0
-Kareem Abdul-Jabbar,Los Angeles Lakers,,"Feb 28, 1982",C,7'2,225,34,1969,12,1981-1982,1982,UCLA,1,218,102,0
-"Eddie Johnson, Jr.",Atlanta Hawks,,"Feb 21, 1982",G,6'2,180,27,1977,4,1981-1982,1982,Auburn,1,188,81,0
-Jay Vincent,Dallas Mavericks,,"Feb 14, 1982",F,6'7,220,22,1981,0,1981-1982,1982,Michigan State,1,201,99,0
-Moses Malone,Houston Rockets,,"Feb 7, 1982",C,6'10,215,26,1976,5,1981-1982,1982,Petersburg High School (Virginia),1,208,97,0
-Greg Ballard,Washington Bullets,,"Jan 24, 1982",F,6'7,215,27,1977,4,1981-1982,1982,Oregon,1,201,97,0
-Larry Bird,Boston Celtics,,"Jan 17, 1982",SF,6'9,220,25,1978,2,1981-1982,1982,Indiana State,1,206,99,0
-Gus Williams,Seattle SuperSonics,,"Jan 10, 1982",G,6'2,175,28,1975,5,1981-1982,1982,USC,1,188,79,0
-George Gervin,San Antonio Spurs,,"Jan 3, 1982",GF,6'7,180,29,1974,5,1981-1982,1982,Eastern Michigan,1,201,81,0
-Larry Bird,Boston Celtics,,"Dec 27, 1981",SF,6'9,220,25,1978,2,1981-1982,1982,Indiana State,1,206,99,0
-Bernard King,Golden State Warriors,,"Dec 20, 1981",SF,6'7,205,25,1977,4,1981-1982,1982,Tennessee,1,201,93,0
-Artis Gilmore,Chicago Bulls,,"Dec 13, 1981",C,7'2,240,32,1971,5,1981-1982,1982,Jacksonville,1,218,108,0
-George Gervin,San Antonio Spurs,,"Dec 6, 1981",GF,6'7,180,29,1974,5,1981-1982,1982,Eastern Michigan,1,201,81,0
-Alex English,Denver Nuggets,,"Nov 29, 1981",SF,6'7,190,28,1976,5,1981-1982,1982,South Carolina,1,201,86,0
-Dan Roundfield,Atlanta Hawks,,"Nov 22, 1981",PF,6'8,205,28,1975,5,1981-1982,1982,Central Michigan,1,203,93,0
-Ron Brewer,San Antonio Spurs,,"Nov 15, 1981",G,6'4,180,26,1978,3,1981-1982,1982,Arkansas,1,193,81,0
-Mychal Thompson,Portland Trail Blazers,,"Nov 8, 1981",FC,6'10,226,27,1978,3,1981-1982,1982,Minnesota,1,208,102,0
-Robert Reid,Houston Rockets,,"Mar 29, 1981",GF,6'8,205,25,1977,3,1980-1981,1981,St. Mary's (TX),1,203,93,0
-Micheal Ray Richardson,New York Knicks,,"Mar 22, 1981",PG,6'5,189,25,1978,2,1980-1981,1981,Montana,1,196,85,0
-Moses Malone,Houston Rockets,,"Mar 15, 1981",C,6'10,215,25,1976,4,1980-1981,1981,Petersburg High School (Virginia),1,208,97,0
-Larry Smith,Golden State Warriors,,"Mar 8, 1981",PF,6'8,215,23,1980,0,1980-1981,1981,Alcorn State,1,203,97,0
-Terry Tyler,Detroit Pistons,,"Mar 1, 1981",GF,6'7,215,24,1978,2,1980-1981,1981,Detroit-Mercy,1,201,97,0
-Mike Mitchell,Cleveland Cavaliers,,"Feb 22, 1981",F,6'7,215,25,1978,2,1980-1981,1981,Auburn,1,201,97,0
-Mike Newlin,New Jersey Nets,,"Feb 15, 1981",GF,6'4,200,32,1971,9,1980-1981,1981,Utah,1,193,90,0
-Caldwell Jones,Philadelphia Sixers,,"Feb 8, 1981",FC,6'11,216,30,1973,6,1980-1981,1981,Albany State (GA),1,211,98,0
-Kenny Carr,Cleveland Cavaliers,,"Feb 1, 1981",GF,6'7,220,25,1977,3,1980-1981,1981,NC State,1,201,99,0
-Phil Ford,Kansas City Kings,,"Jan 25, 1981",G,6'2,175,25,1978,2,1980-1981,1981,North Carolina,1,188,79,0
-Julius Erving,Philadelphia Sixers,,"Jan 18, 1981",SF,6'6,200,31,1972,8,1980-1981,1981,Massachusetts,1,198,90,0
-Tiny Archibald,Boston Celtics,,"Jan 11, 1981",PG,6'1,150,32,1970,10,1980-1981,1981,UTEP,1,185,68,0
-Bernard King,Golden State Warriors,,"Jan 4, 1981",SF,6'7,205,24,1977,3,1980-1981,1981,Tennessee,1,201,93,0
-Dennis Johnson,Phoenix Suns,,"Dec 28, 1980",PG,6'4,185,26,1976,4,1980-1981,1981,Pepperdine,1,193,83,0
-Kareem Abdul-Jabbar,Los Angeles Lakers,,"Dec 21, 1980",C,7'2,225,33,1969,11,1980-1981,1981,UCLA,1,218,102,0
-Dan Roundfield,Atlanta Hawks,,"Dec 14, 1980",PF,6'8,205,27,1975,4,1980-1981,1981,Central Michigan,1,203,93,0
-"Mike Dunleavy, Sr.",Houston Rockets,,"Dec 7, 1980",G,6'3,180,26,1976,4,1980-1981,1981,South Carolina,1,190,81,0
-Robert Parish,Boston Celtics,,"Nov 30, 1980",C,7'0,230,27,1976,3,1980-1981,1981,Centenary,1,213,104,0
-Artis Gilmore,Chicago Bulls,,"Nov 23, 1980",C,7'2,240,31,1971,4,1980-1981,1981,Jacksonville,1,218,108,0
-Billy Knight,Indiana Pacers,,"Nov 16, 1980",GF,6'6,195,28,1974,4,1980-1981,1981,Pittsburgh,1,198,88,0
-Elvin Hayes,Washington Bullets,,"Nov 9, 1980",FC,6'9,235,35,1968,12,1980-1981,1981,Houston,1,206,106,0
-David Thompson,Denver Nuggets,,"Nov 2, 1980",GF,6'5,195,26,1975,4,1980-1981,1981,NC State,1,196,88,0
-Otis Birdsong,Kansas City Kings,,"Oct 26, 1980",GF,6'3,190,25,1977,3,1980-1981,1981,Houston,1,190,86,0
-Adrian Dantley,Utah Jazz,,"Oct 19, 1980",SF,6'5,208,25,1976,4,1980-1981,1981,Notre Dame,1,196,94,0
-Kevin Grevey,Washington Bullets,,"Mar 30, 1980",GF,6'5,210,26,1975,4,1979-1980,1980,Kentucky,1,196,95,0
-Billy Ray Bates,Portland Trail Blazers,,"Mar 23, 1980",SG,6'4,210,23,1978,1,1979-1980,1980,Kentucky State,1,193,95,0
-Magic Johnson,Los Angeles Lakers,,"Mar 16, 1980",PG,6'9,255,20,1979,0,1979-1980,1980,Michigan State,1,206,115,0
-Cliff Robinson,New Jersey Nets,,"Mar 9, 1980",F,6'9,220,19,1979,0,1979-1980,1980,USC,1,206,99,0
-Larry Bird,Boston Celtics,,"Mar 2, 1980",SF,6'9,220,23,1978,0,1979-1980,1980,Indiana State,1,206,99,0
-Calvin Natt,Portland Trail Blazers,,"Feb 24, 1980",F,6'6,220,23,1979,0,1979-1980,1980,Louisiana-Monroe,1,198,99,0
-Kareem Abdul-Jabbar,Los Angeles Lakers,,"Feb 17, 1980",C,7'2,225,32,1969,10,1979-1980,1980,UCLA,1,218,102,0
-Rick Barry,Houston Rockets,,"Feb 10, 1980",F,6'7,205,35,1965,9,1979-1980,1980,Miami (FL),1,201,93,0
-George Gervin,San Antonio Spurs,,"Jan 27, 1980",GF,6'7,180,27,1974,3,1979-1980,1980,Eastern Michigan,1,201,81,0
-Dennis Johnson,Seattle SuperSonics,,"Jan 20, 1980",PG,6'4,185,25,1976,3,1979-1980,1980,Pepperdine,1,193,83,0
-Greg Ballard,Washington Bullets,,"Jan 13, 1980",F,6'7,215,25,1977,2,1979-1980,1980,Oregon,1,201,97,0
-Scott Wedman,Kansas City Kings,,"Jan 6, 1980",GF,6'7,215,27,1974,5,1979-1980,1980,Colorado,1,201,97,0
-Mike Mitchell,Cleveland Cavaliers,,"Dec 30, 1979",F,6'7,215,24,1978,1,1979-1980,1980,Auburn,1,201,97,0
-Swen Nater,San Diego Clippers,,"Dec 23, 1979",C,6'11,240,30,1973,3,1979-1980,1980,UCLA,1,211,108,0
-Dan Roundfield,Atlanta Hawks,,"Dec 16, 1979",PF,6'8,205,26,1975,3,1979-1980,1980,Central Michigan,1,203,93,0
-Kareem Abdul-Jabbar,Los Angeles Lakers,,"Dec 9, 1979",C,7'2,225,32,1969,10,1979-1980,1980,UCLA,1,218,102,0
-Adrian Dantley,Utah Jazz,,"Dec 2, 1979",SF,6'5,208,24,1976,3,1979-1980,1980,Notre Dame,1,196,94,0
-Walter Davis,Phoenix Suns,,"Nov 25, 1979",GF,6'6,193,25,1977,2,1979-1980,1980,North Carolina,1,198,87,0
-Phil Ford,Kansas City Kings,,"Nov 18, 1979",G,6'2,175,24,1978,1,1979-1980,1980,North Carolina,1,188,79,0
-Magic Johnson,Los Angeles Lakers,,"Nov 11, 1979",PG,6'9,255,20,1979,0,1979-1980,1980,Michigan State,1,206,115,0
-Marques Johnson,Milwaukee Bucks,,"Nov 4, 1979",GF,6'7,218,24,1977,2,1979-1980,1980,UCLA,1,201,98,0
-Micheal Ray Richardson,New York Knicks,,"Oct 28, 1979",PG,6'5,189,24,1978,1,1979-1980,1980,Montana,1,196,85,0
-Julius Erving,Philadelphia Sixers,,"Oct 21, 1979",SF,6'6,200,30,1972,7,1979-1980,1980,Massachusetts,1,198,90,0
+Ray Allen,Milwaukee Bucks,,"Apr 15, 2001",SG,6'5,205,25,1996,4,2000-2001,2001,Connecticut,1.0,196,93,0
+Shaquille O'Neal,Los Angeles Lakers,,"Apr 8, 2001",C,7'1,325,28,1992,8,2000-2001,2001,LSU,1.0,216,147,0
+Jason Kidd,Phoenix Suns,,"Apr 1, 2001",PG,6'4,210,27,1994,6,2000-2001,2001,California,1.0,193,95,0
+Paul Pierce,Boston Celtics,,"Mar 25, 2001",SF,6'7,235,23,1998,2,2000-2001,2001,Kansas,1.0,201,106,0
+Cuttino Mobley,Houston Rockets,,"Mar 18, 2001",G,6'4,190,25,1998,2,2000-2001,2001,Rhode Island,1.0,193,86,0
+Derek Anderson,San Antonio Spurs,,"Mar 11, 2001",G,6'5,194,26,1997,3,2000-2001,2001,Kentucky,1.0,196,88,0
+Vince Carter,Toronto Raptors,,"Mar 4, 2001",SF,6'6,220,24,1998,2,2000-2001,2001,North Carolina,1.0,198,99,0
+Shawn Marion,Phoenix Suns,,"Feb 25, 2001",F,6'7,228,22,1999,1,2000-2001,2001,UNLV,1.0,201,103,0
+Allen Iverson,Philadelphia Sixers,,"Feb 18, 2001",G,6'0,165,25,1996,4,2000-2001,2001,Georgetown,1.0,183,74,0
+Darrell Armstrong,Orlando Magic,,"Feb 4, 2001",PG,6'0,170,32,1991,6,2000-2001,2001,Fayetteville State,1.0,183,77,0
+Tim Duncan,San Antonio Spurs,,"Jan 28, 2001",FC,6'11,250,24,1997,3,2000-2001,2001,Wake Forest,1.0,211,113,0
+Chris Webber,Sacramento Kings,,"Jan 22, 2001",F-C,6'9,245,28,1993,7,2000-2001,2001,Michigan,1.0,206,111,0
+Steve Francis,Houston Rockets,,"Jan 14, 2001",G,6'3,195,24,1999,1,2000-2001,2001,Maryland,1.0,190,88,0
+Allen Iverson,Philadelphia Sixers,,"Jan 7, 2001",G,6'0,165,25,1996,4,2000-2001,2001,Georgetown,1.0,183,74,0
+Aaron McKie,Philadelphia Sixers,,"Dec 31, 2000",G,6'5,209,28,1994,6,2000-2001,2001,Temple,1.0,196,94,0
+Kobe Bryant,Los Angeles Lakers,,"Dec 24, 2000",SG,6'6,212,22,1996,4,2000-2001,2001,Lower Merion High School (Pennsylvania),1.0,198,96,0
+Glenn Robinson,Milwaukee Bucks,,"Dec 17, 2000",SF,6'7,225,28,1994,6,2000-2001,2001,Purdue,1.0,201,102,0
+Chris Webber,Sacramento Kings,,"Dec 10, 2000",F-C,6'9,245,28,1993,7,2000-2001,2001,Michigan,1.0,206,111,0
+Antonio McDyess,Denver Nuggets,,"Dec 3, 2000",F,6'9,245,26,1995,5,2000-2001,2001,Alabama,1.0,206,111,0
+Baron Davis,Charlotte Hornets,,"Nov 26, 2000",G,6'3,215,21,1999,1,2000-2001,2001,UCLA,1.0,190,97,0
+Kevin Garnett,Minnesota Timberwolves,,"Nov 19, 2000",PF,6'11,240,24,1995,5,2000-2001,2001,Farragut Career Academy (Illinois),1.0,211,108,0
+Stephon Marbury,New Jersey Nets,,"Nov 12, 2000",G,6'2,180,24,1996,4,2000-2001,2001,Georgia Tech,1.0,188,81,0
+Karl Malone,Utah Jazz,,"Nov 6, 2000",PF,6'9,265,37,1985,15,2000-2001,2001,Louisiana Tech,1.0,206,120,0
+John Stockton,Utah Jazz,,"Nov 6, 2000",PG,6'1,170,38,1984,16,2000-2001,2001,Gonzaga,1.0,185,77,0
+Kobe Bryant,Los Angeles Lakers,,"Apr 17, 2000",SG,6'6,212,21,1996,3,1999-2000,2000,Lower Merion High School (Pennsylvania),1.0,198,96,0
+Alonzo Mourning,Miami Heat,,"Apr 10, 2000",C,6'10,240,30,1992,7,1999-2000,2000,Georgetown,1.0,208,108,0
+Tim Duncan,San Antonio Spurs,,"Apr 3, 2000",FC,6'11,250,23,1997,2,1999-2000,2000,Wake Forest,1.0,211,113,0
+Kevin Garnett,Minnesota Timberwolves,,"Mar 27, 2000",PF,6'11,240,23,1995,4,1999-2000,2000,Farragut Career Academy (Illinois),1.0,211,108,0
+Jalen Rose,Indiana Pacers,,"Mar 20, 2000",G,6'8,210,27,1994,5,1999-2000,2000,Michigan,1.0,203,95,0
+Shaquille O'Neal,Los Angeles Lakers,,"Mar 13, 2000",C,7'1,325,27,1992,7,1999-2000,2000,LSU,1.0,216,147,0
+Karl Malone,Utah Jazz,,"Mar 6, 2000",PF,6'9,265,36,1985,14,1999-2000,2000,Louisiana Tech,1.0,206,120,0
+Vince Carter,Toronto Raptors,,"Feb 28, 2000",SF,6'6,220,23,1998,1,1999-2000,2000,North Carolina,1.0,198,99,0
+Shaquille O'Neal,Los Angeles Lakers,,"Feb 22, 2000",C,7'1,325,27,1992,7,1999-2000,2000,LSU,1.0,216,147,0
+Michael Finley,Dallas Mavericks,,"Feb 7, 2000",G-F,6'7,225,26,1995,4,1999-2000,2000,Wisconsin,1.0,201,102,0
+Dikembe Mutombo,Atlanta Hawks,,"Jan 31, 2000",C,7'2,260,33,1991,8,1999-2000,2000,Georgetown,1.0,218,118,0
+Steve Francis,Houston Rockets,,"Jan 24, 2000",G,6'3,195,23,1999,0,1999-2000,2000,Maryland,1.0,190,88,0
+Chris Webber,Sacramento Kings,,"Jan 17, 2000",F-C,6'9,245,27,1993,6,1999-2000,2000,Michigan,1.0,206,111,0
+Grant Hill,Detroit Pistons,,"Jan 10, 2000",SF,6'8,225,27,1994,5,1999-2000,2000,Duke,1.0,203,102,0
+Chris Webber,Sacramento Kings,,"Jan 3, 2000",F-C,6'9,245,27,1993,6,1999-2000,2000,Michigan,1.0,206,111,0
+Kevin Garnett,Minnesota Timberwolves,,"Dec 27, 1999",PF,6'11,240,23,1995,4,1999-2000,2000,Farragut Career Academy (Illinois),1.0,211,108,0
+Jason Kidd,Phoenix Suns,,"Dec 20, 1999",PG,6'4,210,26,1994,5,1999-2000,2000,California,1.0,193,95,0
+Alonzo Mourning,Miami Heat,,"Dec 13, 1999",C,6'10,240,30,1992,7,1999-2000,2000,Georgetown,1.0,208,108,0
+Shaquille O'Neal,Los Angeles Lakers,,"Dec 5, 1999",C,7'1,325,27,1992,7,1999-2000,2000,LSU,1.0,216,147,0
+Tim Duncan,San Antonio Spurs,,"Nov 28, 1999",FC,6'11,250,23,1997,2,1999-2000,2000,Wake Forest,1.0,211,113,0
+Vince Carter,Toronto Raptors,,"Nov 21, 1999",SF,6'6,220,23,1998,1,1999-2000,2000,North Carolina,1.0,198,99,0
+Kevin Garnett,Minnesota Timberwolves,,"Nov 14, 1999",PF,6'11,240,23,1995,4,1999-2000,2000,Farragut Career Academy (Illinois),1.0,211,108,0
+Sam Cassell,Milwaukee Bucks,,"Nov 7, 1999",G,6'3,185,30,1993,6,1999-2000,2000,Florida State,1.0,190,83,0
+Grant Hill,Detroit Pistons,,"May 2, 1999",SF,6'8,225,26,1994,4,1998-1999,1999,Duke,1.0,203,102,0
+Chris Webber,Sacramento Kings,,"Apr 25, 1999",F-C,6'9,245,25,1993,5,1998-1999,1999,Michigan,1.0,206,111,0
+Jason Kidd,Phoenix Suns,,"Apr 18, 1999",PG,6'4,210,25,1994,4,1998-1999,1999,California,1.0,193,95,0
+Karl Malone,Utah Jazz,,"Apr 11, 1999",PF,6'9,265,35,1985,13,1998-1999,1999,Louisiana Tech,1.0,206,120,0
+Kevin Garnett,Minnesota Timberwolves,,"Apr 4, 1999",PF,6'11,240,22,1995,3,1998-1999,1999,Farragut Career Academy (Illinois),1.0,211,108,0
+Darrell Armstrong,Orlando Magic,,"Mar 28, 1999",PG,6'0,170,30,1991,4,1998-1999,1999,Fayetteville State,1.0,183,77,0
+Vince Carter,Toronto Raptors,,"Mar 21, 1999",SF,6'6,220,22,1998,0,1998-1999,1999,North Carolina,1.0,198,99,0
+Alonzo Mourning,Miami Heat,,"Mar 14, 1999",C,6'10,240,29,1992,6,1998-1999,1999,Georgetown,1.0,208,108,0
+Tim Duncan,San Antonio Spurs,,"Mar 7, 1999",FC,6'11,250,22,1997,1,1998-1999,1999,Wake Forest,1.0,211,113,0
+Antonio McDyess,Denver Nuggets,,"Feb 28, 1999",F,6'9,245,24,1995,3,1998-1999,1999,Alabama,1.0,206,111,0
+Stephon Marbury,Minnesota Timberwolves,,"Feb 21, 1999",G,6'2,180,22,1996,2,1998-1999,1999,Georgia Tech,1.0,188,81,0
+Gary Payton,Seattle SuperSonics,,"Feb 14, 1999",G,6'4,180,30,1990,8,1998-1999,1999,Oregon State,1.0,193,81,0
+Dikembe Mutombo,Atlanta Hawks,,"Feb 7, 1999",C,7'2,260,32,1991,7,1998-1999,1999,Georgetown,1.0,218,118,0
+Jason Kidd,Phoenix Suns,,"Apr 19, 1998",PG,6'4,210,24,1994,3,1997-1998,1998,California,1.0,193,95,0
+Sam Cassell,New Jersey Nets,,"Apr 12, 1998",G,6'3,185,28,1993,4,1997-1998,1998,Florida State,1.0,190,83,0
+Michael Jordan,Chicago Bulls,,"Apr 5, 1998",SG,6'6,215,35,1984,12,1997-1998,1998,North Carolina,1.0,198,97,0
+Alonzo Mourning,Miami Heat,,"Mar 29, 1998",C,6'10,240,28,1992,5,1997-1998,1998,Georgetown,1.0,208,108,0
+Shaquille O'Neal,Los Angeles Lakers,,"Mar 22, 1998",C,7'1,325,25,1992,5,1997-1998,1998,LSU,1.0,216,147,0
+Jason Kidd,Phoenix Suns,,"Mar 15, 1998",PG,6'4,210,24,1994,3,1997-1998,1998,California,1.0,193,95,0
+Karl Malone,Utah Jazz,,"Mar 8, 1998",PF,6'9,265,34,1985,12,1997-1998,1998,Louisiana Tech,1.0,206,120,0
+Tim Duncan,San Antonio Spurs,,"Mar 1, 1998",FC,6'11,250,21,1997,0,1997-1998,1998,Wake Forest,1.0,211,113,0
+Nick Anderson,Orlando Magic,,"Feb 22, 1998",GF,6'6,228,30,1989,8,1997-1998,1998,Illinois,1.0,198,103,0
+Karl Malone,Utah Jazz,,"Feb 15, 1998",PF,6'9,265,34,1985,12,1997-1998,1998,Louisiana Tech,1.0,206,120,0
+David Robinson,San Antonio Spurs,,"Feb 1, 1998",C,7'1,250,32,1987,8,1997-1998,1998,Navy,1.0,216,113,0
+Jayson Williams,New Jersey Nets,,"Jan 25, 1998",FC,6'10,245,30,1990,7,1997-1998,1998,St. John's,1.0,208,111,0
+Allen Iverson,Philadelphia Sixers,,"Jan 18, 1998",G,6'0,165,22,1996,1,1997-1998,1998,Georgetown,1.0,183,74,0
+Steve Smith,Atlanta Hawks,,"Jan 11, 1998",SG,6'7,200,28,1991,6,1997-1998,1998,Michigan State,1.0,201,90,0
+Rik Smits,Indiana Pacers,,"Jan 4, 1998",C,7'4,250,31,1988,9,1997-1998,1998,Marist,1.0,224,113,0
+David Robinson,San Antonio Spurs,,"Dec 28, 1997",C,7'1,250,32,1987,8,1997-1998,1998,Navy,1.0,216,113,0
+Michael Jordan,Chicago Bulls,,"Dec 21, 1997",SG,6'6,215,35,1984,12,1997-1998,1998,North Carolina,1.0,198,97,0
+Glen Rice,Charlotte Hornets,,"Dec 14, 1997",SF,6'8,228,30,1989,8,1997-1998,1998,Michigan,1.0,203,103,0
+Wesley Person,Cleveland Cavaliers,,"Dec 7, 1997",SG,6'6,195,26,1994,3,1997-1998,1998,Auburn,1.0,198,88,0
+Karl Malone,Utah Jazz,,"Nov 30, 1997",PF,6'9,265,34,1985,12,1997-1998,1998,Louisiana Tech,1.0,206,120,0
+Michael Jordan,Chicago Bulls,,"Nov 23, 1997",SG,6'6,215,35,1984,12,1997-1998,1998,North Carolina,1.0,198,97,0
+Shaquille O'Neal,Los Angeles Lakers,,"Nov 16, 1997",C,7'1,325,25,1992,5,1997-1998,1998,LSU,1.0,216,147,0
+Dikembe Mutombo,Atlanta Hawks,,"Nov 9, 1997",C,7'2,260,31,1991,6,1997-1998,1998,Georgetown,1.0,218,118,0
+Chris Webber,Washington Bullets,,"Apr 20, 1997",F-C,6'9,245,24,1993,3,1996-1997,1997,Michigan,1.0,206,111,0
+Allen Iverson,Philadelphia Sixers,,"Apr 13, 1997",G,6'0,165,21,1996,0,1996-1997,1997,Georgetown,1.0,183,74,0
+Grant Hill,Detroit Pistons,,"Apr 6, 1997",SF,6'8,225,24,1994,2,1996-1997,1997,Duke,1.0,203,102,0
+Kevin Johnson,Phoenix Suns,,"Mar 30, 1997",PG,6'1,180,30,1987,9,1996-1997,1997,California,1.0,185,81,0
+Karl Malone,Utah Jazz,,"Mar 23, 1997",PF,6'9,265,33,1985,11,1996-1997,1997,Louisiana Tech,1.0,206,120,0
+Karl Malone,Utah Jazz,,"Mar 16, 1997",PF,6'9,265,33,1985,11,1996-1997,1997,Louisiana Tech,1.0,206,120,0
+Patrick Ewing,New York Knicks,,"Mar 9, 1997",C,7'0,240,34,1985,11,1996-1997,1997,Georgetown,1.0,213,108,0
+Loy Vaught,Los Angeles Clippers,,"Mar 2, 1997",PF,6'9,230,30,1990,6,1996-1997,1997,Michigan,1.0,206,104,0
+Scottie Pippen,Chicago Bulls,,"Feb 23, 1997",SF,6'8,228,31,1987,9,1996-1997,1997,Central Arkansas,1.0,203,103,0
+Alonzo Mourning,Miami Heat,,"Feb 16, 1997",C,6'10,240,27,1992,4,1996-1997,1997,Georgetown,1.0,208,108,0
+Glen Rice,Charlotte Hornets,,"Feb 2, 1997",SF,6'8,228,29,1989,7,1996-1997,1997,Michigan,1.0,203,103,0
+Mitch Richmond,Sacramento Kings,,"Jan 26, 1997",SG,6'5,215,31,1988,8,1996-1997,1997,Kansas State,1.0,196,97,0
+Grant Hill,Detroit Pistons,,"Jan 19, 1997",SF,6'8,225,24,1994,2,1996-1997,1997,Duke,1.0,203,102,0
+Glenn Robinson,Milwaukee Bucks,,"Jan 12, 1997",SF,6'7,225,24,1994,2,1996-1997,1997,Purdue,1.0,201,102,0
+Glen Rice,Charlotte Hornets,,"Jan 5, 1997",SF,6'8,228,29,1989,7,1996-1997,1997,Michigan,1.0,203,103,0
+Tim Hardaway,Miami Heat,,"Dec 29, 1996",PG,6'0,175,30,1989,7,1996-1997,1997,UTEP,1.0,183,79,0
+Terrell Brandon,Cleveland Cavaliers,,"Dec 22, 1996",PG,5'11,180,26,1991,5,1996-1997,1997,Oregon,1.0,180,81,0
+Shaquille O'Neal,Los Angeles Lakers,,"Dec 15, 1996",C,7'1,325,24,1992,4,1996-1997,1997,LSU,1.0,216,147,0
+Terry Mills,Detroit Pistons,,"Dec 8, 1996",PF,6'10,230,29,1990,6,1996-1997,1997,Michigan,1.0,208,104,0
+Dikembe Mutombo,Atlanta Hawks,,"Dec 1, 1996",C,7'2,260,30,1991,5,1996-1997,1997,Georgetown,1.0,218,118,0
+Charles Barkley,Houston Rockets,,"Nov 24, 1996",PF,6'6,252,34,1984,12,1996-1997,1997,Auburn,1.0,198,114,0
+Karl Malone,Utah Jazz,,"Nov 24, 1996",PF,6'9,265,33,1985,11,1996-1997,1997,Louisiana Tech,1.0,206,120,0
+Dale Ellis,Denver Nuggets,,"Nov 17, 1996",GF,6'7,205,36,1983,13,1996-1997,1997,Tennessee,1.0,201,93,0
+Hakeem Olajuwon,Houston Rockets,,"Nov 10, 1996",C,7'0,255,34,1984,12,1996-1997,1997,Houston,1.0,213,115,0
+Dennis Scott,Orlando Magic,,"Apr 21, 1996",SF,6'8,229,27,1990,5,1995-1996,1996,Georgia Tech,1.0,203,103,0
+Juwan Howard,Washington Bullets,,"Apr 14, 1996",PF,6'9,240,23,1994,1,1995-1996,1996,Michigan,1.0,206,108,0
+Kevin Johnson,Phoenix Suns,,"Apr 7, 1996",PG,6'1,180,29,1987,8,1995-1996,1996,California,1.0,185,81,0
+Arvydas Sabonis,Portland Trail Blazers,,"Mar 31, 1996",C,7'3,279,31,1986,0,1995-1996,1996,Zalgiris (Lithuania),1.0,221,126,0
+Chris Gatling,Miami Heat,,"Mar 24, 1996",PF,6'10,220,28,1991,4,1995-1996,1996,Old Dominion,1.0,208,99,0
+Grant Hill,Detroit Pistons,,"Mar 17, 1996",SF,6'8,225,23,1994,1,1995-1996,1996,Duke,1.0,203,102,0
+Michael Jordan,Chicago Bulls,,"Mar 10, 1996",SG,6'6,215,33,1984,10,1995-1996,1996,North Carolina,1.0,198,97,0
+Shaquille O'Neal,Orlando Magic,,"Mar 3, 1996",C,7'1,325,23,1992,3,1995-1996,1996,LSU,1.0,216,147,0
+Hakeem Olajuwon,Houston Rockets,,"Mar 3, 1996",C,7'0,255,33,1984,11,1995-1996,1996,Houston,1.0,213,115,0
+Shawn Kemp,Seattle SuperSonics,,"Feb 25, 1996",C,6'10,280,26,1989,6,1995-1996,1996,Trinity Valley CC,1.0,208,127,0
+Armen Gilliam,New Jersey Nets,,"Feb 18, 1996",PF,6'9,230,31,1987,8,1995-1996,1996,UNLV,1.0,206,104,0
+Jason Kidd,Dallas Mavericks,,"Feb 4, 1996",PG,6'4,210,22,1994,1,1995-1996,1996,California,1.0,193,95,0
+Reggie Miller,Indiana Pacers,,"Jan 28, 1996",SG,6'7,185,30,1987,8,1995-1996,1996,UCLA,1.0,201,83,0
+Michael Jordan,Chicago Bulls,,"Jan 21, 1996",SG,6'6,215,33,1984,10,1995-1996,1996,North Carolina,1.0,198,97,0
+David Robinson,San Antonio Spurs,,"Jan 14, 1996",C,7'1,250,30,1987,6,1995-1996,1996,Navy,1.0,216,113,0
+Cliff Robinson,Portland Trail Blazers,,"Jan 7, 1996",PF,6'10,225,29,1989,6,1995-1996,1996,Connecticut,1.0,208,102,0
+Karl Malone,Utah Jazz,,"Dec 31, 1995",PF,6'9,265,32,1985,10,1995-1996,1996,Louisiana Tech,1.0,206,120,0
+Michael Jordan,Chicago Bulls,,"Dec 24, 1995",SG,6'6,215,33,1984,10,1995-1996,1996,North Carolina,1.0,198,97,0
+Scottie Pippen,Chicago Bulls,,"Dec 17, 1995",SF,6'8,228,30,1987,8,1995-1996,1996,Central Arkansas,1.0,203,103,0
+Dikembe Mutombo,Denver Nuggets,,"Dec 10, 1995",C,7'2,260,29,1991,4,1995-1996,1996,Georgetown,1.0,218,118,0
+Terrell Brandon,Cleveland Cavaliers,,"Dec 3, 1995",PG,5'11,180,25,1991,4,1995-1996,1996,Oregon,1.0,180,81,0
+Shawn Kemp,Seattle SuperSonics,,"Nov 26, 1995",C,6'10,280,26,1989,6,1995-1996,1996,Trinity Valley CC,1.0,208,127,0
+Cedric Ceballos,Los Angeles Lakers,,"Nov 19, 1995",SF,6'6,190,26,1990,5,1995-1996,1996,Cal State Fullerton,1.0,198,86,0
+Penny Hardaway,Orlando Magic,,"Nov 12, 1995",PG,6'7,195,24,1993,2,1995-1996,1996,Memphis,1.0,201,88,0
+Karl Malone,Utah Jazz,,"Apr 23, 1995",PF,6'9,265,31,1985,9,1994-1995,1995,Louisiana Tech,1.0,206,120,0
+Dikembe Mutombo,Denver Nuggets,,"Apr 16, 1995",C,7'2,260,28,1991,3,1994-1995,1995,Georgetown,1.0,218,118,0
+Clyde Drexler,Houston Rockets,,"Apr 9, 1995",SG,6'7,210,32,1983,11,1994-1995,1995,Houston,1.0,201,95,0
+David Robinson,San Antonio Spurs,,"Apr 2, 1995",C,7'1,250,29,1987,5,1994-1995,1995,Navy,1.0,216,113,0
+Vlade Divac,Los Angeles Lakers,,"Mar 26, 1995",C,7'1,260,27,1989,5,1994-1995,1995,KK Partizan (Serbia),1.0,216,118,0
+Jason Kidd,Dallas Mavericks,,"Mar 19, 1995",PG,6'4,210,21,1994,0,1994-1995,1995,California,1.0,193,95,0
+Rik Smits,Indiana Pacers,,"Mar 12, 1995",C,7'4,250,28,1988,6,1994-1995,1995,Marist,1.0,224,113,0
+Shaquille O'Neal,Orlando Magic,,"Mar 5, 1995",C,7'1,325,22,1992,2,1994-1995,1995,LSU,1.0,216,147,0
+Rod Strickland,Portland Trail Blazers,,"Feb 26, 1995",PG,6'3,175,28,1988,6,1994-1995,1995,DePaul,1.0,190,79,0
+Charles Barkley,Phoenix Suns,,"Feb 19, 1995",PF,6'6,252,32,1984,10,1994-1995,1995,Auburn,1.0,198,114,0
+Hakeem Olajuwon,Houston Rockets,,"Feb 5, 1995",C,7'0,255,32,1984,10,1994-1995,1995,Houston,1.0,213,115,0
+John Stockton,Utah Jazz,,"Jan 29, 1995",PG,6'1,170,32,1984,10,1994-1995,1995,Gonzaga,1.0,185,77,0
+Patrick Ewing,New York Knicks,,"Jan 22, 1995",C,7'0,240,32,1985,9,1994-1995,1995,Georgetown,1.0,213,108,0
+Larry Johnson,Charlotte Hornets,,"Jan 15, 1995",F,6'6,250,25,1991,3,1994-1995,1995,UNLV,1.0,198,113,0
+Gary Payton,Seattle SuperSonics,,"Jan 8, 1995",G,6'4,180,26,1990,4,1994-1995,1995,Oregon State,1.0,193,81,0
+Hakeem Olajuwon,Houston Rockets,,"Jan 1, 1995",C,7'0,255,32,1984,10,1994-1995,1995,Houston,1.0,213,115,0
+Cedric Ceballos,Los Angeles Lakers,,"Dec 25, 1994",SF,6'6,190,25,1990,4,1994-1995,1995,Cal State Fullerton,1.0,198,86,0
+Karl Malone,Utah Jazz,,"Dec 18, 1994",PF,6'9,265,31,1985,9,1994-1995,1995,Louisiana Tech,1.0,206,120,0
+Jamal Mashburn,Dallas Mavericks,,"Dec 11, 1994",SF,6'8,247,22,1993,1,1994-1995,1995,Kentucky,1.0,203,112,0
+Shaquille O'Neal,Orlando Magic,,"Dec 4, 1994",C,7'1,325,22,1992,2,1994-1995,1995,LSU,1.0,216,147,0
+Penny Hardaway,Orlando Magic,,"Nov 27, 1994",PG,6'7,195,23,1993,1,1994-1995,1995,Memphis,1.0,201,88,0
+Elliot Perry,Phoenix Suns,,"Nov 20, 1994",PG,6'0,150,25,1991,3,1994-1995,1995,Memphis,1.0,183,68,0
+Tim Hardaway,Golden State Warriors,,"Nov 13, 1994",PG,6'0,175,28,1989,5,1994-1995,1995,UTEP,1.0,183,79,0
+David Robinson,San Antonio Spurs,,"Apr 24, 1994",C,7'1,250,28,1987,4,1993-1994,1994,Navy,1.0,216,113,0
+Scottie Pippen,Chicago Bulls,,"Apr 17, 1994",SF,6'8,228,28,1987,6,1993-1994,1994,Central Arkansas,1.0,203,103,0
+Dikembe Mutombo,Denver Nuggets,,"Apr 10, 1994",C,7'2,260,27,1991,2,1993-1994,1994,Georgetown,1.0,218,118,0
+Shawn Kemp,Seattle SuperSonics,,"Apr 3, 1994",C,6'10,280,24,1989,4,1993-1994,1994,Trinity Valley CC,1.0,208,127,0
+Kevin Willis,Atlanta Hawks,,"Mar 27, 1994",C,7'0,245,31,1984,9,1993-1994,1994,Michigan State,1.0,213,111,0
+Hakeem Olajuwon,Houston Rockets,,"Mar 20, 1994",C,7'0,255,31,1984,9,1993-1994,1994,Houston,1.0,213,115,0
+Joe Dumars,Detroit Pistons,,"Mar 13, 1994",SG,6'3,190,30,1985,8,1993-1994,1994,McNeese State,1.0,190,86,0
+David Robinson,San Antonio Spurs,,"Mar 6, 1994",C,7'1,250,28,1987,4,1993-1994,1994,Navy,1.0,216,113,0
+Shawn Kemp,Seattle SuperSonics,,"Feb 27, 1994",C,6'10,280,24,1989,4,1993-1994,1994,Trinity Valley CC,1.0,208,127,0
+David Robinson,San Antonio Spurs,,"Feb 20, 1994",C,7'1,250,28,1987,4,1993-1994,1994,Navy,1.0,216,113,0
+David Robinson,San Antonio Spurs,,"Feb 6, 1994",C,7'1,250,28,1987,4,1993-1994,1994,Navy,1.0,216,113,0
+Ron Harper,Los Angeles Clippers,,"Jan 30, 1994",SG,6'6,185,30,1986,7,1993-1994,1994,Miami (OH),1.0,198,83,0
+Kenny Anderson,New Jersey Nets,,"Jan 23, 1994",PG,6'0,168,23,1991,2,1993-1994,1994,Georgia Tech,1.0,183,76,0
+Patrick Ewing,New York Knicks,,"Jan 16, 1994",C,7'0,240,31,1985,8,1993-1994,1994,Georgetown,1.0,213,108,0
+Chris Webber,Golden State Warriors,,"Jan 9, 1994",F-C,6'9,245,20,1993,0,1993-1994,1994,Michigan,1.0,206,111,0
+Oliver Miller,Phoenix Suns,,"Jan 2, 1994",C,6'9,280,23,1992,1,1993-1994,1994,Arkansas,1.0,206,127,0
+Scottie Pippen,Chicago Bulls,,"Dec 26, 1993",SF,6'8,228,28,1987,6,1993-1994,1994,Central Arkansas,1.0,203,103,0
+Karl Malone,Utah Jazz,,"Dec 19, 1993",PF,6'9,265,30,1985,8,1993-1994,1994,Louisiana Tech,1.0,206,120,0
+Shaquille O'Neal,Orlando Magic,,"Dec 12, 1993",C,7'1,325,21,1992,1,1993-1994,1994,LSU,1.0,216,147,0
+David Robinson,San Antonio Spurs,,"Dec 5, 1993",C,7'1,250,28,1987,4,1993-1994,1994,Navy,1.0,216,113,0
+Glen Rice,Miami Heat,,"Nov 28, 1993",SF,6'8,228,26,1989,4,1993-1994,1994,Michigan,1.0,203,103,0
+Charles Barkley,Phoenix Suns,,"Nov 21, 1993",PF,6'6,252,31,1984,9,1993-1994,1994,Auburn,1.0,198,114,0
+Hakeem Olajuwon,Houston Rockets,,"Nov 14, 1993",C,7'0,255,31,1984,9,1993-1994,1994,Houston,1.0,213,115,0
+Larry Johnson,Charlotte Hornets,,"Apr 25, 1993",F,6'6,250,23,1991,1,1992-1993,1993,UNLV,1.0,198,113,0
+Alonzo Mourning,Charlotte Hornets,,"Apr 18, 1993",C,6'10,240,23,1992,0,1992-1993,1993,Georgetown,1.0,208,108,0
+Hakeem Olajuwon,Houston Rockets,,"Apr 11, 1993",C,7'0,255,30,1984,8,1992-1993,1993,Houston,1.0,213,115,0
+Charles Barkley,Phoenix Suns,,"Apr 4, 1993",PF,6'6,252,30,1984,8,1992-1993,1993,Auburn,1.0,198,114,0
+Dikembe Mutombo,Denver Nuggets,,"Mar 28, 1993",C,7'2,260,26,1991,1,1992-1993,1993,Georgetown,1.0,218,118,0
+Patrick Ewing,New York Knicks,,"Mar 21, 1993",C,7'0,240,30,1985,7,1992-1993,1993,Georgetown,1.0,213,108,0
+Rumeal Robinson,New Jersey Nets,,"Mar 14, 1993",PG,6'2,195,26,1990,2,1992-1993,1993,Michigan,1.0,188,88,0
+Rony Seikaly,Miami Heat,,"Mar 7, 1993",C,6'11,230,27,1988,4,1992-1993,1993,Syracuse,1.0,211,104,0
+Hakeem Olajuwon,Houston Rockets,,"Feb 28, 1993",C,7'0,255,30,1984,8,1992-1993,1993,Houston,1.0,213,115,0
+Larry Johnson,Charlotte Hornets,,"Feb 14, 1993",F,6'6,250,23,1991,1,1992-1993,1993,UNLV,1.0,198,113,0
+Nick Anderson,Orlando Magic,,"Feb 7, 1993",GF,6'6,228,25,1989,3,1992-1993,1993,Illinois,1.0,198,103,0
+Karl Malone,Utah Jazz,,"Jan 31, 1993",PF,6'9,265,29,1985,7,1992-1993,1993,Louisiana Tech,1.0,206,120,0
+Patrick Ewing,New York Knicks,,"Jan 24, 1993",C,7'0,240,30,1985,7,1992-1993,1993,Georgetown,1.0,213,108,0
+Hakeem Olajuwon,Houston Rockets,,"Jan 17, 1993",C,7'0,255,30,1984,8,1992-1993,1993,Houston,1.0,213,115,0
+Shawn Kemp,Seattle SuperSonics,,"Jan 10, 1993",C,6'10,280,23,1989,3,1992-1993,1993,Trinity Valley CC,1.0,208,127,0
+David Robinson,San Antonio Spurs,,"Jan 3, 1993",C,7'1,250,27,1987,3,1992-1993,1993,Navy,1.0,216,113,0
+Sean Elliott,San Antonio Spurs,,"Dec 27, 1992",SF,6'8,205,25,1989,3,1992-1993,1993,Arizona,1.0,203,93,0
+Patrick Ewing,New York Knicks,,"Dec 20, 1992",C,7'0,240,30,1985,7,1992-1993,1993,Georgetown,1.0,213,108,0
+Charles Barkley,Phoenix Suns,,"Dec 13, 1992",PF,6'6,252,30,1984,8,1992-1993,1993,Auburn,1.0,198,114,0
+Drazen Petrovic,New Jersey Nets,,"Dec 6, 1992",SG,6'5,200,28,1986,3,1992-1993,1993,KK Cibona (Croatia),1.0,196,90,0
+David Robinson,San Antonio Spurs,,"Nov 29, 1992",C,7'1,250,27,1987,3,1992-1993,1993,Navy,1.0,216,113,0
+Michael Jordan,Chicago Bulls,,"Nov 22, 1992",SG,6'6,215,30,1984,8,1992-1993,1993,North Carolina,1.0,198,97,0
+Shaquille O'Neal,Orlando Magic,,"Nov 15, 1992",C,7'1,325,20,1992,0,1992-1993,1993,LSU,1.0,216,147,0
+Karl Malone,Utah Jazz,,"Apr 19, 1992",PF,6'9,265,28,1985,6,1991-1992,1992,Louisiana Tech,1.0,206,120,0
+Reggie Lewis,Boston Celtics,,"Apr 12, 1992",SF,6'7,195,26,1987,4,1991-1992,1992,Northeastern,1.0,201,88,0
+Mookie Blaylock,New Jersey Nets,,"Apr 5, 1992",PG,6'1,190,24,1989,2,1991-1992,1992,Oklahoma,1.0,185,86,0
+Mark Jackson,New York Knicks,,"Mar 29, 1992",PG,6'1,180,26,1987,4,1991-1992,1992,St. John's,1.0,185,81,0
+Larry Johnson,Charlotte Hornets,,"Mar 22, 1992",F,6'6,250,22,1991,0,1991-1992,1992,UNLV,1.0,198,113,0
+Joe Dumars,Detroit Pistons,,"Mar 15, 1992",SG,6'3,190,28,1985,6,1991-1992,1992,McNeese State,1.0,190,86,0
+Karl Malone,Utah Jazz,,"Mar 8, 1992",PF,6'9,265,28,1985,6,1991-1992,1992,Louisiana Tech,1.0,206,120,0
+Danny Manning,Los Angeles Clippers,,"Mar 1, 1992",F,6'10,230,25,1988,3,1991-1992,1992,Kansas,1.0,208,104,0
+Tim Hardaway,Golden State Warriors,,"Feb 23, 1992",PG,6'0,175,25,1989,2,1991-1992,1992,UTEP,1.0,183,79,0
+John Stockton,Utah Jazz,,"Feb 16, 1992",PG,6'1,170,29,1984,7,1991-1992,1992,Gonzaga,1.0,185,77,0
+Larry Nance,Cleveland Cavaliers,,"Feb 2, 1992",PF,6'10,205,33,1981,10,1991-1992,1992,Clemson,1.0,208,93,0
+Nick Anderson,Orlando Magic,,"Jan 26, 1992",GF,6'6,228,24,1989,2,1991-1992,1992,Illinois,1.0,198,103,0
+Tim Hardaway,Golden State Warriors,,"Jan 19, 1992",PG,6'0,175,25,1989,2,1991-1992,1992,UTEP,1.0,183,79,0
+Michael Jordan,Chicago Bulls,,"Jan 12, 1992",SG,6'6,215,29,1984,7,1991-1992,1992,North Carolina,1.0,198,97,0
+Patrick Ewing,New York Knicks,,"Jan 5, 1992",C,7'0,240,29,1985,6,1991-1992,1992,Georgetown,1.0,213,108,0
+Scottie Pippen,Chicago Bulls,,"Dec 29, 1991",SF,6'8,228,26,1987,4,1991-1992,1992,Central Arkansas,1.0,203,103,0
+Pervis Ellison,Washington Bullets,,"Dec 22, 1991",C,6'9,210,24,1989,2,1991-1992,1992,Louisville,1.0,206,95,0
+Dennis Rodman,Detroit Pistons,,"Dec 15, 1991",PF,6'7,210,30,1986,5,1991-1992,1992,Southeastern Oklahoma State,1.0,201,95,0
+Jeff Malone,Utah Jazz,,"Dec 8, 1991",SG,6'4,205,30,1983,8,1991-1992,1992,Mississippi State,1.0,193,93,0
+David Robinson,San Antonio Spurs,,"Dec 1, 1991",C,7'1,250,26,1987,2,1991-1992,1992,Navy,1.0,216,113,0
+Kevin Willis,Atlanta Hawks,,"Nov 24, 1991",C,7'0,245,29,1984,7,1991-1992,1992,Michigan State,1.0,213,111,0
+Brad Daugherty,Cleveland Cavaliers,,"Nov 17, 1991",C,7'0,245,26,1986,5,1991-1992,1992,North Carolina,1.0,213,111,0
+Chris Mullin,Golden State Warriors,,"Nov 10, 1991",SF,6'7,215,28,1985,6,1991-1992,1992,St. John's,1.0,201,97,0
+Scott Skiles,Orlando Magic,,"Apr 21, 1991",PG,6'1,180,26,1986,4,1990-1991,1991,Michigan State,1.0,185,81,0
+Clyde Drexler,Portland Trail Blazers,,"Apr 14, 1991",SG,6'7,210,28,1983,7,1990-1991,1991,Houston,1.0,201,95,0
+Magic Johnson,Los Angeles Lakers,,"Apr 7, 1991",PG,6'9,255,31,1979,11,1990-1991,1991,Michigan State,1.0,206,115,0
+Clyde Drexler,Portland Trail Blazers,,"Mar 31, 1991",SG,6'7,210,28,1983,7,1990-1991,1991,Houston,1.0,201,95,0
+Mitch Richmond,Golden State Warriors,,"Mar 24, 1991",SG,6'5,215,25,1988,2,1990-1991,1991,Kansas State,1.0,196,97,0
+Kenny Smith,Houston Rockets,,"Mar 17, 1991",PG,6'3,170,25,1987,3,1990-1991,1991,North Carolina,1.0,190,77,0
+Dennis Scott,Orlando Magic,,"Mar 10, 1991",SF,6'8,229,22,1990,0,1990-1991,1991,Georgia Tech,1.0,203,103,0
+Gerald Wilkins,New York Knicks,,"Mar 3, 1991",SG,6'6,185,27,1985,5,1990-1991,1991,Chattanooga,1.0,198,83,0
+Reggie Miller,Indiana Pacers,,"Feb 24, 1991",SG,6'7,185,25,1987,3,1990-1991,1991,UCLA,1.0,201,83,0
+Lionel Simmons,Sacramento Kings,,"Feb 17, 1991",SF,6'7,210,22,1990,0,1990-1991,1991,La Salle,1.0,201,95,0
+Otis Thorpe,Houston Rockets,,"Feb 3, 1991",PF,6'9,225,28,1984,6,1990-1991,1991,Providence,1.0,206,102,0
+Michael Adams,Denver Nuggets,,"Jan 27, 1991",PG,5'10,163,28,1985,5,1990-1991,1991,Boston College,1.0,178,74,0
+Tim Hardaway,Golden State Warriors,,"Jan 20, 1991",PG,6'0,175,24,1989,1,1990-1991,1991,UTEP,1.0,183,79,0
+Bernard King,Washington Bullets,,"Jan 13, 1991",SF,6'7,205,34,1977,13,1990-1991,1991,Tennessee,1.0,201,93,0
+Dominique Wilkins,Atlanta Hawks,,"Jan 6, 1991",SF,6'7,200,31,1982,8,1990-1991,1991,Georgia,1.0,201,90,0
+Ricky Pierce,Milwaukee Bucks,,"Dec 30, 1990",SG,6'4,205,31,1982,8,1990-1991,1991,Rice,1.0,193,93,0
+Michael Jordan,Chicago Bulls,,"Dec 23, 1990",SG,6'6,215,28,1984,6,1990-1991,1991,North Carolina,1.0,198,97,0
+Kevin Johnson,Phoenix Suns,,"Dec 16, 1990",PG,6'1,180,24,1987,3,1990-1991,1991,California,1.0,185,81,0
+John Stockton,Utah Jazz,,"Dec 9, 1990",PG,6'1,170,28,1984,6,1990-1991,1991,Gonzaga,1.0,185,77,0
+Michael Jordan,Chicago Bulls,,"Dec 2, 1990",SG,6'6,215,28,1984,6,1990-1991,1991,North Carolina,1.0,198,97,0
+Charles Barkley,Philadelphia Sixers,,"Nov 25, 1990",PF,6'6,252,28,1984,6,1990-1991,1991,Auburn,1.0,198,114,0
+Clyde Drexler,Portland Trail Blazers,,"Nov 18, 1990",SG,6'7,210,28,1983,7,1990-1991,1991,Houston,1.0,201,95,0
+Chris Mullin,Golden State Warriors,,"Nov 11, 1990",SF,6'7,215,27,1985,5,1990-1991,1991,St. John's,1.0,201,97,0
+David Robinson,San Antonio Spurs,,"Apr 22, 1990",C,7'1,250,24,1987,0,1989-1990,1990,Navy,1.0,216,113,0
+Magic Johnson,Los Angeles Lakers,,"Apr 15, 1990",PG,6'9,255,30,1979,10,1989-1990,1990,Michigan State,1.0,206,115,0
+Charles Barkley,Philadelphia Sixers,,"Apr 8, 1990",PF,6'6,252,27,1984,5,1989-1990,1990,Auburn,1.0,198,114,0
+Michael Jordan,Chicago Bulls,,"Apr 1, 1990",SG,6'6,215,27,1984,5,1989-1990,1990,North Carolina,1.0,198,97,0
+David Robinson,San Antonio Spurs,,"Mar 25, 1990",C,7'1,250,24,1987,0,1989-1990,1990,Navy,1.0,216,113,0
+Kevin Johnson,Phoenix Suns,,"Mar 18, 1990",PG,6'1,180,23,1987,2,1989-1990,1990,California,1.0,185,81,0
+Rony Seikaly,Miami Heat,,"Mar 11, 1990",C,6'11,230,24,1988,1,1989-1990,1990,Syracuse,1.0,211,104,0
+Hakeem Olajuwon,Houston Rockets,,"Mar 4, 1990",C,7'0,255,27,1984,5,1989-1990,1990,Houston,1.0,213,115,0
+David Robinson,San Antonio Spurs,,"Feb 25, 1990",C,7'1,250,24,1987,0,1989-1990,1990,Navy,1.0,216,113,0
+Tom Chambers,Phoenix Suns,,"Feb 18, 1990",PF,6'10,220,30,1981,8,1989-1990,1990,Utah,1.0,208,99,0
+Tim Hardaway,Golden State Warriors,,"Feb 4, 1990",PG,6'0,175,23,1989,0,1989-1990,1990,UTEP,1.0,183,79,0
+Karl Malone,Utah Jazz,,"Jan 28, 1990",PF,6'9,265,26,1985,4,1989-1990,1990,Louisiana Tech,1.0,206,120,0
+Alvin Robertson,Milwaukee Bucks,,"Jan 21, 1990",SG,6'3,185,27,1984,5,1989-1990,1990,Arkansas,1.0,190,83,0
+Ron Harper,Los Angeles Clippers,,"Jan 14, 1990",SG,6'6,185,26,1986,3,1989-1990,1990,Miami (OH),1.0,198,83,0
+Terry Teagle,Golden State Warriors,,"Jan 7, 1990",SG,6'5,195,29,1982,7,1989-1990,1990,Baylor,1.0,196,88,0
+Karl Malone,Utah Jazz,,"Dec 30, 1989",PF,6'9,265,26,1985,4,1989-1990,1990,Louisiana Tech,1.0,206,120,0
+Terry Cummings,San Antonio Spurs,,"Dec 24, 1989",PF,6'9,220,28,1982,7,1989-1990,1990,DePaul,1.0,206,99,0
+Chris Mullin,Golden State Warriors,,"Dec 17, 1989",SF,6'7,215,26,1985,4,1989-1990,1990,St. John's,1.0,201,97,0
+Michael Jordan,Chicago Bulls,,"Dec 10, 1989",SG,6'6,215,27,1984,5,1989-1990,1990,North Carolina,1.0,198,97,0
+Patrick Ewing,New York Knicks,,"Dec 3, 1989",C,7'0,240,27,1985,4,1989-1990,1990,Georgetown,1.0,213,108,0
+Clyde Drexler,Portland Trail Blazers,,"Nov 26, 1989",SG,6'7,210,27,1983,6,1989-1990,1990,Houston,1.0,201,95,0
+John Stockton,Utah Jazz,,"Nov 19, 1989",PG,6'1,170,27,1984,5,1989-1990,1990,Gonzaga,1.0,185,77,0
+Vern Fleming,Indiana Pacers,,"Nov 12, 1989",G,6'5,185,28,1984,5,1989-1990,1990,Georgia,1.0,196,83,0
+Xavier McDaniel,Seattle SuperSonics,,"Apr 23, 1989",PF,6'7,205,25,1985,3,1988-1989,1989,Wichita State,1.0,201,93,0
+Karl Malone,Utah Jazz,,"Apr 16, 1989",PF,6'9,265,25,1985,3,1988-1989,1989,Louisiana Tech,1.0,206,120,0
+Clyde Drexler,Portland Trail Blazers,,"Apr 9, 1989",SG,6'7,210,26,1983,5,1988-1989,1989,Houston,1.0,201,95,0
+Michael Jordan,Chicago Bulls,,"Apr 2, 1989",SG,6'6,215,26,1984,4,1988-1989,1989,North Carolina,1.0,198,97,0
+Michael Jordan,Chicago Bulls,,"Mar 26, 1989",SG,6'6,215,26,1984,4,1988-1989,1989,North Carolina,1.0,198,97,0
+Kevin Johnson,Phoenix Suns,,"Mar 19, 1989",PG,6'1,180,22,1987,1,1988-1989,1989,California,1.0,185,81,0
+Isiah Thomas,Detroit Pistons,,"Mar 12, 1989",PG,6'1,180,27,1981,7,1988-1989,1989,Indiana,1.0,185,81,0
+Chuck Person,Indiana Pacers,,"Mar 5, 1989",SF,6'8,220,24,1986,2,1988-1989,1989,Auburn,1.0,203,99,0
+Patrick Ewing,New York Knicks,,"Feb 26, 1989",C,7'0,240,26,1985,3,1988-1989,1989,Georgetown,1.0,213,108,0
+Hakeem Olajuwon,Houston Rockets,,"Feb 19, 1989",C,7'0,255,26,1984,4,1988-1989,1989,Houston,1.0,213,115,0
+Ron Harper,Cleveland Cavaliers,,"Feb 5, 1989",SG,6'6,185,25,1986,2,1988-1989,1989,Miami (OH),1.0,198,83,0
+Tom Chambers,Phoenix Suns,,"Jan 29, 1989",PF,6'10,220,29,1981,7,1988-1989,1989,Utah,1.0,208,99,0
+Chris Mullin,Golden State Warriors,,"Jan 22, 1989",SF,6'7,215,25,1985,3,1988-1989,1989,St. John's,1.0,201,97,0
+Michael Jordan,Chicago Bulls,,"Jan 15, 1989",SG,6'6,215,26,1984,4,1988-1989,1989,North Carolina,1.0,198,97,0
+Dale Ellis,Seattle SuperSonics,,"Jan 8, 1989",GF,6'7,205,28,1983,5,1988-1989,1989,Tennessee,1.0,201,93,0
+Magic Johnson,Los Angeles Lakers,,"Jan 1, 1989",PG,6'9,255,29,1979,9,1988-1989,1989,Michigan State,1.0,206,115,0
+Clyde Drexler,Portland Trail Blazers,,"Dec 25, 1988",SG,6'7,210,26,1983,5,1988-1989,1989,Houston,1.0,201,95,0
+Robert Parish,Boston Celtics,,"Dec 18, 1988",C,7'0,230,35,1976,11,1988-1989,1989,Centenary,1.0,213,104,0
+Michael Adams,Denver Nuggets,,"Dec 11, 1988",PG,5'10,163,26,1985,3,1988-1989,1989,Boston College,1.0,178,74,0
+Magic Johnson,Los Angeles Lakers,,"Dec 4, 1988",PG,6'9,255,29,1979,9,1988-1989,1989,Michigan State,1.0,206,115,0
+Patrick Ewing,New York Knicks,,"Nov 27, 1988",C,7'0,240,26,1985,3,1988-1989,1989,Georgetown,1.0,213,108,0
+Michael Jordan,Chicago Bulls,,"Nov 20, 1988",SG,6'6,215,26,1984,4,1988-1989,1989,North Carolina,1.0,198,97,0
+Hakeem Olajuwon,Houston Rockets,,"Nov 13, 1988",C,7'0,255,26,1984,4,1988-1989,1989,Houston,1.0,213,115,0
+Karl Malone,Utah Jazz,,"Apr 24, 1988",PF,6'9,265,24,1985,2,1987-1988,1988,Louisiana Tech,1.0,206,120,0
+Fat Lever,Denver Nuggets,,"Apr 17, 1988",PG,6'3,170,27,1982,5,1987-1988,1988,Arizona State,1.0,190,77,0
+Harold Pressley,Sacramento Kings,,"Apr 10, 1988",GF,6'7,210,24,1986,1,1987-1988,1988,Villanova,1.0,201,95,0
+Michael Jordan,Chicago Bulls,,"Apr 3, 1988",SG,6'6,215,25,1984,3,1987-1988,1988,North Carolina,1.0,198,97,0
+Michael Jordan,Chicago Bulls,,"Mar 27, 1988",SG,6'6,215,25,1984,3,1987-1988,1988,North Carolina,1.0,198,97,0
+Charles Barkley,Philadelphia Sixers,,"Mar 20, 1988",PF,6'6,252,25,1984,3,1987-1988,1988,Auburn,1.0,198,114,0
+Clyde Drexler,Portland Trail Blazers,,"Mar 13, 1988",SG,6'7,210,25,1983,4,1987-1988,1988,Houston,1.0,201,95,0
+Bobby Hansen,Utah Jazz,,"Mar 6, 1988",SG,6'6,190,27,1983,4,1987-1988,1988,Iowa,1.0,198,86,0
+Roy Tarpley,Dallas Mavericks,,"Feb 28, 1988",PF,6'11,230,23,1986,1,1987-1988,1988,Michigan,1.0,211,104,0
+John Stockton,Utah Jazz,,"Feb 21, 1988",PG,6'1,170,25,1984,3,1987-1988,1988,Gonzaga,1.0,185,77,0
+Dominique Wilkins,Atlanta Hawks,,"Feb 14, 1988",SF,6'7,200,28,1982,5,1987-1988,1988,Georgia,1.0,201,90,0
+Bernard King,Washington Bullets,,"Jan 31, 1988",SF,6'7,205,31,1977,10,1987-1988,1988,Tennessee,1.0,201,93,0
+Michael Jordan,Chicago Bulls,,"Jan 24, 1988",SG,6'6,215,25,1984,3,1987-1988,1988,North Carolina,1.0,198,97,0
+Dominique Wilkins,Atlanta Hawks,,"Jan 17, 1988",SF,6'7,200,28,1982,5,1987-1988,1988,Georgia,1.0,201,90,0
+Byron Scott,Los Angeles Lakers,,"Jan 10, 1988",SG,6'3,195,26,1983,4,1987-1988,1988,Arizona State,1.0,190,88,0
+Karl Malone,Utah Jazz,,"Jan 3, 1988",PF,6'9,265,24,1985,2,1987-1988,1988,Louisiana Tech,1.0,206,120,0
+Dominique Wilkins,Atlanta Hawks,,"Dec 27, 1987",SF,6'7,200,28,1982,5,1987-1988,1988,Georgia,1.0,201,90,0
+Larry Nance,Phoenix Suns,,"Dec 20, 1987",PF,6'10,205,29,1981,6,1987-1988,1988,Clemson,1.0,208,93,0
+Magic Johnson,Los Angeles Lakers,,"Dec 13, 1987",PG,6'9,255,28,1979,8,1987-1988,1988,Michigan State,1.0,206,115,0
+Clyde Drexler,Portland Trail Blazers,,"Dec 6, 1987",SG,6'7,210,25,1983,4,1987-1988,1988,Houston,1.0,201,95,0
+Clyde Drexler,Portland Trail Blazers,,"Nov 29, 1987",SG,6'7,210,25,1983,4,1987-1988,1988,Houston,1.0,201,95,0
+Xavier McDaniel,Seattle SuperSonics,,"Nov 22, 1987",PF,6'7,205,24,1985,2,1987-1988,1988,Wichita State,1.0,201,93,0
+Larry Bird,Boston Celtics,,"Nov 15, 1987",SF,6'9,220,31,1978,8,1987-1988,1988,Indiana State,1.0,206,99,0
+Julius Erving,Philadelphia Sixers,,"Apr 19, 1987",SF,6'6,200,37,1972,14,1986-1987,1987,Massachusetts,1.0,198,90,0
+Michael Jordan,Chicago Bulls,,"Apr 12, 1987",SG,6'6,215,24,1984,2,1986-1987,1987,North Carolina,1.0,198,97,0
+Magic Johnson,Los Angeles Lakers,,"Apr 5, 1987",PG,6'9,255,27,1979,7,1986-1987,1987,Michigan State,1.0,206,115,0
+Larry Smith,Golden State Warriors,,"Mar 29, 1987",PF,6'8,215,29,1980,6,1986-1987,1987,Alcorn State,1.0,203,97,0
+Magic Johnson,Los Angeles Lakers,,"Mar 22, 1987",PG,6'9,255,27,1979,7,1986-1987,1987,Michigan State,1.0,206,115,0
+Karl Malone,Utah Jazz,,"Mar 15, 1987",PF,6'9,265,23,1985,1,1986-1987,1987,Louisiana Tech,1.0,206,120,0
+Magic Johnson,Los Angeles Lakers,,"Mar 8, 1987",PG,6'9,255,27,1979,7,1986-1987,1987,Michigan State,1.0,206,115,0
+Michael Jordan,Chicago Bulls,,"Mar 1, 1987",SG,6'6,215,24,1984,2,1986-1987,1987,North Carolina,1.0,198,97,0
+Moses Malone,Washington Bullets,,"Feb 22, 1987",C,6'10,215,31,1976,10,1986-1987,1987,Petersburg High School (Virginia),1.0,208,97,0
+Magic Johnson,Los Angeles Lakers,,"Feb 15, 1987",PG,6'9,255,27,1979,7,1986-1987,1987,Michigan State,1.0,206,115,0
+Fat Lever,Denver Nuggets,,"Feb 1, 1987",PG,6'3,170,26,1982,4,1986-1987,1987,Arizona State,1.0,190,77,0
+Alex English,Denver Nuggets,,"Jan 25, 1987",SF,6'7,190,33,1976,10,1986-1987,1987,South Carolina,1.0,201,86,0
+Otis Thorpe,Sacramento Kings,,"Jan 18, 1987",PF,6'9,225,24,1984,2,1986-1987,1987,Providence,1.0,206,102,0
+Isiah Thomas,Detroit Pistons,,"Jan 11, 1987",PG,6'1,180,25,1981,5,1986-1987,1987,Indiana,1.0,185,81,0
+Larry Bird,Boston Celtics,,"Jan 4, 1987",SF,6'9,220,30,1978,7,1986-1987,1987,Indiana State,1.0,206,99,0
+Patrick Ewing,New York Knicks,,"Dec 28, 1986",C,7'0,240,24,1985,1,1986-1987,1987,Georgetown,1.0,213,108,0
+Magic Johnson,Los Angeles Lakers,,"Dec 21, 1986",PG,6'9,255,27,1979,7,1986-1987,1987,Michigan State,1.0,206,115,0
+Dominique Wilkins,Atlanta Hawks,,"Dec 14, 1986",SF,6'7,200,27,1982,4,1986-1987,1987,Georgia,1.0,201,90,0
+Tom Chambers,Seattle SuperSonics,,"Dec 7, 1986",PF,6'10,220,27,1981,5,1986-1987,1987,Utah,1.0,208,99,0
+Hot Rod Williams,Cleveland Cavaliers,,"Nov 30, 1986",FC,6'11,215,24,1985,0,1986-1987,1987,Tulane,1.0,211,97,0
+Alvin Robertson,San Antonio Spurs,,"Nov 23, 1986",SG,6'3,185,24,1984,2,1986-1987,1987,Arkansas,1.0,190,83,0
+Robert Parish,Boston Celtics,,"Nov 16, 1986",C,7'0,230,33,1976,9,1986-1987,1987,Centenary,1.0,213,104,0
+Michael Jordan,Chicago Bulls,,"Nov 9, 1986",SG,6'6,215,24,1984,2,1986-1987,1987,North Carolina,1.0,198,97,0
+Dominique Wilkins,Atlanta Hawks,,"Apr 13, 1986",SF,6'7,200,26,1982,3,1985-1986,1986,Georgia,1.0,201,90,0
+Herb Williams,Indiana Pacers,,"Apr 6, 1986",C,6'10,242,28,1981,4,1985-1986,1986,Ohio State,1.0,208,109,0
+Charles Barkley,Philadelphia Sixers,,"Mar 30, 1986",PF,6'6,252,23,1984,1,1985-1986,1986,Auburn,1.0,198,114,0
+Adrian Dantley,Utah Jazz,,"Mar 23, 1986",SF,6'5,208,30,1976,9,1985-1986,1986,Notre Dame,1.0,196,94,0
+Larry Bird,Boston Celtics,,"Mar 16, 1986",SF,6'9,220,29,1978,6,1985-1986,1986,Indiana State,1.0,206,99,0
+Magic Johnson,Los Angeles Lakers,,"Mar 9, 1986",PG,6'9,255,26,1979,6,1985-1986,1986,Michigan State,1.0,206,115,0
+Charles Barkley,Philadelphia Sixers,,"Mar 2, 1986",PF,6'6,252,23,1984,1,1985-1986,1986,Auburn,1.0,198,114,0
+Sidney Moncrief,Milwaukee Bucks,,"Feb 23, 1986",SG,6'3,180,28,1979,6,1985-1986,1986,Arkansas,1.0,190,81,0
+Larry Bird,Boston Celtics,,"Feb 16, 1986",SF,6'9,220,29,1978,6,1985-1986,1986,Indiana State,1.0,206,99,0
+Alex English,Denver Nuggets,,"Feb 2, 1986",SF,6'7,190,32,1976,9,1985-1986,1986,South Carolina,1.0,201,86,0
+Charles Barkley,Philadelphia Sixers,,"Jan 26, 1986",PF,6'6,252,23,1984,1,1985-1986,1986,Auburn,1.0,198,114,0
+Larry Bird,Boston Celtics,,"Jan 19, 1986",SF,6'9,220,29,1978,6,1985-1986,1986,Indiana State,1.0,206,99,0
+Calvin Natt,Denver Nuggets,,"Jan 12, 1986",F,6'6,220,29,1979,6,1985-1986,1986,Louisiana-Monroe,1.0,198,99,0
+Clyde Drexler,Portland Trail Blazers,,"Jan 5, 1986",SG,6'7,210,23,1983,2,1985-1986,1986,Houston,1.0,201,95,0
+Dominique Wilkins,Atlanta Hawks,,"Dec 29, 1985",SF,6'7,200,26,1982,3,1985-1986,1986,Georgia,1.0,201,90,0
+Larry Nance,Phoenix Suns,,"Dec 22, 1985",PF,6'10,205,27,1981,4,1985-1986,1986,Clemson,1.0,208,93,0
+Alvin Robertson,San Antonio Spurs,,"Dec 15, 1985",SG,6'3,185,23,1984,1,1985-1986,1986,Arkansas,1.0,190,83,0
+Jeff Ruland,Washington Bullets,,"Dec 8, 1985",C,6'10,240,27,1980,4,1985-1986,1986,Iona,1.0,208,108,0
+Larry Bird,Boston Celtics,,"Dec 1, 1985",SF,6'9,220,29,1978,6,1985-1986,1986,Indiana State,1.0,206,99,0
+Alex English,Denver Nuggets,,"Nov 24, 1985",SF,6'7,190,32,1976,9,1985-1986,1986,South Carolina,1.0,201,86,0
+Patrick Ewing,New York Knicks,,"Nov 17, 1985",C,7'0,240,23,1985,0,1985-1986,1986,Georgetown,1.0,213,108,0
+Buck Williams,New Jersey Nets,,"Nov 10, 1985",PF,6'8,215,25,1981,4,1985-1986,1986,Maryland,1.0,203,97,0
+Derek Smith,Los Angeles Clippers,,"Nov 3, 1985",SG,6'6,205,24,1982,3,1985-1986,1986,Louisville,1.0,198,93,0
+Micheal Ray Richardson,New Jersey Nets,,"Apr 14, 1985",PG,6'5,189,29,1978,6,1984-1985,1985,Montana,1.0,196,85,0
+Derek Smith,Los Angeles Clippers,,"Apr 7, 1985",SG,6'6,205,23,1982,2,1984-1985,1985,Louisville,1.0,198,93,0
+Calvin Natt,Denver Nuggets,,"Apr 1, 1985",F,6'6,220,28,1979,5,1984-1985,1985,Louisiana-Monroe,1.0,198,99,0
+Kareem Abdul-Jabbar,Los Angeles Lakers,,"Mar 24, 1985",C,7'2,225,37,1969,15,1984-1985,1985,UCLA,1.0,218,102,0
+Larry Bird,Boston Celtics,,"Mar 17, 1985",SF,6'9,220,28,1978,5,1984-1985,1985,Indiana State,1.0,206,99,0
+Darrell Griffith,Utah Jazz,,"Mar 10, 1985",SG,6'4,190,26,1980,4,1984-1985,1985,Louisville,1.0,193,86,0
+Sleepy Floyd,Golden State Warriors,,"Mar 3, 1985",PG,6'3,170,24,1982,2,1984-1985,1985,Georgetown,1.0,190,77,0
+Mark Aguirre,Dallas Mavericks,,"Feb 24, 1985",SF,6'6,232,25,1981,3,1984-1985,1985,DePaul,1.0,198,105,0
+Magic Johnson,Los Angeles Lakers,,"Feb 17, 1985",PG,6'9,255,25,1979,5,1984-1985,1985,Michigan State,1.0,206,115,0
+Dominique Wilkins,Atlanta Hawks,,"Feb 3, 1985",SF,6'7,200,25,1982,2,1984-1985,1985,Georgia,1.0,201,90,0
+Tom McMillen,Washington Bullets,,"Jan 27, 1985",PF,6'11,215,32,1974,9,1984-1985,1985,Maryland,1.0,211,97,0
+Michael Jordan,Chicago Bulls,,"Jan 20, 1985",SG,6'6,215,22,1984,0,1984-1985,1985,North Carolina,1.0,198,97,0
+World B. Free,Cleveland Cavaliers,,"Jan 13, 1985",G,6'2,185,31,1975,9,1984-1985,1985,Guilford,1.0,188,83,0
+Isiah Thomas,Detroit Pistons,,"Jan 6, 1985",PG,6'1,180,23,1981,3,1984-1985,1985,Indiana,1.0,185,81,0
+Micheal Ray Richardson,New Jersey Nets,,"Dec 30, 1984",PG,6'5,189,29,1978,6,1984-1985,1985,Montana,1.0,196,85,0
+Terry Cummings,Milwaukee Bucks,,"Dec 23, 1984",PF,6'9,220,23,1982,2,1984-1985,1985,DePaul,1.0,206,99,0
+Derek Smith,Los Angeles Clippers,,"Dec 16, 1984",SG,6'6,205,23,1982,2,1984-1985,1985,Louisville,1.0,198,93,0
+Orlando Woolridge,Chicago Bulls,,"Dec 9, 1984",PF,6'9,215,25,1981,3,1984-1985,1985,Notre Dame,1.0,206,97,0
+Jack Sikma,Seattle SuperSonics,,"Dec 2, 1984",C,6'11,230,29,1977,7,1984-1985,1985,Illinois Wesleyan,1.0,211,104,0
+Bernard King,New York Knicks,,"Nov 25, 1984",SF,6'7,205,28,1977,7,1984-1985,1985,Tennessee,1.0,201,93,0
+Moses Malone,Philadelphia Sixers,,"Nov 18, 1984",C,6'10,215,29,1976,8,1984-1985,1985,Petersburg High School (Virginia),1.0,208,97,0
+Alex English,Denver Nuggets,,"Nov 11, 1984",SF,6'7,190,31,1976,8,1984-1985,1985,South Carolina,1.0,201,86,0
+Larry Nance,Phoenix Suns,,"Nov 4, 1984",PF,6'10,205,26,1981,3,1984-1985,1985,Clemson,1.0,208,93,0
+Dominique Wilkins,Atlanta Hawks,,"Apr 15, 1984",SF,6'7,200,24,1982,1,1983-1984,1984,Georgia,1.0,201,90,0
+Kareem Abdul-Jabbar,Los Angeles Lakers,,"Apr 8, 1984",C,7'2,225,36,1969,14,1983-1984,1984,UCLA,1.0,218,102,0
+Isiah Thomas,Detroit Pistons,,"Apr 1, 1984",PG,6'1,180,22,1981,2,1983-1984,1984,Indiana,1.0,185,81,0
+Moses Malone,Philadelphia Sixers,,"Mar 25, 1984",C,6'10,215,28,1976,7,1983-1984,1984,Petersburg High School (Virginia),1.0,208,97,0
+Adrian Dantley,Utah Jazz,,"Mar 18, 1984",SF,6'5,208,28,1976,7,1983-1984,1984,Notre Dame,1.0,196,94,0
+Larry Bird,Boston Celtics,,"Mar 11, 1984",SF,6'9,220,27,1978,4,1983-1984,1984,Indiana State,1.0,206,99,0
+Mickey Johnson,Golden State Warriors,,"Mar 4, 1984",PF,6'10,190,31,1974,9,1983-1984,1984,Aurora,1.0,208,86,0
+Magic Johnson,Los Angeles Lakers,,"Feb 26, 1984",PG,6'9,255,24,1979,4,1983-1984,1984,Michigan State,1.0,206,115,0
+Larry Bird,Boston Celtics,,"Feb 19, 1984",SF,6'9,220,27,1978,4,1983-1984,1984,Indiana State,1.0,206,99,0
+Kareem Abdul-Jabbar,Los Angeles Lakers,,"Feb 12, 1984",C,7'2,225,36,1969,14,1983-1984,1984,UCLA,1.0,218,102,0
+Bernard King,New York Knicks,,"Feb 5, 1984",SF,6'7,205,27,1977,6,1983-1984,1984,Tennessee,1.0,201,93,0
+Buck Williams,New Jersey Nets,,"Jan 22, 1984",PF,6'8,215,23,1981,2,1983-1984,1984,Maryland,1.0,203,97,0
+Kelly Tripucka,Detroit Pistons,,"Jan 15, 1984",SF,6'6,220,25,1981,2,1983-1984,1984,Notre Dame,1.0,198,99,0
+Purvis Short,Golden State Warriors,,"Jan 8, 1984",SF,6'7,210,26,1978,5,1983-1984,1984,Jackson State,1.0,201,95,0
+Isiah Thomas,Detroit Pistons,,"Jan 1, 1984",PG,6'1,180,22,1981,2,1983-1984,1984,Indiana,1.0,185,81,0
+Dan Roundfield,Atlanta Hawks,,"Dec 25, 1983",PF,6'8,205,30,1975,7,1983-1984,1984,Central Michigan,1.0,203,93,0
+Adrian Dantley,Utah Jazz,,"Dec 18, 1983",SF,6'5,208,28,1976,7,1983-1984,1984,Notre Dame,1.0,196,94,0
+Jeff Ruland,Washington Bullets,,"Dec 11, 1983",C,6'10,240,25,1980,2,1983-1984,1984,Iona,1.0,208,108,0
+Rickey Green,Utah Jazz,,"Dec 4, 1983",PG,6'0,170,29,1977,5,1983-1984,1984,Michigan,1.0,183,77,0
+Mark Aguirre,Dallas Mavericks,,"Nov 27, 1983",SF,6'6,232,24,1981,2,1983-1984,1984,DePaul,1.0,198,105,0
+Kiki Vandeweghe,Denver Nuggets,,"Nov 20, 1983",SF,6'8,220,25,1980,3,1983-1984,1984,UCLA,1.0,203,99,0
+Magic Johnson,Los Angeles Lakers,,"Nov 13, 1983",PG,6'9,255,24,1979,4,1983-1984,1984,Michigan State,1.0,206,115,0
+Eddie Johnson,Kansas City Kings,,"Nov 6, 1983",SF,6'7,215,24,1981,2,1983-1984,1984,Illinois,1.0,201,97,0
+Mike Glenn,Atlanta Hawks,,"Apr 17, 1983",G,6'2,175,27,1977,5,1982-1983,1983,Southern Illinois,1.0,188,79,0
+Magic Johnson,Los Angeles Lakers,,"Apr 10, 1983",PG,6'9,255,23,1979,3,1982-1983,1983,Michigan State,1.0,206,115,0
+Larry Bird,Boston Celtics,,"Apr 3, 1983",SF,6'9,220,26,1978,3,1982-1983,1983,Indiana State,1.0,206,99,0
+Jeff Ruland,Washington Bullets,,"Mar 27, 1983",C,6'10,240,24,1980,1,1982-1983,1983,Iona,1.0,208,108,0
+Andrew Toney,Philadelphia Sixers,,"Mar 20, 1983",G,6'3,178,25,1980,2,1982-1983,1983,Louisiana,1.0,190,80,0
+Gus Williams,Seattle SuperSonics,,"Mar 20, 1983",G,6'2,175,29,1975,6,1982-1983,1983,USC,1.0,188,79,0
+Magic Johnson,Los Angeles Lakers,,"Mar 13, 1983",PG,6'9,255,23,1979,3,1982-1983,1983,Michigan State,1.0,206,115,0
+John Drew,Utah Jazz,,"Mar 6, 1983",GF,6'6,205,28,1974,8,1982-1983,1983,Gardner-Webb,1.0,198,93,0
+Walter Davis,Phoenix Suns,,"Feb 27, 1983",GF,6'6,193,28,1977,5,1982-1983,1983,North Carolina,1.0,198,87,0
+Larry Nance,Phoenix Suns,,"Feb 20, 1983",PF,6'10,205,24,1981,1,1982-1983,1983,Clemson,1.0,208,93,0
+Moses Malone,Philadelphia Sixers,,"Feb 6, 1983",C,6'10,215,27,1976,6,1982-1983,1983,Petersburg High School (Virginia),1.0,208,97,0
+Artis Gilmore,San Antonio Spurs,,"Jan 30, 1983",C,7'2,240,33,1971,6,1982-1983,1983,Jacksonville,1.0,218,108,0
+Joe Barry Carroll,Golden State Warriors,,"Jan 23, 1983",FC,7'0,225,24,1980,2,1982-1983,1983,Purdue,1.0,213,102,0
+Alex English,Denver Nuggets,,"Jan 16, 1983",SF,6'7,190,29,1976,6,1982-1983,1983,South Carolina,1.0,201,86,0
+Mickey Johnson,New Jersey Nets,,"Jan 9, 1983",PF,6'10,190,30,1974,8,1982-1983,1983,Aurora,1.0,208,86,0
+Kiki Vandeweghe,Denver Nuggets,,"Jan 2, 1983",SF,6'8,220,24,1980,2,1982-1983,1983,UCLA,1.0,203,99,0
+Maurice Lucas,Phoenix Suns,,"Dec 26, 1982",PF,6'9,215,31,1974,6,1982-1983,1983,Marquette,1.0,206,97,0
+Isiah Thomas,Detroit Pistons,,"Dec 19, 1982",PG,6'1,180,21,1981,1,1982-1983,1983,Indiana,1.0,185,81,0
+Larry Bird,Boston Celtics,,"Dec 12, 1982",SF,6'9,220,26,1978,3,1982-1983,1983,Indiana State,1.0,206,99,0
+Buck Williams,New Jersey Nets,,"Dec 5, 1982",PF,6'8,215,22,1981,1,1982-1983,1983,Maryland,1.0,203,97,0
+Larry Bird,Boston Celtics,,"Nov 28, 1982",SF,6'9,220,26,1978,3,1982-1983,1983,Indiana State,1.0,206,99,0
+Alex English,Denver Nuggets,,"Nov 21, 1982",SF,6'7,190,29,1976,6,1982-1983,1983,South Carolina,1.0,201,86,0
+Kelly Tripucka,Detroit Pistons,,"Nov 14, 1982",SF,6'6,220,24,1981,1,1982-1983,1983,Notre Dame,1.0,198,99,0
+Reggie Theus,Chicago Bulls,,"Nov 7, 1982",GF,6'7,190,25,1978,4,1982-1983,1983,UNLV,1.0,201,86,0
+Ray Williams,New Jersey Nets,,"Apr 18, 1982",G,6'3,188,27,1977,4,1981-1982,1982,Minnesota,1.0,190,85,0
+Billy Ray Bates,Portland Trail Blazers,,"Apr 11, 1982",SG,6'4,210,25,1978,3,1981-1982,1982,Kentucky State,1.0,193,95,0
+Jack Sikma,Seattle SuperSonics,,"Apr 4, 1982",C,6'11,230,26,1977,4,1981-1982,1982,Illinois Wesleyan,1.0,211,104,0
+Moses Malone,Houston Rockets,,"Mar 28, 1982",C,6'10,215,26,1976,5,1981-1982,1982,Petersburg High School (Virginia),1.0,208,97,0
+Robert Parish,Boston Celtics,,"Mar 21, 1982",C,7'0,230,28,1976,4,1981-1982,1982,Centenary,1.0,213,104,0
+Kelly Tripucka,Detroit Pistons,,"Mar 14, 1982",SF,6'6,220,23,1981,0,1981-1982,1982,Notre Dame,1.0,198,99,0
+George Gervin,San Antonio Spurs,,"Mar 7, 1982",GF,6'7,180,29,1974,5,1981-1982,1982,Eastern Michigan,1.0,201,81,0
+Kareem Abdul-Jabbar,Los Angeles Lakers,,"Feb 28, 1982",C,7'2,225,34,1969,12,1981-1982,1982,UCLA,1.0,218,102,0
+"Eddie Johnson, Jr.",Atlanta Hawks,,"Feb 21, 1982",G,6'2,180,27,1977,4,1981-1982,1982,Auburn,1.0,188,81,0
+Jay Vincent,Dallas Mavericks,,"Feb 14, 1982",F,6'7,220,22,1981,0,1981-1982,1982,Michigan State,1.0,201,99,0
+Moses Malone,Houston Rockets,,"Feb 7, 1982",C,6'10,215,26,1976,5,1981-1982,1982,Petersburg High School (Virginia),1.0,208,97,0
+Greg Ballard,Washington Bullets,,"Jan 24, 1982",F,6'7,215,27,1977,4,1981-1982,1982,Oregon,1.0,201,97,0
+Larry Bird,Boston Celtics,,"Jan 17, 1982",SF,6'9,220,25,1978,2,1981-1982,1982,Indiana State,1.0,206,99,0
+Gus Williams,Seattle SuperSonics,,"Jan 10, 1982",G,6'2,175,28,1975,5,1981-1982,1982,USC,1.0,188,79,0
+George Gervin,San Antonio Spurs,,"Jan 3, 1982",GF,6'7,180,29,1974,5,1981-1982,1982,Eastern Michigan,1.0,201,81,0
+Larry Bird,Boston Celtics,,"Dec 27, 1981",SF,6'9,220,25,1978,2,1981-1982,1982,Indiana State,1.0,206,99,0
+Bernard King,Golden State Warriors,,"Dec 20, 1981",SF,6'7,205,25,1977,4,1981-1982,1982,Tennessee,1.0,201,93,0
+Artis Gilmore,Chicago Bulls,,"Dec 13, 1981",C,7'2,240,32,1971,5,1981-1982,1982,Jacksonville,1.0,218,108,0
+George Gervin,San Antonio Spurs,,"Dec 6, 1981",GF,6'7,180,29,1974,5,1981-1982,1982,Eastern Michigan,1.0,201,81,0
+Alex English,Denver Nuggets,,"Nov 29, 1981",SF,6'7,190,28,1976,5,1981-1982,1982,South Carolina,1.0,201,86,0
+Dan Roundfield,Atlanta Hawks,,"Nov 22, 1981",PF,6'8,205,28,1975,5,1981-1982,1982,Central Michigan,1.0,203,93,0
+Ron Brewer,San Antonio Spurs,,"Nov 15, 1981",G,6'4,180,26,1978,3,1981-1982,1982,Arkansas,1.0,193,81,0
+Mychal Thompson,Portland Trail Blazers,,"Nov 8, 1981",FC,6'10,226,27,1978,3,1981-1982,1982,Minnesota,1.0,208,102,0
+Robert Reid,Houston Rockets,,"Mar 29, 1981",GF,6'8,205,25,1977,3,1980-1981,1981,St. Mary's (TX),1.0,203,93,0
+Micheal Ray Richardson,New York Knicks,,"Mar 22, 1981",PG,6'5,189,25,1978,2,1980-1981,1981,Montana,1.0,196,85,0
+Moses Malone,Houston Rockets,,"Mar 15, 1981",C,6'10,215,25,1976,4,1980-1981,1981,Petersburg High School (Virginia),1.0,208,97,0
+Larry Smith,Golden State Warriors,,"Mar 8, 1981",PF,6'8,215,23,1980,0,1980-1981,1981,Alcorn State,1.0,203,97,0
+Terry Tyler,Detroit Pistons,,"Mar 1, 1981",GF,6'7,215,24,1978,2,1980-1981,1981,Detroit-Mercy,1.0,201,97,0
+Mike Mitchell,Cleveland Cavaliers,,"Feb 22, 1981",F,6'7,215,25,1978,2,1980-1981,1981,Auburn,1.0,201,97,0
+Mike Newlin,New Jersey Nets,,"Feb 15, 1981",GF,6'4,200,32,1971,9,1980-1981,1981,Utah,1.0,193,90,0
+Caldwell Jones,Philadelphia Sixers,,"Feb 8, 1981",FC,6'11,216,30,1973,6,1980-1981,1981,Albany State (GA),1.0,211,98,0
+Kenny Carr,Cleveland Cavaliers,,"Feb 1, 1981",GF,6'7,220,25,1977,3,1980-1981,1981,NC State,1.0,201,99,0
+Phil Ford,Kansas City Kings,,"Jan 25, 1981",G,6'2,175,25,1978,2,1980-1981,1981,North Carolina,1.0,188,79,0
+Julius Erving,Philadelphia Sixers,,"Jan 18, 1981",SF,6'6,200,31,1972,8,1980-1981,1981,Massachusetts,1.0,198,90,0
+Tiny Archibald,Boston Celtics,,"Jan 11, 1981",PG,6'1,150,32,1970,10,1980-1981,1981,UTEP,1.0,185,68,0
+Bernard King,Golden State Warriors,,"Jan 4, 1981",SF,6'7,205,24,1977,3,1980-1981,1981,Tennessee,1.0,201,93,0
+Dennis Johnson,Phoenix Suns,,"Dec 28, 1980",PG,6'4,185,26,1976,4,1980-1981,1981,Pepperdine,1.0,193,83,0
+Kareem Abdul-Jabbar,Los Angeles Lakers,,"Dec 21, 1980",C,7'2,225,33,1969,11,1980-1981,1981,UCLA,1.0,218,102,0
+Dan Roundfield,Atlanta Hawks,,"Dec 14, 1980",PF,6'8,205,27,1975,4,1980-1981,1981,Central Michigan,1.0,203,93,0
+"Mike Dunleavy, Sr.",Houston Rockets,,"Dec 7, 1980",G,6'3,180,26,1976,4,1980-1981,1981,South Carolina,1.0,190,81,0
+Robert Parish,Boston Celtics,,"Nov 30, 1980",C,7'0,230,27,1976,3,1980-1981,1981,Centenary,1.0,213,104,0
+Artis Gilmore,Chicago Bulls,,"Nov 23, 1980",C,7'2,240,31,1971,4,1980-1981,1981,Jacksonville,1.0,218,108,0
+Billy Knight,Indiana Pacers,,"Nov 16, 1980",GF,6'6,195,28,1974,4,1980-1981,1981,Pittsburgh,1.0,198,88,0
+Elvin Hayes,Washington Bullets,,"Nov 9, 1980",FC,6'9,235,35,1968,12,1980-1981,1981,Houston,1.0,206,106,0
+David Thompson,Denver Nuggets,,"Nov 2, 1980",GF,6'5,195,26,1975,4,1980-1981,1981,NC State,1.0,196,88,0
+Otis Birdsong,Kansas City Kings,,"Oct 26, 1980",GF,6'3,190,25,1977,3,1980-1981,1981,Houston,1.0,190,86,0
+Adrian Dantley,Utah Jazz,,"Oct 19, 1980",SF,6'5,208,25,1976,4,1980-1981,1981,Notre Dame,1.0,196,94,0
+Kevin Grevey,Washington Bullets,,"Mar 30, 1980",GF,6'5,210,26,1975,4,1979-1980,1980,Kentucky,1.0,196,95,0
+Billy Ray Bates,Portland Trail Blazers,,"Mar 23, 1980",SG,6'4,210,23,1978,1,1979-1980,1980,Kentucky State,1.0,193,95,0
+Magic Johnson,Los Angeles Lakers,,"Mar 16, 1980",PG,6'9,255,20,1979,0,1979-1980,1980,Michigan State,1.0,206,115,0
+Cliff Robinson,New Jersey Nets,,"Mar 9, 1980",F,6'9,220,19,1979,0,1979-1980,1980,USC,1.0,206,99,0
+Larry Bird,Boston Celtics,,"Mar 2, 1980",SF,6'9,220,23,1978,0,1979-1980,1980,Indiana State,1.0,206,99,0
+Calvin Natt,Portland Trail Blazers,,"Feb 24, 1980",F,6'6,220,23,1979,0,1979-1980,1980,Louisiana-Monroe,1.0,198,99,0
+Kareem Abdul-Jabbar,Los Angeles Lakers,,"Feb 17, 1980",C,7'2,225,32,1969,10,1979-1980,1980,UCLA,1.0,218,102,0
+Rick Barry,Houston Rockets,,"Feb 10, 1980",F,6'7,205,35,1965,9,1979-1980,1980,Miami (FL),1.0,201,93,0
+George Gervin,San Antonio Spurs,,"Jan 27, 1980",GF,6'7,180,27,1974,3,1979-1980,1980,Eastern Michigan,1.0,201,81,0
+Dennis Johnson,Seattle SuperSonics,,"Jan 20, 1980",PG,6'4,185,25,1976,3,1979-1980,1980,Pepperdine,1.0,193,83,0
+Greg Ballard,Washington Bullets,,"Jan 13, 1980",F,6'7,215,25,1977,2,1979-1980,1980,Oregon,1.0,201,97,0
+Scott Wedman,Kansas City Kings,,"Jan 6, 1980",GF,6'7,215,27,1974,5,1979-1980,1980,Colorado,1.0,201,97,0
+Mike Mitchell,Cleveland Cavaliers,,"Dec 30, 1979",F,6'7,215,24,1978,1,1979-1980,1980,Auburn,1.0,201,97,0
+Swen Nater,San Diego Clippers,,"Dec 23, 1979",C,6'11,240,30,1973,3,1979-1980,1980,UCLA,1.0,211,108,0
+Dan Roundfield,Atlanta Hawks,,"Dec 16, 1979",PF,6'8,205,26,1975,3,1979-1980,1980,Central Michigan,1.0,203,93,0
+Kareem Abdul-Jabbar,Los Angeles Lakers,,"Dec 9, 1979",C,7'2,225,32,1969,10,1979-1980,1980,UCLA,1.0,218,102,0
+Adrian Dantley,Utah Jazz,,"Dec 2, 1979",SF,6'5,208,24,1976,3,1979-1980,1980,Notre Dame,1.0,196,94,0
+Walter Davis,Phoenix Suns,,"Nov 25, 1979",GF,6'6,193,25,1977,2,1979-1980,1980,North Carolina,1.0,198,87,0
+Phil Ford,Kansas City Kings,,"Nov 18, 1979",G,6'2,175,24,1978,1,1979-1980,1980,North Carolina,1.0,188,79,0
+Magic Johnson,Los Angeles Lakers,,"Nov 11, 1979",PG,6'9,255,20,1979,0,1979-1980,1980,Michigan State,1.0,206,115,0
+Marques Johnson,Milwaukee Bucks,,"Nov 4, 1979",GF,6'7,218,24,1977,2,1979-1980,1980,UCLA,1.0,201,98,0
+Micheal Ray Richardson,New York Knicks,,"Oct 28, 1979",PG,6'5,189,24,1978,1,1979-1980,1980,Montana,1.0,196,85,0
+Julius Erving,Philadelphia Sixers,,"Oct 21, 1979",SF,6'6,200,30,1972,7,1979-1980,1980,Massachusetts,1.0,198,90,0

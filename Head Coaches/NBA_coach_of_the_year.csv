@@ -1,59 +1,60 @@
-Season,Person,Team,Age,Nationality,Season Short
-2019-2020,Nick Nurse,Toronto Raptors,,United States,2019
-2018-2019,Mike Budenholzer,Milwaukee Bucks,49,United States,2018
-2017-2018,Dwane Casey,Toronto Raptors,,United States,2017
-2016-2017,Mike D'Antoni,Houston Rockets,65,United States,2016
-2015-2016,Steve Kerr,Golden State Warriors,50,United States,2015
-2014-2015,Mike Budenholzer,Atlanta Hawks,45,United States,2014
-2013-2014,Gregg Popovich,San Antonio Spurs,65,United States,2013
-2012-2013,George Karl,Denver Nuggets,61,United States,2012
-2011-2012,Gregg Popovich,San Antonio Spurs,63,United States,2011
-2010-2011,Tom Thibodeau,Chicago Bulls,53,United States,2010
-2009-2010,Scott Brooks,Oklahoma City Thunder,44,United States,2009
-2008-2009,Mike Brown,Cleveland Cavaliers,,United States,2008
-2007-2008,Byron Scott,New Orleans Pelicans,46,United States,2007
-2006-2007,Sam Mitchell,Toronto Raptors,43,United States,2006
-2005-2006,Avery Johnson,Dallas Mavericks,40,United States,2005
-2004-2005,Mike D'Antoni,Phoenix Suns,53,United States,2004
-2003-2004,Hubie Brown,Memphis Grizzlies,,,2003
-2002-2003,Gregg Popovich,San Antonio Spurs,54,United States,2002
-2001-2002,Rick Carlisle,Detroit Pistons,42,United States,2001
-2000-2001,Larry Brown,Philadelphia Sixers,60,United States,2000
-1999-2000,Doc Rivers,Orlando Magic,38,United States,1999
-1998-1999,"Mike Dunleavy, Sr.",Portland Trail Blazers,,United States,1998
-1997-1998,Larry Bird,Indiana Pacers,41,United States,1997
-1996-1997,Pat Riley,Miami Heat,51,United States,1996
-1995-1996,Phil Jackson,Chicago Bulls,50,United States,1995
-1994-1995,Del Harris,Los Angeles Lakers,,,1994
-1993-1994,Lenny Wilkens,Atlanta Hawks,56,United States,1993
-1992-1993,Pat Riley,New York Knicks,47,United States,1992
-1991-1992,Don Nelson,Golden State Warriors,51,United States,1991
-1990-1991,Don Chaney,Houston Rockets,,,1990
-1989-1990,Pat Riley,Los Angeles Lakers,44,United States,1989
-1988-1989,Cotton Fitzsimmons,Phoenix Suns,,,1988
-1987-1988,Doug Moe,Denver Nuggets,,,1987
-1986-1987,Mike Schuler,Portland Trail Blazers,,,1986
-1985-1986,Mike Fratello,Atlanta Hawks,39,United States,1985
-1984-1985,Don Nelson,Milwaukee Bucks,44,United States,1984
-1983-1984,Frank Layden,Utah Jazz,,,1983
-1982-1983,Don Nelson,Milwaukee Bucks,42,United States,1982
-1981-1982,Gene Shue,Washington Wizards,50,United States,1981
-1980-1981,Jack McKinney,Indiana Pacers,,,1980
-1979-1980,Bill Fitch,Boston Celtics,,,1979
-1978-1979,Cotton Fitzsimmons,Kansas City Kings,,,1978
-1977-1978,Hubie Brown,Atlanta Hawks,,,1977
-1976-1977,Tom Nissalke,Houston Rockets,,,1976
-1975-1976,Bill Fitch,Cleveland Cavaliers,,,1975
-1974-1975,Phil Johnson,Kansas City Kings,,,1974
-1973-1974,Ray Scott,Detroit Pistons,35,United States,1973
-1972-1973,Tom Heinsohn,Boston Celtics,38,United States,1972
-1971-1972,Bill Sharman,Los Angeles Lakers,45,United States,1971
-1970-1971,Dick Motta,Chicago Bulls,,,1970
-1969-1970,Red Holzman,New York Knicks,,,1969
-1968-1969,Gene Shue,Washington Wizards,37,United States,1968
-1967-1968,Richie Guerin,St. Louis Hawks,,,1967
-1966-1967,Red Kerr,Chicago Bulls,34,United States,1966
-1965-1966,Dolph Schayes,Philadelphia Sixers,37,United States,1965
-1964-1965,Red Auerbach,Boston Celtics,47,United States,1964
-1963-1964,Alex Hannum,Golden State Warriors,,,1963
-1962-1963,Harry Gallatin,St. Louis Hawks,,,1962
+Year,Coach,Team,W-L,Playoffs W-L,Career W-L,Exp [Years],W,L,Playoffs W,Playoffs L,Career W,Career L,Born,Birthplace,College,Overall Record
+2020,Nick Nurse,Toronto Raptors,53-19,4-0,114-45,1,53,19,4,0,114,45,"July 24, 1967","Carroll, IA",,114 - 45
+2019,Mike Budenholzer,Milwaukee Bucks,60-22,10-5,329-236,6,60,22,10,5,329,236,"August 6, 1969","Holbrook, AZ",,329 - 236
+2018,Dwane Casey,Toronto Raptors,59-23,4-6,434-394,10,59,23,4,6,434,394,"April 17, 1957","Indianapolis, IN",,434 - 394
+2017,Mike D'Antoni,Houston Rockets,55-27,6-5,672-527,15,55,27,6,5,672,527,"May 8, 1951","Mullens, WV",,672 - 527
+2016,Steve Kerr,Golden State Warriors,73-9,15-9,337-138,5,73,9,15,9,337,138,"September 27, 1965",--,University of Arizona,337 - 138
+2015,Mike Budenholzer,Atlanta Hawks,60-22,8-8,329-236,6,60,22,8,8,329,236,"August 6, 1969","Holbrook, AZ",,329 - 236
+2014,Gregg Popovich,San Antonio Spurs,62-20,16-7,1277-614,23,62,20,16,7,1277,614,"January 28, 1949","East Chicago, IN",,1277 - 614
+2013,George Karl,Denver Nuggets,57-25,2-4,1175-824,27,57,25,2,4,1175,824,"May 12, 1951","Penn Hills, PA",,1175 - 824
+2012,Gregg Popovich,San Antonio Spurs,50-16,10-4,1277-614,23,50,16,10,4,1277,614,"January 28, 1949","East Chicago, IN",,1277 - 614
+2011,Tom Thibodeau,Chicago Bulls,62-20,9-7,352-246,8,62,20,9,7,352,246,--,--,,352 - 246
+2010,Scott Brooks,Oklahoma City Thunder,50-32,2-4,487-376,10,50,32,2,4,487,376,"July 31, 1965","French Camp, CA",University of California at Irvine,487 - 376
+2009,Mike Brown,Cleveland Cavaliers,66-16,10-4,356-224,0,66,16,10,4,356,224,"March 5, 1970","Newark, NJ",George Washington University,356 - 224
+2008,Byron Scott,New Orleans Hornets,56-26,7-5,454-647,15,56,26,7,5,454,647,"March 28, 1961","Ogden, UT",Arizona State University,454 - 647
+2007,Sam Mitchell,Toronto Raptors,47-35,2-4,185-243,7,47,35,2,4,185,243,"September 2, 1963","Columbus, GA",Mercer University,185 - 243
+2006,Avery Johnson,Dallas Mavericks,60-22,14-9,254-186,6,60,22,14,9,254,186,"March 25, 1965","New Orleans, LA",Southern University & A&M,254 - 186
+2005,Mike D'Antoni,Phoenix Suns,62-20,9-6,672-527,15,62,20,9,6,672,527,"May 8, 1951","Mullens, WV",,672 - 527
+2004,Hubie Brown,Memphis Grizzlies,50-32,0-4,424-489,13,50,32,0,4,424,489,--,--,,424 - 489
+2003,Hubie Brown,Memphis Grizzlies,28-41,,424-489,13,28,41,,,424,489,--,--,,424 - 489
+,Gregg Popovich,San Antonio Spurs,60-22,16-8,1277-614,23,60,22,16,8,1277,614,"January 28, 1949","East Chicago, IN",,1277 - 614
+2002,Rick Carlisle,Detroit Pistons,50-32,4-6,794-659,17,50,32,4,6,794,659,"October 27, 1959","Ogdensburg, NY",,794 - 659
+2001,Larry Brown,Philadelphia 76ers,56-26,12-11,1098-904,0,56,26,12,11,1098,904,--,--,,1098 - 904
+2000,Doc Rivers,Orlando Magic,41-41,,943-681,20,41,41,,,943,681,"October 13, 1961","Maywood, IL",Marquette University,943 - 681
+1999,Mike Dunleavy,Portland Trail Blazers,35-15,7-6,613-716,17,35,15,7,6,613,716,"September 15, 1980","Fort Worth, TX",Duke University,613 - 716
+1998,Larry Bird,Indiana Pacers,58-24,10-6,147-67,0,58,24,10,6,147,67,"December 7, 1956",--,,147 - 67
+1997,Pat Riley,Miami Heat,61-21,8-9,1246-688,0,61,21,8,9,1246,688,"March 20, 1945","Rome, NY",,1246 - 688
+1996,Phil Jackson,Chicago Bulls,72-10,15-3,1155-485,0,72,10,15,3,1155,485,"September 17, 1945","Deer Lodge, MT",,1155 - 485
+1995,Del Harris,Los Angeles Lakers,42-40,,550-463,14,42,40,,,550,463,--,--,,550 - 463
+1994,Lenny Wilkens,Atlanta Hawks,57-25,5-6,1296-1109,32,57,25,5,6,1296,1109,"October 28, 1937","Brooklyn, NY",Providence College,1296 - 1109
+1993,Pat Riley,New York Knicks,60-22,9-6,1246-688,0,60,22,9,6,1246,688,"March 20, 1945","Rome, NY",,1246 - 688
+1992,Don Nelson,Golden State Warriors,55-27,1-3,1335-1063,31,55,27,1,3,1335,1063,"May 15, 1940","Muskegon, MI",,1335 - 1063
+1991,Don Chaney,Houston Rockets,52-30,0-3,337-494,12,52,30,0,3,337,494,"March 22, 1946","Baton Rouge, LA",,337 - 494
+1990,Pat Riley,Los Angeles Lakers,63-19,4-5,1246-688,0,63,19,4,5,1246,688,"March 20, 1945","Rome, NY",,1246 - 688
+1989,Cotton Fitzsimmons,Phoenix Suns,55-27,,692-593,21,55,27,,,692,593,--,--,,692 - 593
+1988,Doug Moe,Denver Nuggets,54-28,5-6,628-529,15,54,28,5,6,628,529,--,--,,628 - 529
+1987,Mike Schuler,Portland Trail Blazers,49-23,,179-149,6,49,23,,,179,149,--,--,,179 - 149
+1986,Mike Fratello,Atlanta Hawks,50-32,4-5,667-548,17,50,32,4,5,667,548,--,--,,667 - 548
+1985,Don Nelson,Milwaukee Bucks,59-23,3-5,1335-1063,31,59,23,3,5,1335,1063,"May 15, 1940","Muskegon, MI",,1335 - 1063
+1984,Frank Layden,Utah Jazz,45-37,,277-294,8,45,37,,,277,294,--,--,,277 - 294
+1983,Don Nelson,Milwaukee Bucks,51-31,5-4,1335-1063,31,51,31,5,4,1335,1063,"May 15, 1940","Muskegon, MI",,1335 - 1063
+1982,Eugene Shue,Washington Bullets,43-39,,625-718,22,43,39,,,625,718,"December 18, 1931","Baltimore, MD",,625 - 718
+1981,Jack McKinney,Indiana Pacers,44-38,,136-215,6,44,38,,,136,215,--,--,,136 - 215
+1980,Bill Fitch,Boston Celtics,61-21,,944-1106,25,61,21,,,944,1106,--,--,,944 - 1106
+1979,Cotton Fitzsimmons,Kansas City Kings,48-34,,692-593,21,48,34,,,692,593,--,--,,692 - 593
+1978,Hubie Brown,Atlanta Hawks,41-41,0-2,424-489,13,41,41,0,2,424,489,--,--,,424 - 489
+1977,Tom Nissalke,Houston Rockets,49-33,,248-391,9,49,33,,,248,391,--,--,,248 - 391
+1976,Bill Fitch,Cleveland Cavaliers,49-33,,944-1106,25,49,33,,,944,1106,--,--,,944 - 1106
+1975,Phil Johnson,Kansas City-Omaha Kings,44-38,,236-306,9,44,38,,,236,306,--,--,,236 - 306
+1974,Ray Scott,Detroit Pistons,52-30,,147-134,4,52,30,,,147,134,"July 12, 1938","Philadelphia, PA",,147 - 134
+1973,Thomas Heinsohn,Boston Celtics,68-14,,393-215,9,68,14,,,393,215,"August 26, 1934","Union City, NJ",,393 - 215
+1972,Bill Sharman,Los Angeles Lakers,69-13,,246-164,7,69,13,,,246,164,"May 25, 1926","Abilene, TX",University of Southern California,246 - 164
+1971,Dick Motta,Chicago Bulls,51-31,,863-925,25,51,31,,,863,925,--,--,,863 - 925
+1970,Red Holzman,New York Knicks,60-22,,471-417,18,60,22,,,471,417,"August 10, 1920","Brooklyn, NY",,471 - 417
+1969,Eugene Shue,Baltimore Bullets,57-25,,625-718,22,57,25,,,625,718,"December 18, 1931","Baltimore, MD",,625 - 718
+1968,Richard Guerin,St. Louis Hawks,56-26,,72-92,8,56,26,,,72,92,"May 29, 1932","New York, NY",,72 - 92
+1967,John Kerr,Chicago Bulls,33-48,,,4,33,48,,,,,"August 17, 1932","Chicago, IL",,0 - 0
+1966,Adolph Schayes,Philadelphia 76ers,55-25,,22-61,5,55,25,,,22,61,"May 19, 1928","New York, NY",,22 - 61
+1965,Red Auerbach,Boston Celtics,62-18,8-4,,17,62,18,8,4,,,--,--,,0 - 0
+1964,Alexander Hannum,San Francisco Warriors,48-32,,40-42,12,48,32,,,40,42,"July 19, 1923","Los Angeles, CA",,40 - 42
+1963,Harry Gallatin,St. Louis Hawks,48-32,,,5,48,32,,,,,"April 26, 1927","Roxana, IL",,0 - 0

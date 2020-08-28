@@ -42,24 +42,32 @@ You can find the full data sets that I scraped, my analysis and others on [Kaggl
   | Num of teams | |
  
 ### 2.NBA Coach of the Year Recipients
- Scraping info about NBA coach of the year, starting from 1962
+ Scraping info about NBA coach of the year, starting from 1963
 
  #### Parameters
 
   | Parameter |	Description	|
   | --- | --- |
-  | Season |	for example 2017-2018	|
-  | Person |	Head Coach Name|
+  | Year |	starting year of Season	|
+  | Coach |	Head Coach Name|
   | Team | |
-  | Age | |
-  | Nationality | |
-  | Season Short | for example 2017 |
-  
-
-
+  | W-L | W-L in Season |
+  | Playoffs W-L | Playoffs W-L in Season |
+  | Career W-L | Career W-L in Season |
+  | Exp (Years) | Experience Years till season |
+  | W | wins in Season |  
+  | L | losses in Season |
+  | Playoffs W | Playoffs wins in Season|
+  | Playoffs L | Playoffs losses in Season |
+  | Career W | Careers wins till Season|
+  | Career L | Careers losses till Season|
+  | Born | Birthdate MMM DD, YYYY|
+  | Birthplace | |
+  | College | |
+  | Overall Record | Career Overall Record |
   
 # Acknowledgements
 
 Player of the week - scraped from [basketball real GM](https://basketball.realgm.com/)
 Historical NBA Head Coaches- scraped from [basketball real GM](https://basketball.realgm.com/nba/staff-members/20/Head-Coach/Historical)
-NBA Coach of the Year Recipients - scraped from [basketball real GM](https://basketball.realgm.com/nba/awards/by-type/Coach-of-the-Year/9001)
+NBA Coach of the Year Recipients - scraped from [espn](http://www.espn.com/nba/history/awards/_/id/34)

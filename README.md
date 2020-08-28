@@ -69,5 +69,7 @@ You can find the full data sets that I scraped, my analysis and others on [Kaggl
 # Acknowledgements
 
 Player of the week - scraped from [basketball real GM](https://basketball.realgm.com/)
+
 Historical NBA Head Coaches- scraped from [basketball real GM](https://basketball.realgm.com/nba/staff-members/20/Head-Coach/Historical)
+
 NBA Coach of the Year Recipients - scraped from [espn](http://www.espn.com/nba/history/awards/_/id/34)

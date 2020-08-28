@@ -1,7 +1,7 @@
 # NBA_scraping_analysis
 You can find the full data sets that I scraped, my analysis and others on [Kaggle Profile](https://www.kaggle.com/jacobbaruch)
 
-## Player of the week
+## Player of the week [Kaggle Dataset] (https://www.kaggle.com/jacobbaruch/nba-player-of-the-week)
 * Scraping award data at seasons 1979-80 to 2019-20.
 * Analysis award behavior
 #### Parameters

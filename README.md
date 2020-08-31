@@ -1,7 +1,9 @@
 # NBA_scraping_analysis
 You can find the full data sets that I scraped, my analysis and others on [Kaggle Profile](https://www.kaggle.com/jacobbaruch)
+- [1. Player of the week](#1-player-of-the-week)
+- [2. Head Coaches](#2-head-coaches)
 
-## Player of the week 
+## 1. Player of the week 
 [Kaggle Dataset](https://www.kaggle.com/jacobbaruch/nba-player-of-the-week)
 * Scraping award data at seasons 1979-80 to 2019-20.
 * Analysis award behavior
@@ -22,9 +24,9 @@ You can find the full data sets that I scraped, my analysis and others on [Kaggl
  | Weight | Pounds / KG|
  | Real Value | If two awards given [east & west] on the same week the player gets 0.5 point else gets 1 point |
 
-## Head Coaches 
+## 2. Head Coaches 
 [Kaggle Dataset](https://www.kaggle.com/jacobbaruch/nba-head-coaches)
-### 1.Historical NBA Head Coaches
+### A.Historical NBA Head Coaches
  Scraping info about head coaches, starting from 1947
 
  #### Parameters
@@ -41,7 +43,7 @@ You can find the full data sets that I scraped, my analysis and others on [Kaggl
   | End season short | for example 2017|
   | Num of teams | |
  
-### 2.NBA Coach of the Year Recipients
+### B.NBA Coach of the Year Recipients
  Scraping info about NBA coach of the year, starting from 1963
 
  #### Parameters

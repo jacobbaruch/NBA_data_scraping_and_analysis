@@ -2,7 +2,7 @@
 You can find the full data sets that I scraped, my analysis and others on [Kaggle Profile](https://www.kaggle.com/jacobbaruch)
 1. [Player of the week](#1-player-of-the-week)
 2. [Head Coaches](#2-head-coaches)
-3. [Basketball Players Statistics per Season](#3-Basketball-Players-Stats-per-Season)
+3. [Basketball Players Statistics per Season](#3-Basketball-Players-Statistics-per-Season)
 
 ## 1. Player of the week 
 [Kaggle Dataset](https://www.kaggle.com/jacobbaruch/nba-player-of-the-week)

@@ -2,7 +2,7 @@
 You can find the full data sets that I scraped, my analysis and others on [Kaggle Profile](https://www.kaggle.com/jacobbaruch)
 1. [Player of the week](#1-player-of-the-week)
 2. [Head Coaches](#2-head-coaches)
-3. [Basketball Players Stats per Season] (#3-Basketball-Players-Stats-per-Season)
+3. [Basketball Players Statistics per Season](#3-Basketball-Players-Stats-per-Season)
 
 ## 1. Player of the week 
 [Kaggle Dataset](https://www.kaggle.com/jacobbaruch/nba-player-of-the-week)
@@ -69,7 +69,7 @@ You can find the full data sets that I scraped, my analysis and others on [Kaggl
   | College | |
   | Overall Record | Career Overall Record |
   
-## 3. Basketball Players Stats per Season
+## 3. Basketball Players Statistics per Season
 [Kaggle Dataset](https://www.kaggle.com/jacobbaruch/basketball-players-stats-per-season-49-leagues)
 * Scraping player statistics & details per season of 49 League and ~11K players (2010 - 2020)
  
@@ -117,4 +117,4 @@ Historical NBA Head Coaches- scraped from [basketball real GM](https://basketbal
 
 NBA Coach of the Year Recipients - scraped from [espn](http://www.espn.com/nba/history/awards/_/id/34)
 
-Basketball Players Stats per Season - scraped from [basketball real GM](https://basketball.realgm.com/)
+Basketball Players Statistics per Season - scraped from [basketball real GM](https://basketball.realgm.com/)

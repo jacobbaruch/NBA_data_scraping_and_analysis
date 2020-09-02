@@ -9,7 +9,7 @@ You can find the full data sets that I scraped, my analysis and others on [Kaggl
 * Scraping award data at seasons 1979-80 to 2019-20.
 * Analysis award behavior
 
-#### Parameters
+#### Info
 
  | Parameter |	Description	|
  | --- | --- |
@@ -30,7 +30,7 @@ You can find the full data sets that I scraped, my analysis and others on [Kaggl
 ### A.Historical NBA Head Coaches
  Scraping info about head coaches, starting from 1947
 
- #### Parameters
+ #### Info
 
   | Parameter |	Description	|
   | --- | --- |
@@ -72,41 +72,45 @@ You can find the full data sets that I scraped, my analysis and others on [Kaggl
 ## 3. Basketball Players Statistics per Season
 [Kaggle Dataset](https://www.kaggle.com/jacobbaruch/basketball-players-stats-per-season-49-leagues)
 * Scraping player statistics & details per season of 49 League and ~11K players (2010 - 2020)
- 
- #### Parameters
 
-  | Parameter |	Description	|
-  | --- | --- |
-  | Season | yyyy - yyyy |
-  | Stage | International, NBA: Playoffs, Regular_Season |
-  | Player | Player Full Name |
-  | Team | Team Name |
-  | GP | # Games Played |
-  | MIN | # Minutes Played |
-  | FGM | # Field Goals Made |
-  | FGA | # Field Goals Attempts |
-  | 3PM | # Three Points Made |
-  | 3PA | # Three Points Attempts |
-  | FTM | # Free Throws Made |
-  | FTA | # Free Throws Attempts |
-  | TOV | # Turnovers |
-  | PF | # Personal Fouls |
-  | ORB | # Offensive Rebounds |
-  | DRB | # Defensive Rebounds |
-  | REB | # Rebounds |
-  | AST | # Assists |
-  | STL | # Steals |
-  | BLK | # Blocks |
-  | PTS | # Points |
-  | birth_year | Birth Year |
-  | birth_month | Birth Month |
-  | birth_date | Birth Date |
-  | height | Height [Feet] |
-  | height_cm | Height [CM] |
-  | weight | Weight [Pounds] |
-  | weight_kg | Weight [KG] |
-  | nationality | Nationality |
-  | high_school | High School |
+**output files** 
+ 1. players_stats_by_season.csv - player statistics per season
+ 2. players_stats_by_season_full_details.csv - players statistics per season + details 
+ 
+ #### Info
+
+  | Parameter |	Description	| players_stats_by_season | players_stats_by_season_full_details |
+  | --- | --- | --- | --- |
+  | Season | yyyy - yyyy | v | |
+  | Stage | International, NBA: Playoffs, Regular_Season | v | |
+  | Player | Player Full Name | v | |
+  | Team | Team Name | v | |
+  | GP | # Games Played | v | |
+  | MIN | # Minutes Played | v | |
+  | FGM | # Field Goals Made | v | |
+  | FGA | # Field Goals Attempts | v | |
+  | 3PM | # Three Points Made | v | |
+  | 3PA | # Three Points Attempts | v | |
+  | FTM | # Free Throws Made | v | |
+  | FTA | # Free Throws Attempts | v | |
+  | TOV | # Turnovers | v | |
+  | PF | # Personal Fouls | v | |
+  | ORB | # Offensive Rebounds | v | |
+  | DRB | # Defensive Rebounds | v | |
+  | REB | # Rebounds | v | |
+  | AST | # Assists | v | |
+  | STL | # Steals | v | |
+  | BLK | # Blocks | v | |
+  | PTS | # Points | v | |
+  | birth_year | Birth Year | v | v |
+  | birth_month | Birth Month | v | v |
+  | birth_date | Birth Date | v | v |
+  | height | Height [Feet] | v | v |
+  | height_cm | Height [CM] | v | v |
+  | weight | Weight [Pounds] | v | v |
+  | weight_kg | Weight [KG] | v | v |
+  | nationality | Nationality | v | v |
+  | high_school | High School | v | v |
 
   
 # Acknowledgements

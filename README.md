@@ -81,27 +81,27 @@ You can find the full data sets that I scraped, my analysis and others on [Kaggl
 
   | Parameter |	Description	| players_stats_by_season | players_stats_by_season_full_details |
   | --- | --- | --- | --- |
-  | Season | yyyy - yyyy | v | |
-  | Stage | International, NBA: Playoffs, Regular_Season | v | |
-  | Player | Player Full Name | v | |
-  | Team | Team Name | v | |
-  | GP | # Games Played | v | |
-  | MIN | # Minutes Played | v | |
-  | FGM | # Field Goals Made | v | |
-  | FGA | # Field Goals Attempts | v | |
-  | 3PM | # Three Points Made | v | |
-  | 3PA | # Three Points Attempts | v | |
-  | FTM | # Free Throws Made | v | |
-  | FTA | # Free Throws Attempts | v | |
-  | TOV | # Turnovers | v | |
-  | PF | # Personal Fouls | v | |
-  | ORB | # Offensive Rebounds | v | |
-  | DRB | # Defensive Rebounds | v | |
-  | REB | # Rebounds | v | |
-  | AST | # Assists | v | |
-  | STL | # Steals | v | |
-  | BLK | # Blocks | v | |
-  | PTS | # Points | v | |
+  | Season | yyyy - yyyy | v | v |
+  | Stage | International, NBA: Playoffs, Regular_Season | v | v |
+  | Player | Player Full Name | v | v |
+  | Team | Team Name | v | v |
+  | GP | # Games Played | v | v |
+  | MIN | # Minutes Played | v | v |
+  | FGM | # Field Goals Made | v | v |
+  | FGA | # Field Goals Attempts | v | v |
+  | 3PM | # Three Points Made | v | v |
+  | 3PA | # Three Points Attempts | v | v |
+  | FTM | # Free Throws Made | v | v |
+  | FTA | # Free Throws Attempts | v | v |
+  | TOV | # Turnovers | v | v |
+  | PF | # Personal Fouls | v | v |
+  | ORB | # Offensive Rebounds | v | v |
+  | DRB | # Defensive Rebounds | v | v |
+  | REB | # Rebounds | v | v |
+  | AST | # Assists | v | v |
+  | STL | # Steals | v | v |
+  | BLK | # Blocks | v | v |
+  | PTS | # Points | v | v |
   | birth_year | Birth Year |  | v |
   | birth_month | Birth Month |  | v |
   | birth_date | Birth Date |  | v |

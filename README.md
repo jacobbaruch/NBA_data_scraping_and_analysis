@@ -102,15 +102,19 @@ You can find the full data sets that I scraped, my analysis and others on [Kaggl
   | STL | # Steals | v | |
   | BLK | # Blocks | v | |
   | PTS | # Points | v | |
-  | birth_year | Birth Year | v | v |
-  | birth_month | Birth Month | v | v |
-  | birth_date | Birth Date | v | v |
-  | height | Height [Feet] | v | v |
-  | height_cm | Height [CM] | v | v |
-  | weight | Weight [Pounds] | v | v |
-  | weight_kg | Weight [KG] | v | v |
-  | nationality | Nationality | v | v |
-  | high_school | High School | v | v |
+  | birth_year | Birth Year |  | v |
+  | birth_month | Birth Month |  | v |
+  | birth_date | Birth Date |  | v |
+  | height | Height [Feet] |  | v |
+  | height_cm | Height [CM] |  | v |
+  | weight | Weight [Pounds] |  | v |
+  | weight_kg | Weight [KG] |  | v |
+  | nationality | Nationality |  | v |
+  | high_school | High School |  | v |
+  | draft_round | Draft Round | | v |
+  | draft_pick | Draft Pick | | v |
+  | draft_team | Draft Team | | v |
+  
 
   
 # Acknowledgements
